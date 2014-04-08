@@ -1,0 +1,1020 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Arvi's Blog</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-04-08T07:24:11+00:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Arvi Krishnaswamy</name>
+  <uri>http://localhost:4000/</uri>
+  <email>arvi@alumni.iastate.edu</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Applying Lean Startup Principles To Mobile App Development]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development.html" />
+  <id>http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development</id>
+  <updated>2014-04-05T00:00:00-00:00</updated>
+  <published>2014-04-05T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;I attended &lt;a href=&quot;http://www.droidsync.in&quot;&gt;DroidSync&lt;/a&gt;, an event organized in Mumbai by my friend &lt;a href=&quot;http://www.twitter.com/prajyotm&quot;&gt;Prajyot Mainkar&lt;/a&gt; of &lt;a href=&quot;http://www.androcid.com&quot;&gt;Androcid&lt;/a&gt; for app developers and entrepreneurs. I presented a session in the Business Track about applying Lean Startup principles to Mobile App Development.&lt;/p&gt;
+
+&lt;p&gt;Read on for a quick abstract, and my slides futher below.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-new-app-idea-is-one-in-a-million&quot;&gt;Your New App Idea is One in a Million&lt;/h2&gt;
+
+&lt;p&gt;You’ve got this great new idea, but your idea literally is one in a million. There’s a million other apps on the iTunes and Play Store, and over a billion downloads. 99% of the apps are downloaded &amp;lt; 1000 times, and are launched just once.&lt;/p&gt;
+
+&lt;p&gt;Put another way, those numbers no longer have any meaning. It’s a massive junk pile of apps that solve problems no one has, or ever will.&lt;/p&gt;
+
+&lt;p&gt;In the last three years that I’ve been the Program Chair for Droidcon, I’ve noticed this pattern repeat itself with a number of app developers. We’d rather spend hours polishing our app icon than talking to real users to ensure that we are really addressing a problem they have. There’s certainly exceptions, and there are a few outstanding app entrepreneurs around. But lets be honest - they are a minority.&lt;/p&gt;
+
+&lt;h2 id=&quot;avoid-the-junk-pile&quot;&gt;Avoid the Junk Pile&lt;/h2&gt;
+
+&lt;p&gt;What can you do to avoid your app ending up in the same trash can? Well, there’s no silver bullet for sure, but my learning has been that applying Lean Startup principles to Mobile App Development can help. These principles provide a structured approach to experimentation, customer development, and learning. They will help you ensure that what you are building is what someone out there &lt;em&gt;really wants&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;be-a-lean-mobile-startup&quot;&gt;Be a Lean Mobile Startup&lt;/h2&gt;
+
+&lt;p&gt;My slides also cover off a few tips to work around common objections to applying lean to mobile app dev such as longer dev cycles, the need for a big bang app launch to get higher rankings and wider distribution, and a lack of A/B testing and cohorts analysis tools.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe src=&quot;http://arg0s.in/lean-mobile-startup-slides&quot; width=&quot;100%&quot; height=&quot;400px&quot; id=&quot;iframe1&quot; marginheight=&quot;0&quot; frameborder=&quot;0&quot; onload=&quot;autoResize(&#39;iframe1&#39;);&quot;&gt;&lt;/iframe&gt;
+&lt;figcaption&gt;Click on the navigation buttons or swipe to view the slides.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Got feedback or other ideas about how you’ve applied lean to your app development? Chime in in the comments below. Or, &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;Follow me on Twitter&lt;/a&gt; for more updates and discussions.&lt;/p&gt;
+
+&lt;p&gt;My thanks for inputs &amp;amp; ideas that have contributed to these slides go to: &lt;a href=&quot;http://www.twitter.com/ashmaurya&quot;&gt;@ashmaurya&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/mtrajan&quot;&gt;@mtrajan&lt;/a&gt;, my team at &lt;a href=&quot;http://www.levitum.in&quot;&gt;Levitum&lt;/a&gt; and various members of the &lt;a href=&quot;http://www.twitter.com/droidconIN&quot;&gt;@droidconIN&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/pncamp&quot;&gt;@pncamp&lt;/a&gt; and &lt;a href=&quot;http://www.twitter.com/blrdroid&quot;&gt;@blrdroid&lt;/a&gt; communities.&lt;/p&gt;
+
+&lt;p&gt;Also a big shout out to the other awesome speakers &lt;a href=&quot;http://twitter.com/amsanjeev&quot;&gt;Amrit&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/ravivyas84&quot;&gt;Ravi&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/PG1O1&quot;&gt;Prateek&lt;/a&gt;, Garima, Boaz, and Santosh. The highlight of the day for me was the time we spent having an open chat with the audience from the stage. And thanks once again for Androcid for pulling off a great event, and wonderful hospitality. They also organized NitroDroid in Goa, and doing a great job broadening and enabling the ecosystem.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development.html&quot;&gt;Applying Lean Startup Principles To Mobile App Development&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on April 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Three Tennis Serve Tips I Wish I Had Known Earlier]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier.html" />
+  <id>http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier</id>
+  <published>2014-01-10T00:00:00+00:00</published>
+  <updated>2014-01-10T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;When I watch Roger Federer serve, his fluid brilliance is incredibly captivating. Balanced and relaxed start position. Check. Graceful rocking motion. Check. Rapid arm pronation. Check. Explosion at contact. Check. It’s poetry in motion.&lt;/p&gt;
+
+&lt;p&gt;If you’d watch me serve a year back, my inconsistency was jarring. My toss would floats up to a different place every time, as if carried by a sudden gust of wind. I would move my right foot as if I’m kick starting a motorbike. As my serve would start to falter, I’d start to toss the ball higher and try hitting it harder, as if that would magically start to work some magic.&lt;/p&gt;
+
+&lt;p&gt;And that’s when I discovered set of marvellous YouTube videos that helped me tune my technique.&lt;/p&gt;
+
+&lt;p&gt;My serve isn’t terrific yet, but there’s a marked improvement. I’m more fluid and relaxed. The toss is more consistent. I’m able to consistently get a mix of flat, top spin and slice serves in and mix up the placement for some variety.&lt;/p&gt;
+
+&lt;p&gt;There’s a few things that I learnt along the way that may help you. I’ve consolidated the videos around these learnings to make this a lot easier for you to follow along.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-toss-the-ball&quot;&gt;#1. Don’t Toss the Ball&lt;/h2&gt;
+
+&lt;p&gt;Counter intuitive as it may seem, one of the main challenges I’d had all along was that I was &lt;em&gt;tossing&lt;/em&gt; the ball in the air. Inadvertently, I was using my wrist or elbow which ended up making the ball move around.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/CnMolTSCUqo&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Roger in full fluid motion.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The key lessons to learn here are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Don’t bend the elbow on the toss&lt;/li&gt;
+  &lt;li&gt;Keep your wrist relaxed&lt;/li&gt;
+  &lt;li&gt;Remember that when you release the ball you must &lt;em&gt;not&lt;/em&gt; impart any additional momentum to it - the ball release is just an extension of the upward movement of your arm.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ZTg9gpMtAmw&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Here&#39;s another one on the toss position for different types of serves.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One great tip that helped me was to switch how I held the ball. Earlier, I used to hold the ball with my finger tips. I struggled with this, since I invariably imparted some momentum or spin with my fingers or wrist. Instead, I switched to a new toss grip which locked my wrist. I started to hold the ball the way I’d hold an ice cream cone.&lt;/p&gt;
+
+&lt;h3 id=&quot;b-the-ice-cream-cone-release&quot;&gt;#1-b. The Ice Cream Cone Release&lt;/h3&gt;
+
+&lt;p&gt;The idea is simple. Relax your wrist, and hold the ball between your curled forefinger and thumb, just like you’d hold an ice cream cone. As your arm extends upwards, the release is a natural extension of the moment. The cone grip avoids adding momentum across the forward/backward axis since your wrist is locked. For an example, watch the video below of Roger Federer tossing the ball.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/r8Ag2PPam5o&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Pop the cone.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;relax-your-wrist&quot;&gt;#2. Relax Your Wrist&lt;/h2&gt;
+
+&lt;p&gt;Most of the other strokes - the forehand, backhand and volleys require that our wrist be firm. And it turns out, there’s a perfectly logical explanation for this. In those cases, the ball is already in motion, and keeping our wrist loose makes it harder for us to control the racquet face at the point of contact. The serve is the one stroke
+where the player has total control (well, once you’ve got a handle on the toss) over the ball position at the point of contact.&lt;/p&gt;
+
+&lt;p&gt;Relaxing your wrist causes the racquet head to gain additional rotation momentum as it heads towards the point of contact. This rotational momentum is what helps generate slight top spin, which keeps a flat serve inside the court.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/EgmNag6Ebyw&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Relax your wrist, and unlock the potential of your serve.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Wait, did I just say a flat serve involves top spin? Yes, I did. The fact is, a tennis player needs to be 7-8 feet tall to hit a &lt;em&gt;flat&lt;/em&gt; serve into the court. All flat serves involve a bit of spin to keep them in.&lt;/p&gt;
+
+&lt;p&gt;Ever heard someone ask you to ‘hit down on the ball’? Well, now you know the physics behind what they were asking you to do. They are right in that this is different from a top spin serve (more on that later), but there’s a certain amount of spin needed to work the magic.&lt;/p&gt;
+
+&lt;p&gt;And that, my friend, is one of the little implicit secrets of the serve.&lt;/p&gt;
+
+&lt;h2 id=&quot;dont-hit-through-the-ball---throw-your-racquet-at-it&quot;&gt;#3. Don’t Hit Through The Ball - Throw Your Racquet At It&lt;/h2&gt;
+
+&lt;p&gt;I’d heard this several times before, but I just found it really hard to execute. For the longest time, I’d swing at the ball the same way I would with my forehand or backhand. The racquet face would be open so that I could ensure that I middled the ball in the sweet spot.&lt;/p&gt;
+
+&lt;p&gt;There’s a hard learning for many of us to accept. It’s that we tend to over think many of these things. So I’ll need you to just suspect any analysis in your mind and just hear out what I’ll advice on next.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quit trying to hit &lt;em&gt;through&lt;/em&gt; the ball.&lt;/li&gt;
+  &lt;li&gt;Throw your racquet at the ball, just like you are throwing a hammer for someone to catch.&lt;/li&gt;
+  &lt;li&gt;Keep your wrist relaxed throughout and do &lt;em&gt;not&lt;/em&gt; consciously rotate the racquet face.
+    &lt;ul&gt;
+      &lt;li&gt;This is &lt;em&gt;really&lt;/em&gt; important, and but it’s hard to get right initially.&lt;/li&gt;
+      &lt;li&gt;You may hit a few balls over the fence, but don’t let that dissuade you.&lt;/li&gt;
+      &lt;li&gt;Keep in mind that you are likely trying to &lt;em&gt;unlearn&lt;/em&gt; what you’ve been doing for a while.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;natural pronation&lt;/em&gt; of your wrist will take care of rotating the racquet face in time to meet the ball with the racquet face facing the court.&lt;/li&gt;
+  &lt;li&gt;Initially, just focus on the biomechanics and rhythm of the movement, and ignore where the ball actually lands. You can work on that easily later once you’ve got the mechanics going.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Y1C6V_3s4nA&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Explanation of tennis serve pronation.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What you’ll soon notice is that you’ll start to see much better racquet head speed on your serves, and movement will be more effortless. In fact, if you observe the videos of Sampras serving closely enough, you’ll see how his wrist drops all the way pronated outwards after his ‘snap’.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/4DpptgXq5j4&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;The Sampras serve and pronation in action.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Hope these are useful to you. Please chime in via the comments, or let me know on &lt;a href=&quot;http://www.twitter.com/twitortat&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier.html&quot;&gt;Three Tennis Serve Tips I Wish I Had Known Earlier&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Making Droidcon Bigger Better]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/making-droidcon-bigger-better.html" />
+  <id>http://localhost:4000/making-droidcon-bigger-better</id>
+  <published>2013-09-25T00:00:00+00:00</published>
+  <updated>2013-09-25T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;//droidcon.in&quot;&gt;&lt;img src=&quot;static/images/droidcon.jpg&quot; alt=&quot;Droidcon India&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://droidcon.in/2013/&quot;&gt;Droidcon&lt;/a&gt; is India’s largest Android conference, and is part of the &lt;a href=&quot;http://droidcon.com/&quot;&gt;international chain&lt;/a&gt; of Droidcon conferences that happen in &lt;a href=&quot;http://de.droidcon.com/&quot;&gt;Berlin&lt;/a&gt;, &lt;a href=&quot;http://fr.droidcon.com/&quot;&gt;Paris&lt;/a&gt;, &lt;a href=&quot;http://uk.droidcon.com/&quot;&gt;London&lt;/a&gt;, &lt;a href=&quot;http://es.droidcon.com/&quot;&gt;Madrid&lt;/a&gt;, &lt;a href=&quot;http://ro.droidcon.com/&quot;&gt;Bucharest&lt;/a&gt; and other cities around the world. The event is organized by my good friends &lt;a href=&quot;https://twitter.com/jackerhack&quot;&gt;Kiran&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/zainabbawa&quot;&gt;Zainab&lt;/a&gt;, and their tireless team at &lt;a href=&quot;www.hasgeek.in&quot;&gt;HasGeek&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For the third year now (&lt;a href=&quot;https://droidcon.in/2011/&quot;&gt;2011&lt;/a&gt;, &lt;a href=&quot;https://droidcon.in/2012/&quot;&gt;2012&lt;/a&gt;, &lt;a href=&quot;https://droidcon.in/2013/&quot;&gt;2013&lt;/a&gt;), I’m reprising my role as the Program Chair, working with a committee of industry and community experts who volunteer their time to assist with setting the vision for the conference, developing themes, identifying great speakers, and curating their content.&lt;/p&gt;
+
+&lt;p&gt;It’s never been an easy role volunteering for. Life at &lt;a href=&quot;//levitum.com&quot;&gt;Levitum&lt;/a&gt; has always been hectic as all startups are, offering limited time for social responsibilities. Both &lt;a href=&quot;//www.musiguru.in&quot;&gt;Musiguru&lt;/a&gt; and &lt;a href=&quot;//www.singr.in&quot;&gt;Singr&lt;/a&gt; are in a major growth phase, and we have other initiatives in alpha. Also, since &lt;a href=&quot;//www.projectemm.com&quot;&gt;Monami&lt;/a&gt; is busy with her private art gallery and studio (she works Saturdays as well), we try to make the most of time we have together. This invariably leaves me with a lot less time for community events, and borrowed time usually means dropping something else on our list. The last two years, it’s taken a &lt;em&gt;lot&lt;/em&gt; of long days and nights in the month leading up to Droidcon to pull things together, and a lot of flexibility from others at home and work to support me. &lt;em&gt;This is just a shout out to say how much I appreciate them&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;plan&quot;&gt;2013 Plan&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;//www.droidcon.in&quot;&gt;&lt;img src=&quot;static/images/meme_advanced_topics.jpeg&quot; alt=&quot;More advanced topics&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, we’re really pushing ourselves to make Droidcon &lt;em&gt;bigger&lt;/em&gt;, and &lt;em&gt;better&lt;/em&gt;. In an effort to retain our sanity and those of people around us while doing so, we’ve begun preps sufficiently in advance so that there’s more time for everything. We’re also aware of the fatigue that accompanies conference season, and are looking for speakers that have &lt;em&gt;fresh&lt;/em&gt; and &lt;em&gt;original&lt;/em&gt; things to share.&lt;/p&gt;
+
+&lt;p&gt;One thing we’ve done differently is we’ve broken things into separate tracks. Two of the tracks will run in parallel at any point, presenting attendees from various streams with sufficient choices.&lt;/p&gt;
+
+&lt;h2 id=&quot;systems&quot;&gt;Systems&lt;/h2&gt;
+
+&lt;p&gt;The Systems track runs across two days, and covers &lt;em&gt;all&lt;/em&gt; aspects of the Android stack. Its being run by &lt;a href=&quot;//twitter.com/kumrr&quot;&gt;Kumar&lt;/a&gt; of the LittleEyeLabs team. I’m so impressed by these guys, they should totally be running the &lt;em&gt;whole&lt;/em&gt; event instead of me. There’s a ton of stuff to cover here, and they are already reaching to a number of folks to provide breadth and depth to the track. &lt;a href=&quot;//twitter.com/gauravl&quot;&gt;Gaurav’s&lt;/a&gt; &lt;a href=&quot;https://twitter.com/gauravl/status/381336687646752768&quot;&gt;tweet&lt;/a&gt; to &lt;a href=&quot;//twitter.com/koush&quot;&gt;Koushik&lt;/a&gt; got a lot of &lt;a href=&quot;https://twitter.com/gauravl/status/381336687646752768&quot;&gt;buzz&lt;/a&gt; on Twitter, and we’re hoping to bring him down.&lt;/p&gt;
+
+&lt;p&gt;There will be some overlap between Workshops &amp;amp; Systems with some of the advanced hands on session being broken out as longer workshops.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“ We need more advanced, in depth talks ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This shall give the speakers an opportunity to do code walkthroughs and guide attendees.&lt;/p&gt;
+
+&lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
+
+&lt;p&gt;A recurring theme at every Droidcon has been the need to help developers understand how to build well designed apps, and to help young designers gain more exposure and experience.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“ We get technology, but not design ”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, I roped in my friend &lt;a href=&quot;//twitter.com/gonsalves_r&quot;&gt;Rahul&lt;/a&gt; of Uncommon to help steer the design track. He is currently considering running a UX panel discussion followed by three speaker sessions - beginner, intermediate and advanced level sessions.&lt;/p&gt;
+
+&lt;h2 id=&quot;gaming&quot;&gt;Gaming&lt;/h2&gt;
+
+&lt;p&gt;Ever since &lt;a href=&quot;http://developer.android.com/google/play-services/games.html&quot;&gt;Google Play Game Services&lt;/a&gt; were announced, everyones been dying to figure out how to take advantage of all the new cool additions. &lt;a href=&quot;//twitter.com/ravikorukonda&quot;&gt;Ravi&lt;/a&gt; of PurpleTalk, who was also on the committee during the first Droidcon rejoins us to help drive a forward looking gaming track. Expect to see some of the top game developers come forward to share their experiences and plans. Ravi is planning on one panel discussion, and a few speaker sessions.&lt;/p&gt;
+
+&lt;h2 id=&quot;business&quot;&gt;Business&lt;/h2&gt;
+
+&lt;p&gt;We’re bringing together product managers, advertisers, OEMs, and investors to the same table to offer a 360º view of the Android ecosystem. Expect discussion about product development lifecycles, marketing tips and tricks, new emerging trends at a macro level, monetization tips, and how you can build a business around building Android apps. I’ll be running this track with some assistance from &lt;a href=&quot;//twitter.com/pacificleo&quot;&gt;Prashant&lt;/a&gt; of Signals.&lt;/p&gt;
+
+&lt;p&gt;One of the things we’re conscious of is that this is a developer event. So, we’re keen to bring forward business speakers who can present insights that are relevant to the audience.&lt;/p&gt;
+
+&lt;p&gt;Possible panels I’m considering:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://funnel.hasgeek.com/droidcon2013/877-panel-android-the-elephant-in-the-room-monetizatio&quot;&gt;Android &amp;amp; Monetization - The Elephant in the Room&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://funnel.hasgeek.com/droidcon2013/878-panel-how-can-i-get-wider-distribution-for-my-app&quot;&gt;Getting wider distribution for your apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://funnel.hasgeek.com/droidcon2013/879-panel-how-should-i-prep-for-my-app-launch&quot;&gt;How do you prep for your app launch?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://funnel.hasgeek.com/droidcon2013/880-panel-move-fast-break-things-or-polish-the-back-of&quot;&gt;Move fast, break things (OR) Polish the back of the furniture?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve reached out so far to Cleartrip, Hike, RedBus for Product Managers, and they have all expressed an interest in being involved. Next, I’ll be reaching out to InMobi and Flurry for advertising speakers. And then to a mix of app development startups with interesting monetization models or stories to tell. We will attempt to round off the ecosystem mix with Morpheus, Sony, Amazon and Intel depending on the availability of their speakers.&lt;/p&gt;
+
+&lt;p&gt;It’s not yet completely clear until we’ve nailed down more specifics, but we will experiment with at least one panel discussion and a few short speaker sessions.&lt;/p&gt;
+
+&lt;h2 id=&quot;app-demos&quot;&gt;App Demos&lt;/h2&gt;
+
+&lt;p&gt;App Demos is &lt;em&gt;the&lt;/em&gt; platform to showcase your app. &lt;a href=&quot;//twitter.com/amsanjeev&quot;&gt;Amrit&lt;/a&gt; is reaching out to developers from across the country to come show &lt;em&gt;original&lt;/em&gt; work, and talk about specific challenges they have faced. This shall be a rapid fire track with short 15 minute nuggets of wisdom.&lt;/p&gt;
+
+&lt;h2 id=&quot;hands-on-workshops&quot;&gt;Hands-on Workshops&lt;/h2&gt;
+
+&lt;p&gt;One other popular request last year was for more hands on sessions. People enjoyed 30-45 minute talks, but wanted to hear certain &lt;em&gt;good&lt;/em&gt; speakers dig in and walk them through things in more details.&lt;/p&gt;
+
+&lt;p&gt;So the good news is - We’re planning on a lot more 90-120 minute hands on workshops this year. Soham is working towards developing a series of run up workshops.&lt;/p&gt;
+
+&lt;p&gt;There will be at least a whole day of beginner level workshops led by &lt;a href=&quot;//twitter.com/s0h4m&quot;&gt;Soham&lt;/a&gt; and a few others, and at least half day of advanced workshops. &lt;a href=&quot;//twitter.com/makash&quot;&gt;TWASG&lt;/a&gt; is planning a deep dive session on Android &amp;amp; security, and Gaurav is planning a session on battery optimization &amp;amp; networking. I’m hoping we can convince Satyam, Anenth, and Kavitha to also propose workshops.&lt;/p&gt;
+
+&lt;h2 id=&quot;hackdays--hacknights&quot;&gt;Hackdays &amp;amp; Hacknights&lt;/h2&gt;
+
+&lt;p&gt;Last year’s hacknight was wildly successful, and we’re planning a whole series of them this year including 2-3 in Bangalore. And oh, it’s not just Bangalore that’s getting all the love. Look out for Droidcon hacknights coming to Chennai, Hyderabad, Delhi, Pune, and Kochi.&lt;/p&gt;
+
+&lt;h1 id=&quot;collaboration&quot;&gt;Collaboration&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;//funnel.hasgeek.com/droidcon2013&quot;&gt;&lt;img src=&quot;static/images/meme_mouth_shut.jpeg&quot; alt=&quot;Make Friends!&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This one is quite personal for me. I find that most tech conferences with multiple tracks can be a session treadmill. People dash between rooms from one talk to another, much like commuters on Mumbai’s busy trains.  While some conferences have designated spaces where people can hangout, AFAIK there’s limited focus or interest in really &lt;em&gt;enabling&lt;/em&gt; those spaces where people can get to know each other, collaborate, and find similar hobbies.&lt;/p&gt;
+
+&lt;p&gt;One of the thoughts this year is to create separate meeting spaces at the venue for at least a few of the primary tracks (Systems, Design, Gaming, Business). The MLR Convention Center in Whitefield has a number of little nooks - a mezzanine floor, a cozy room, and patio areas that would be fun areas to congregate. This would open out a number of possibilities.&lt;/p&gt;
+
+&lt;p&gt;We’re planning on coordinating with interested speakers to set up published office hours for each of the spaces (as a part of the schedule) during which they would be available for interaction at the space. This would provide an opportunity for those interested to go hangout there.&lt;/p&gt;
+
+&lt;p&gt;I explored this with Rahul, who had also some novel ideas for the Design space such as&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;setting up a small installation which would play a few videos, which can be watched simultaneously by multiple people using headsets. This then becomes an ice breaker for them to discuss an idea further.&lt;/li&gt;
+  &lt;li&gt;providing wall area, sheets of paper and a bunch of &lt;a href=&quot;http://www.uistencils.com/products/android-stencil-kit&quot;&gt;Android Stencils&lt;/a&gt; lying around for people to conceptualize ideas and use the space as they’d like to.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A few ideas for the Systems space are&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;organizing a Google I/O style treasure hunt with NFC tags &amp;amp; phones. &lt;a href=&quot;//twitter.com/twitortat&quot;&gt;Ping me&lt;/a&gt; if you’d like to help with this. Intel’s software division has volunteered one of their core NFC guys to help out.&lt;/li&gt;
+  &lt;li&gt;providing a projector &amp;amp; whiteboard space for brainstorming and code walkthroughs.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There’s also an incredibly &lt;em&gt;fun&lt;/em&gt; idea that I’ve run by Kiran &amp;amp; Zainab that they are looking into. If they can make it happen, I think it’ll be a blast, but I’m not holding my breath since there’s already a ton of things to do.&lt;/p&gt;
+
+&lt;p&gt;One of the challenges with multiple tracks is that people end up having to choose. And often enough, they end up wishing they had been at the other session. There’s always &lt;a href=&quot;www.hasgeek.tv&quot;&gt;HasGeek TV&lt;/a&gt; so you can watch the videos of sessions you missed later on. But there’s another idea I’m toying with and need more feedback on:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;starting the day with one hour of lightning talks&lt;/li&gt;
+  &lt;li&gt;each of the days’ speakers makes a 5 minute introduction to the topic they plan to present (later in the day).&lt;/li&gt;
+  &lt;li&gt;audience gets a quick preview of what to expect&lt;/li&gt;
+  &lt;li&gt;can make a slightly more informed choice about which track and session they would like to be at.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It might be interesting to start the day with a networking breakfast for the speakers so that we can get everyone together, and then go from there.&lt;/p&gt;
+
+&lt;h1 id=&quot;how-you-can-help&quot;&gt;How you can help&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;//funnel.hasgeek.com/droidcon2013&quot;&gt;&lt;img src=&quot;static/images/meme_submit_proposals.jpeg&quot; alt=&quot;Submit a Proposal!&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Community events are all about the community, and depend greatly on those around being willing to give back to the community that has helped them. We’ve been fortunate to have had great speakers come forward from the community and share their knowledge and learnings. Everybody wins in a vibrant community.&lt;/p&gt;
+
+&lt;p&gt;If you are a speaker, here’s a few things you can do to help out&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Provide a detailed speaker bio which helps the community understand why you are the best person for that talk. Include speaker bios, links to past videos or slides, and links to reference material.&lt;/li&gt;
+  &lt;li&gt;Provide a slide outline early. Use sites like &lt;a href=&quot;//slid.es&quot;&gt;Slid.es&lt;/a&gt; which enable you to easily publish a link to work in progress drafts.&lt;/li&gt;
+  &lt;li&gt;Keep your audience in mind, pace your self, and ensure you have sufficient material to keep them engaged throughout.&lt;/li&gt;
+  &lt;li&gt;Be open to feedback and suggestions from the community and committee - remember that they are taking time out to help you.&lt;/li&gt;
+  &lt;li&gt;Make yourself available to engage with the audience offline after the talk. Motivate and inspire others around you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;If you are an attendee, here’s a few things you can to do to help out&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Vote for the speakers you like early in the process via the &lt;a href=&quot;//funnel.hasgeek.com/droidcon2013&quot;&gt;Droidcon Funnel&lt;/a&gt;. While it may appear that some speakers attempt to game the system by having their friends, family and dog vote for them, the Program Committee separately accounts for the subset of votes from those who are &lt;em&gt;actually&lt;/em&gt; attending the conference. Gotcha, gamers.&lt;/li&gt;
+  &lt;li&gt;If what you are looking for is hands on training, plan on attending the pre-conference workshops. Conference sessions can provide insight into new things and help with direction and resources, but are not meant to be full on training sessions. We’re planning these workshops precisely to cater to those would like to dig in further. Note that workshops require pre-registration since we are limiting capacity to ensure there’s sufficient training time devoted for each individual.&lt;/li&gt;
+  &lt;li&gt;Skip a few sessions. Seriously. Go hang out in the difference spaces created for each track so that you can interact directly with others (including the speakers). Make a few new friends, find things in common &amp;amp; have a good time. Don’t miss the event party - it’s always a fun place to catch up with others away from the conference.&lt;/li&gt;
+  &lt;li&gt;Recognize that this is a community driven event. If you dont see topics being submitted in areas that interest you, either
+    &lt;ul&gt;
+      &lt;li&gt;come forward and &lt;em&gt;propose a topic yourself&lt;/em&gt;. If you dont fancy yourself as an expert in the area, consider a beginner level session proposal. You’d still have an impact on a large audience, and may be amazed at how much more you may connect with people than the experts from their ivory towers.&lt;/li&gt;
+      &lt;li&gt;nudge good speakers you’d like to see at Droidcon like what Gaurav did &lt;a href=&quot;https://twitter.com/gauravl/status/381336687646752768&quot;&gt;here&lt;/a&gt; to say you’re a fan of their work. &lt;em&gt;After all, who doesnt love their fans?&lt;/em&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Have more suggestions or feedback? Speak easy in the comments or feel free to ping me or the other committee members on Twitter.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Aravind Krishnaswamy is Co-Founder, &lt;a href=&quot;//levitum.com&quot;&gt;Levitum&lt;/a&gt;. He is a volunteer at &lt;a href=&quot;//droidcon.in&quot;&gt;Droidcon&lt;/a&gt;, and chairs the Program Committee&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/making-droidcon-bigger-better.html&quot;&gt;Making Droidcon Bigger Better&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on September 25, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[My First Pycon]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/my-first-pycon.html" />
+  <id>http://localhost:4000/my-first-pycon</id>
+  <published>2013-09-19T00:00:00+00:00</published>
+  <updated>2013-09-19T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;Late last month, &lt;a href=&quot;//twitter.com/vinuthomas&quot;&gt;Vinu&lt;/a&gt;, Aditya, Jay and I attended &lt;a href=&quot;//twitter.com/pyconindia&quot;&gt;Pycon India&lt;/a&gt; for the first time. I made a presentation about the technology stack we use at &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; for the backend some of our apps. We use a heady cocktail of &lt;code&gt;Flask&lt;/code&gt;, &lt;code&gt;Redis&lt;/code&gt;, &lt;code&gt;CouchDB&lt;/code&gt;, &lt;code&gt;Postgres&lt;/code&gt;, &lt;code&gt;Heroku&lt;/code&gt;, &lt;code&gt;Gunicorn&lt;/code&gt;, and &lt;code&gt;Gevent&lt;/code&gt; and have several hundred thousand users using the apps we’ve built.&lt;/p&gt;
+
+&lt;p&gt;Ok there, I just tossed out a bunch of buzz words to make this post sound cool. But read on anyway.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Thanks &lt;a href=&quot;https://twitter.com/kennethreitz&quot;&gt;@kennethreitz&lt;/a&gt; for the appreciation of my talk at &lt;a href=&quot;https://twitter.com/pyconindia&quot;&gt;@pyconindia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia&amp;amp;src=hash&quot;&gt;#pyconindia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia2013&amp;amp;src=hash&quot;&gt;#pyconindia2013&lt;/a&gt; &lt;a href=&quot;http://t.co/IHhAdSgaND&quot;&gt;pic.twitter.com/IHhAdSgaND&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aravind Krishnaswamy (@twitortat) &lt;a href=&quot;https://twitter.com/twitortat/statuses/374078828915613696&quot;&gt;September 1, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;Turns out, &lt;a href=&quot;http://www.twitter.com/kennethreitz&quot;&gt;Kenneth Reitz&lt;/a&gt;, the python honcho at &lt;a href=&quot;http://www.heroku.com&quot;&gt;Heroku&lt;/a&gt; was impressed enough to give me a $300 gift card. Kenneth told me normally gives out $10-$25 cards, and I’m only the &lt;em&gt;second&lt;/em&gt; person to receive one. So clearly, I must be good PR for Heroku.&lt;/p&gt;
+
+&lt;p&gt;Here’s my slides from the talk, powered by the nifty &lt;a href=&quot;http://www.slid.es&quot;&gt;Slid.es&lt;/a&gt;. I picked up a Pro account with them so I could use my slides offline and not deal with Murphys law kicking in with conference Wi-Fi.&lt;/p&gt;
+
+&lt;iframe src=&quot;http://slid.es/arg0s/chugging-flask/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;If you like the slides, check out the &lt;a href=&quot;//www.youtube.com/embed/swRtWJLUmLI&quot;&gt;full video&lt;/a&gt; on Youtube. And if you like the video as well, give me a shout in the comments. I ended up packing in way too much gyaan, and ran out of time. Next time, it’d probably make sense to break these into individual talks.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, a bunch of people enjoyed it. I touched upon a number of resources which I hope provide direction for others to dig into further and inspire them explore things on their own.&lt;/p&gt;
+
+&lt;p&gt;So far, over 400 views of the slide deck. And plenty of kudos on Twitter.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Always wanted to know about FLASK and HHEROKU. Thanks to &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; for giving a good insight. Credits to &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia2013&amp;amp;src=hash&quot;&gt;#pyconindia2013&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;&amp;mdash; Ritesh Bhat (@Ritesh_Bhat) &lt;a href=&quot;https://twitter.com/Ritesh_Bhat/statuses/373685329930117120&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Awesome talk from &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23PyConIndia2013&amp;amp;src=hash&quot;&gt;#PyConIndia2013&lt;/a&gt;&lt;/p&gt;&amp;mdash; Suplab Debnath (@beingsuplab) &lt;a href=&quot;https://twitter.com/beingsuplab/statuses/373685406044131328&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; some great random gyaan there. &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia&amp;amp;src=hash&quot;&gt;#pyconindia&lt;/a&gt;&lt;/p&gt;&amp;mdash; Chitra Singh (@chit_raa) &lt;a href=&quot;https://twitter.com/chit_raa/statuses/373684946772045824&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Great bit of gyaan by &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; ! &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia2013&amp;amp;src=hash&quot;&gt;#pyconindia2013&lt;/a&gt;&lt;/p&gt;&amp;mdash; Yes! The Seeker (@90sManiac) &lt;a href=&quot;https://twitter.com/90sManiac/statuses/373719997941436417&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; btw awsome research done and nice presentation... :D&lt;/p&gt;&amp;mdash; Pankaj Anand (@Pankajanand26) &lt;a href=&quot;https://twitter.com/Pankajanand26/statuses/373730486440300544&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Good insights on how powerful can a micro framework like flask be. Thanks to &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia2013&amp;amp;src=hash&quot;&gt;#pyconindia2013&lt;/a&gt;&lt;/p&gt;&amp;mdash; Suganthi (@enthudrives) &lt;a href=&quot;https://twitter.com/enthudrives/statuses/373689802815569920&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Best talks of &lt;a href=&quot;https://twitter.com/search?q=%23PyConIndia2013&amp;amp;src=hash&quot;&gt;#PyConIndia2013&lt;/a&gt; Day 2 : chugging flask by &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; and ZeroMQ by &lt;a href=&quot;https://twitter.com/cnu&quot;&gt;@cnu&lt;/a&gt;. Most other talks were advertisement by sponsors&lt;/p&gt;&amp;mdash; Salil Panikkaveettil (@salilpa) &lt;a href=&quot;https://twitter.com/salilpa/statuses/373835754373263360&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
+
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Thanks everyone for all the love. &lt;em&gt;You&lt;/em&gt; made all the hard work that went into the prep &lt;em&gt;totally&lt;/em&gt; worth it.&lt;/p&gt;
+
+&lt;p&gt;Also, thanks to &lt;a href=&quot;//twitter.com/vinuthomas&quot;&gt;Vinu&lt;/a&gt;, Jay, &lt;a href=&quot;//twitter.com/jackerhack&quot;&gt;Kiran&lt;/a&gt; &amp;amp; &lt;a href=&quot;//twitter.com/noufalibrahim&quot;&gt;Noufal&lt;/a&gt; for their feedback on the slides.&lt;/p&gt;
+
+&lt;p&gt;Lots of great things about the conference&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;There were over a 1000 people. That’s huge for an event that’s totally community volunteer driven. Blows my mind.&lt;/li&gt;
+  &lt;li&gt;After my talk, a number of interesting people came by and engaged in insightful conversations. Made a bunch of new friends.&lt;/li&gt;
+  &lt;li&gt;Lots of terrific speakers who came well prepared, and delivered engaging, structured presentations.&lt;/li&gt;
+  &lt;li&gt;Amazed to see how python is now being used in so many different ways. Even &lt;a href=&quot;http://mpi4py.scipy.org/docs/usrman/intro.html#what-is-mpi&quot;&gt;MPI&lt;/a&gt; has a python layer now.&lt;/li&gt;
+  &lt;li&gt;Kiran &amp;amp; Kenneth delivered outstanding keynotes.&lt;/li&gt;
+  &lt;li&gt;I’d love to know who catered the lunch. I dont think I met anyone who didnt like it.&lt;/li&gt;
+  &lt;li&gt;Conference wi-fi actually held out throughout, which seems to be a rarity at other events.&lt;/li&gt;
+  &lt;li&gt;For a change, a lot of the sponsored booths were quite interesting and it was nice to go around and talk to them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;IMO, The only downside of python becoming as big as it is now, is that there were &lt;a href=&quot;http://in.pycon.org/funnel/2013/88-predicting-black-swan-events&quot;&gt;certain topics&lt;/a&gt; where I probably followed less than 1/3rd of what the knowledgable speaker was presenting due to the nature of the problem domain.&lt;/p&gt;
+
+&lt;p&gt;While it’s arguably good to be exposed to new topics, I wonder whether it may have been beneficial to have the schedule grouped into topics such as&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;python for newbies&lt;/li&gt;
+  &lt;li&gt;python &amp;amp; web&lt;/li&gt;
+  &lt;li&gt;python language and its intricacies&lt;/li&gt;
+  &lt;li&gt;python &amp;amp; scientific community&lt;/li&gt;
+  &lt;li&gt;python 3.x&lt;/li&gt;
+  &lt;li&gt;python &amp;amp; devops&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This would arguably provide more focus and depth to each of these areas. And in between these, you’d have larger blocks of free time to socialize &amp;amp; just chill.&lt;/p&gt;
+
+&lt;p&gt;But then, maybe it’s just me that feels this way.&lt;/p&gt;
+
+&lt;p&gt;Invariably, there’s always tradeoffs between single-track vs multiple-track vs mish-mash. You cant make everyone happy, and shouldnt try.&lt;/p&gt;
+
+&lt;p&gt;Great job by the organizers. Congrats for making Pycon 2013 a great success.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/my-first-pycon.html&quot;&gt;My First Pycon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on September 19, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A Case For Paid Trials Instead Of Interviews]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/a-case-for-paid-trials-instead-of-interviews.html" />
+  <id>http://localhost:4000/a-case-for-paid-trials-instead-of-interviews</id>
+  <published>2013-09-16T00:00:00+00:00</published>
+  <updated>2013-09-16T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Only 1 in 10 startups survives growth from initial co-founders to 10 people. Only 1 in 10 makes the next leap to a 100.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;em&gt;Invariably, hiring is a struggle at startups as they attempt to scale organically while retaining the culture and roots of their early days.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;At many startups and small companies that I’ve known, executives run a fairly tight ship. Even all the way through 70-100 employees, its not uncommon to see several people wearing many different hats.&lt;/p&gt;
+
+&lt;h1 id=&quot;hiring-is-hard&quot;&gt;Hiring is hard&lt;/h1&gt;
+
+&lt;p&gt;It’s worth reading a compilation by &lt;a href=&quot;http://www.twitter.com/swaroopch&quot;&gt;@swaroopch&lt;/a&gt; about the &lt;a href=&quot;http://swaroopch.com/2010/11/22/reasons-indian-startups-struggle-hiring/&quot;&gt;startup hiring challenges in India&lt;/a&gt;. Also, &lt;a href=&quot;http://twitter.com/guglanisam&quot;&gt;@guglanisam&lt;/a&gt; has outlined methods that have &lt;a href=&quot;http://www.guglanisam.me/hiring-method-that-works/&quot;&gt;worked for Morpheus portfolio companies&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;There’s a few common problems that I’ve observed (note that these not exclusively startup issues)&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Young leaders have limited experience with the recruitment process, skills assessment, and how to fill out a team.
+    &lt;ul&gt;
+      &lt;li&gt;Hiring is often &lt;em&gt;whimsical&lt;/em&gt;, without a sense of balancing a team out so that they can collaborate well together.&lt;/li&gt;
+      &lt;li&gt;Managers either look for people &lt;em&gt;similar&lt;/em&gt; to themselves, or those who are the exact &lt;em&gt;opposite&lt;/em&gt;.&lt;/li&gt;
+      &lt;li&gt;Expectations for new hires are not set clearly leading to fatigue a year or two into the job.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;HR staff are given position requirements which list totally unrealistic expectations about the role.
+    &lt;ul&gt;
+      &lt;li&gt;HR ends up spending months working with recruiters to fill positions.&lt;/li&gt;
+      &lt;li&gt;Recruiters get frustrated and lose interest in chasing down the requirements.&lt;/li&gt;
+      &lt;li&gt;Since it’s hard to find a fit easily, candidates end up being on the ‘back burner’ for weeks altogether and often lose interest.&lt;/li&gt;
+      &lt;li&gt;Good candidates end up getting filtered due to the nature of the recruitment keyword filters. HR looks for ready skills, but cannot &lt;em&gt;measure potential&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Candidates end up interviewing with &lt;em&gt;half the company&lt;/em&gt; before decisions are made.
+    &lt;ul&gt;
+      &lt;li&gt;Particularly common with Indian subsidiaries of small companies, senior candidates go through several rounds of telephonic interviews with overseas interviews in addition to various rounds locally.&lt;/li&gt;
+      &lt;li&gt;Sometimes, even junior developers end up going through a number of rounds of discussions.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Despite complex hiring processes with checks and balances, bad hires happen.
+    &lt;ul&gt;
+      &lt;li&gt;These are inevitably a major drain on the organization.&lt;/li&gt;
+      &lt;li&gt;In addition to 15-20% payouts to the head hunters, the loss is the significant amount of organizational time and energy that goes in.&lt;/li&gt;
+      &lt;li&gt;Bad hires lead to a knee jerk response in the recruiting strategy, and an eventual downward spiral.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Given the rapid go-go culture of small companies, there’s often very little time to reflect on hiring mistakes, and to work through these issues upstream.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, this ends up being a huge issue. For most small companies, people are often their &lt;em&gt;biggest asset&lt;/em&gt; and hiring mistakes can blow through your plans pretty quickly, causing tensions with the team, a loss of productivity, and eventual attrition.&lt;/p&gt;
+
+&lt;h2 id=&quot;screening&quot;&gt;Screening&lt;/h2&gt;
+
+&lt;p&gt;The folks at &lt;a href=&quot;http://www.interviewstreet.com&quot;&gt;InterviewStreet&lt;/a&gt; have developed a model that lets you run candidates through programming tests and puzzles (including custom modules). I think this has &lt;em&gt;huge&lt;/em&gt; potential, and I expect that this would alleviate a lot of the &lt;em&gt;pre-screening&lt;/em&gt; that tends to happen in the recruiting process to sieve out resumes.&lt;/p&gt;
+
+&lt;h1 id=&quot;make-new-friends-work-with-them&quot;&gt;Make new friends, work with them&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The relationship between early founders of a startup is like a marriage.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You end up spending so much time with your team at a startup, that it’s important that your working relationship thrives through the highs and lows.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s important to work with people who are nice. But in startups, it’s nice to work with people who collaborate when shit hits the ceiling.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So, how do you make new friends and find people to grow your startup team?&lt;/p&gt;
+
+&lt;p&gt;You local community may also offer a number of avenues for meeting &lt;em&gt;great&lt;/em&gt; people. Community meetups like &lt;a href=&quot;http://www.meetup.com/blrdroid/&quot;&gt;Blrdroid&lt;/a&gt;, &lt;a href=&quot;http://bangalore.python.org.in/&quot;&gt;Bangpypers&lt;/a&gt;, as well as larger events like &lt;a href=&quot;http://www.jsfoo.in&quot;&gt;JSFoo&lt;/a&gt;, &lt;a href=&quot;http://rubyconfindia.org/&quot;&gt;RubyConf&lt;/a&gt;, &lt;a href=&quot;http://www.droidcon.in&quot;&gt;Droidcon&lt;/a&gt;, and &lt;a href=&quot;http://www.metarefresh.in&quot;&gt;Meta Refresh&lt;/a&gt; are great places to make friends and exchange ideas.&lt;/p&gt;
+
+&lt;p&gt;If your organization is involved in open source projects (honking great idea if you aren’t), those can be a great place to collaborate and explore things.&lt;/p&gt;
+
+&lt;p&gt;The best part about the working relationships that come out of the community? You get to &lt;em&gt;work&lt;/em&gt; with &lt;em&gt;friends&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;try-new-faces-with-paid-trials&quot;&gt;Try new faces with paid trials&lt;/h1&gt;
+
+&lt;p&gt;While it’s great to work with friends, its hard to scale quickly enough that way. Invariably, you get to a point where you need to expand out and meet a bunch of new faces and put them through the paces of interviews. I believe that instead of having candidates go through a battery of interviews, some of this can be evaluated better through a paid trial.&lt;/p&gt;
+
+&lt;p&gt;Here’s how I see a paid trial working:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A mutually agreed upon period of collaboration with the candidate&lt;/li&gt;
+  &lt;li&gt;A set of activities that would be performed together towards certain goals.&lt;/li&gt;
+  &lt;li&gt;These activities would be structured to model fairly typical interactions and working that is expected as a part of the role.&lt;/li&gt;
+  &lt;li&gt;These goals need not always be tangible, although thaπt helps.&lt;/li&gt;
+  &lt;li&gt;The activities should have mutual benefits - offering both the candidate and the company insight into each others thought process, working style, communication, and work ethic.&lt;/li&gt;
+  &lt;li&gt;A mutually agreed upon remuneration for the work. &lt;em&gt;More than the money involved, this shows that you are serious, and that you value each other’s time.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;To be clear, I’m &lt;strong&gt;not&lt;/strong&gt; saying we should do away with &lt;strong&gt;all&lt;/strong&gt; interviews&lt;/em&gt;. It’s not going to be economically feasible to invest organizational time and resources into running trials with &lt;em&gt;every&lt;/em&gt; candidate. You’d still want to run a first round of interviews to prescreen the candidate, and then discussions later for behavioral screening, longer term career growth, compensation expectations, and other non technical aspects of the discussion. However, there’s the rounds of interviews in between which may be better served by a trial.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘Paid trial’ is likely not the best name for this. &lt;a href=&quot;http://www.twitter.com/justjots&quot;&gt;@justjots&lt;/a&gt; suggests ‘role auditions’ or ‘job auditions’.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;If the person you are looking to hire is currently freelancing, it’s often easier to evaluate them for a period and then see if they may be interested in joining you. However, if they are already working elsewhere, it would be hard to get them involved with you in a full time trial.&lt;/p&gt;
+
+&lt;p&gt;Instead, it may make sense in having them take up a small project and work with you in their spare time over the course of a longer period of time. The split of work being done remotely versus on premise is dependent on your organization, work culture,  policies, and the role itself.&lt;/p&gt;
+
+&lt;p&gt;Some candidates may resist the process, concerned about the time and effort involved. However, once they consider the amount of time saved from avoiding multiple commutes to your office, time spent waiting in the lobby, multiple interviews, and then various follow-ups, they’ll likely be much &lt;em&gt;happier&lt;/em&gt; doing work that they actually &lt;em&gt;enjoy&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Lets discuss specifics with examples.&lt;/p&gt;
+
+&lt;p&gt;If you are looking for an iOS developer with geolocation and networking skills, it may be useful to pick a small, active but non-critical app and have the candidate build out a small feature over the course of a month. For instance, getting someone to design a new IB screen, build out a view controller &amp;amp; wire up data model service calls may provide some insights.&lt;/p&gt;
+
+&lt;p&gt;If you are looking for an python developer with web dev skills, it’s easy enough to carve out smaller working assignments to build a decoupled service or a standalone site using lightweight tools like Flask or Bottle.&lt;/p&gt;
+
+&lt;p&gt;Interviews can get fairly hypothetical, but there’s nothing like working code. &lt;em&gt;Great engineers know that great engineers ship&lt;/em&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Update 1&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;//twitter.com/nixxin&quot;&gt;Nikhil Pahwa&lt;/a&gt; mentioned to me that he’s been using trials at &lt;a href=&quot;//medianama.com&quot;&gt;Medianama&lt;/a&gt; successfully for the editorial hires.
+&lt;a href=&quot;//twitter.com/vijaysw&quot;&gt;Vijay Sharma&lt;/a&gt; is using trials at &lt;a href=&quot;//exotel.in&quot;&gt;Exotel&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Update 2&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.campushash.com/internhacks&quot;&gt;CampusHash&lt;/a&gt; is running &lt;a href=&quot;http://www.campushash.com/internhacks&quot;&gt;InternHacks&lt;/a&gt;, a program which promises to help connect companies with interns that have &lt;em&gt;real&lt;/em&gt; experience building things via a series of hackathons.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/a-case-for-paid-trials-instead-of-interviews.html&quot;&gt;A Case For Paid Trials Instead Of Interviews&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on September 16, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[A New Site Design Pelican Kleen Theme]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/a-new-site-design-pelican-kleen-theme.html" />
+  <id>http://localhost:4000/a-new-site-design-pelican-kleen-theme</id>
+  <published>2013-09-13T00:00:00+00:00</published>
+  <updated>2013-09-13T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;So, I moved from Blogspot a year or so back, and began using a fabulous static site generator called &lt;a href=&quot;http://docs.getpelican.com/en/3.2/&quot;&gt;Pelican&lt;/a&gt;. The distribution offers a number of themes, but I’ve never liked any of them. So, I’ve been finally motivated to make some changes.&lt;/p&gt;
+
+&lt;p&gt;While I mostly liked the &lt;a href=&quot;https://raw.github.com/getpelican/pelican-themes/master/mnmlist/screenshot.png&quot;&gt;mnmlist&lt;/a&gt; theme, I made a number of changes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I’ve been greatly inspired by the awesomeness of Readability, Medium, and Pocket.&lt;/li&gt;
+  &lt;li&gt;I switched the typography from sans to serif.&lt;/li&gt;
+  &lt;li&gt;Next, I redesigned the main blog header. Split out the title and the post. Added a subtitle section for pages.&lt;/li&gt;
+  &lt;li&gt;Finally, I improved responsivness to different screen sizes and devices.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I really like the new look, and hope you’d appreciate it as well. Here’s what it currently looks like:&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://raw.github.com/arg0s/kleen/master/screenshot.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’d like to grab the theme, fork away from &lt;a href=&quot;https://github.com/arg0s/kleen&quot;&gt;https://github.com/arg0s/kleen&lt;/a&gt;. It’s still got some rough edges, which need cleanup.&lt;/p&gt;
+
+&lt;p&gt;I’d like to think the new design will inspire me to update this blog more often, or at least provide impetus for more frequent bursts of writing.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/a-new-site-design-pelican-kleen-theme.html&quot;&gt;A New Site Design Pelican Kleen Theme&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The Pursuit of Dreams]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/the-pursuit-of-dreams.html" />
+  <id>http://localhost:4000/the-pursuit-of-dreams</id>
+  <updated>2012-11-05T00:00:00-00:00</updated>
+  <published>2012-11-05T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;The Education section of todays Times of India has covered my wife &lt;a href=&quot;http://www.projectemm.com&quot;&gt;Monami Bhattacharya&lt;/a&gt;, chronicling her journey from an REC Warangal engineering grad working in the IT industry to breaking away to set up Project Emm and establishing herself as an artist with her &lt;a href=&quot;http://www.projectemm.com&quot;&gt;Studio+Gallery&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.projectemm.com&quot;&gt;&lt;img src=&quot;static/images/monami_toi_dreams.jpg&quot; alt=&quot;Monami in the Times of India&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You can read the full e-Paper article here: &lt;a href=&quot;http://bit.ly/TtLhIF&quot;&gt;http://bit.ly/TtLhIF&lt;/a&gt;. They even loved our dog so much, she features prominently in the picture!&lt;/p&gt;
+
+&lt;p&gt;I hope this inspires others to walk the path they really believe in, and strive to make a difference! Impossible is nothing.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/the-pursuit-of-dreams.html&quot;&gt;The Pursuit of Dreams&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on November 05, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Musiguru - Part Deux]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/musiguru-part-deux.html" />
+  <id>http://localhost:4000/musiguru-part-deux</id>
+  <updated>2012-10-20T00:00:00-00:00</updated>
+  <published>2012-10-20T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;“If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music.”
+― Albert Einstein&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Few thing in the world connect us like music does. Mainstream music today has international appeal, and popular artists are known all around the world. There’s a singing contest on every third channel on the TV. But while music holds a special place in all our hearts, today’s insane schedules and maddening commutes leave us with little time for music. It’s often relegated to the RJs while we drive or our iPods while we’re huffing away on the treadmill. 9 out of 10 people will tell you that they’d love to learn how to sing better or to play a new instrument. However, few of them have the time to learn to sing or play an instrument due to time commitment involved.&lt;/p&gt;
+
+&lt;p&gt;So as a few of us pondered this, here’s what crossed our minds&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Lets make music learning fun!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“How about something that lets you learn on your own, anytime, any place, at your own pace?”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;From that “Aha!” moment, we set out to do precisely that. This is the story of how Musiguru was built.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/us/app/musiguru/id530432717?mt=8&quot;&gt;&lt;img src=&quot;static/images/musiguru.png&quot; alt=&quot;Musiguru PiP Experience&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;inception&quot;&gt;Inception&lt;/h2&gt;
+&lt;p&gt;When we started Levitum, &lt;a href=&quot;http://www.levitum.com/aboutus.html&quot;&gt;Aditya&lt;/a&gt; and I shared a passion for travel and music. We had an initial concept for a music app, and it evolved through apps we built with local bands. One early milestone was when we won the 2nd prize in the Bangalore App Jam contest in a field of over 40 competing companies. If nothing else, this provided validation that the idea had appeal. Soon after, Intel &amp;amp; Nokia (the App Jam sponsors) invited us to build a marquee app on their new &lt;a href=&quot;http://en.wikipedia.org/wiki/MeeGo&quot;&gt;MeeGoo platform&lt;/a&gt; with NRE funding. Intel brokered early stage discussions to set up a network of content partners via Hungama and Time-Warner. However, Intel and Nokia fell out at this stage when Nokia partnered with Microsoft instead, and Intel was left without a software partner. And we were back nearly at square one. We didn’t know it then, but we were fortunate.&lt;/p&gt;
+
+&lt;h2 id=&quot;definition&quot;&gt;Definition&lt;/h2&gt;
+&lt;p&gt;It was &lt;a href=&quot;http://www.levitum.com/aboutus.html&quot;&gt;Raj&lt;/a&gt; who joined us mid last year who really drove the definition to the next level through a series of blue sky brainstorming sessions. &lt;a href=&quot;http://www.levitum.com/aboutus.html&quot;&gt;Lavanya&lt;/a&gt;, my collegemate joined us working from Chennai and we soon had an epiphany of ideas. We were being ambitious and wishful, but hey! we had a product outline ready now.&lt;/p&gt;
+
+&lt;p&gt;We were going to build a mobile platform through which musicians could contribute structured learning modules and sell them via our shopfront, and music lovers could learn on the go. Units of learning would be small enough that even 15 minutes every day would suffice for a student to make steady progress. Learning music would be fun! And the platform would complement regular classroom or Skype based learning, enabling the student to maximize the limited time he has with his instructor and then follow on to practice with the app.&lt;/p&gt;
+
+&lt;p&gt;But how do you know whether an idea might fly? What better than to run by experts in the field. Fortunately, Raj’s cousin &lt;a href=&quot;http://www.singingdrums.com/&quot;&gt;Muthu Kumar&lt;/a&gt; is a Tabla maestro who has trained under the legendary &lt;a href=&quot;http://en.wikipedia.org/wiki/Alla_Rakha&quot;&gt;Ustad Alla Rakha&lt;/a&gt; and &lt;a href=&quot;http://en.wikipedia.org/wiki/Zakir_Hussain_(musician)&quot;&gt;Ustad Zakir Hussain&lt;/a&gt;. Muthu has performed all around the world with several renowned artists, and has a huge international student following whom he coaches via Skype. Muthu was so excited by the idea he signed up to be the first artist on the platform, and has worked with us through the whole process, assisting us by contributing ideas, and helping innovate on the learning experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
+&lt;p&gt;The next step was to work through the visual design. Fortunately, while I was the Program Chair at the 2011 &lt;a href=&quot;http://droidcon.in/2011/&quot;&gt;Droidcon India&lt;/a&gt; organised by the fine folks at HasGeek, I’d interacted with Rahul, a savvy designer who runs &lt;a href=&quot;http://www.pixelogue.in&quot;&gt;Pixelogue&lt;/a&gt;. Although he hadn’t worked on too many mobile apps at that point, Rahul did an incredible job working with us last November, creating a contemporary design that’s easy on the eyes and the mind.&lt;/p&gt;
+
+&lt;p&gt;There were two unique features we built into the app:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;lesson-learning-progression&quot;&gt;Lesson Learning Progression&lt;/h3&gt;
+
+    &lt;p&gt;A step by step approach to learning which takes the user through a guided progression: instruction, practice and evaluation.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;karaoke-learning-experience&quot;&gt;Karaoke Learning Experience&lt;/h3&gt;
+
+    &lt;p&gt;A unique &lt;a href=&quot;http://en.wikipedia.org/wiki/Picture-in-picture&quot;&gt;Picture-In-Picture&lt;/a&gt; learning experience which enables a student to record himself singing or playing an instrument while also watching the lyrics (or the instructor performing). This is well suited to rote learning, while making the repetitive cycles incredibly fun.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We initially toyed with calling the app ‘&lt;em&gt;Sur&lt;/em&gt;’, but while we were brainstorming ideas one day, &lt;a href=&quot;http://www.projectemm.com&quot;&gt;Monami&lt;/a&gt; suggested ‘&lt;em&gt;Musiguru&lt;/em&gt;’. The deliberate meld gave the name a nice ring, and it just stuck. Aditya soon came up with a lovely logo, whose traditional Indian strokes (some have said it looks a bit like Ganesha when viewed at an angle) with bold colors offered a contemporary look.&lt;/p&gt;
+
+&lt;h2 id=&quot;version-un&quot;&gt;Version Un&lt;/h2&gt;
+&lt;p&gt;The first version of the app was released in May as a $24.99 download and contained only a Tabla module. The objective here was to test the waters, and gauge the initial response of students before building out in-app purchase, additional modules &amp;amp; a full learning flow. We initially expected just a few of Muthu’s students to download it, but were surprised to see downloads from the U.S., Japan and Australia where new students were interested in music learnings apps.&lt;/p&gt;
+
+&lt;h2 id=&quot;version-deux&quot;&gt;Version Deux&lt;/h2&gt;
+&lt;p&gt;Lavanya and Aditya have spent the last few months building out the second version, and it was approved by Apple yesterday after a week in review. It’s got several new additions:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;four-full-fledged-modules&quot;&gt;Four Full Fledged Modules&lt;/h3&gt;
+
+    &lt;p&gt;&lt;img src=&quot;static/images/catalog.jpg&quot; alt=&quot;Musiguru Catalog&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;We now have four modules! Muthu added a ‘&lt;em&gt;Tabla Basic Sounds&lt;/em&gt;’ module to accompany the module he had recorded earlier on ‘&lt;em&gt;A Beginners Guide To Tabla&lt;/em&gt;’. Muthu’s wife Priya who is a fabulous Hindustani vocalist recorded a module of ‘&lt;em&gt;Five Basic Bhajans&lt;/em&gt;’. And finally, my mom (&lt;a href=&quot;http://arg0s.in/my-mom-retires-this-friday.html&quot;&gt;Mrs Padma Krishnaswamy&lt;/a&gt;) recorded ‘&lt;em&gt;Carnatic Vocals - Part 1&lt;/em&gt;’, which includes the Sarali Varisai. Almost all of the modules were recorded at the &lt;a href=&quot;http://www.facebook.com/controlroomstudios&quot;&gt;Control Room&lt;/a&gt; recording studio in Indiranagar using state-of-the-art equipment. Each of the lessons involved recording seperate instruction, practice and record videos, and then a &lt;em&gt;huge&lt;/em&gt; amount of effort in post processing them later. This includes synchronizing audio and video that are recorded separately, adding the subtitles and visual cues, and combining videos for section which required zoomed in views.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;in-app-purchase&quot;&gt;In-app Purchase&lt;/h3&gt;
+
+    &lt;p&gt;You can now download the app for free! Each of the modules have several free lessons as well. Music lovers can check them out and see if they like the guru’s teaching style and go through the unique learning experience. Each lesson can be purchased separately so that intermediate students can jump ahead and cherry-pick lessons they are interested in. Lessons that need to be paid for are locked, but still permit the student to watch a preview of the instruction video to get a sense of the material being covered.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;improved-learning-experience&quot;&gt;Improved Learning Experience&lt;/h3&gt;
+
+    &lt;p&gt;&lt;img src=&quot;static/images/pip.jpg&quot; alt=&quot;Musiguru PiP Experience&quot; /&gt;&lt;/p&gt;
+
+    &lt;p&gt;Aditya and Lavanya have invested a huge amount of their time in making this rock. The record and play along PiP experience now streams videos with adaptive bitrate encoding and &lt;a href=&quot;http://en.wikipedia.org/wiki/HTTP_Live_Streaming&quot;&gt;HTTP live streaming&lt;/a&gt;. In essence, this means that you download only as much as you need to for the best experience on your device. The screens also support both landscape and portrait orientations &amp;amp; get a better fix on both the back and front facing camera.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h3 id=&quot;web-demo&quot;&gt;Web Demo&lt;/h3&gt;
+
+    &lt;p&gt;If you don’t have an iOS device and would like to see what the fuss is about, we’ve got an initial demonstrative website up and running that our team has put together. It doesn’t include the unique PiP record &amp;amp; learn experience, but will give you a feel for what the app is like. It also includes bios of the artists, a few sample videos, and user testimonials. Check out &lt;a href=&quot;http://www.musiguru.in&quot;&gt;www.musiguru.in&lt;/a&gt;!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This Musiguru journey so far has taught me a lot about myself. I think I’ve grown more patient, and willing to let things just flow while we as a small company built this app in our spare time while juggling other large projects that pay the bills. This app also wouldnt have come together without all the help of our friends and family. I’m fortunate to work with an incredibly talented &lt;a href=&quot;http://www.levitum.com/aboutus.html&quot;&gt;team&lt;/a&gt; of friends with great passion &amp;amp; a sense of fun. It’s also given me an opportunity to reconnect with music myself. I’ve been learning the tabla (yes, &lt;a href=&quot;http://en.wikipedia.org/wiki/Eating_your_own_dog_food&quot;&gt;eating our own dog food&lt;/a&gt;!) slowly, and although I’m still at Lesson 4 of the Beginner module, it’s been loads of fun so far.&lt;/p&gt;
+
+&lt;p&gt;But this is just the beginning. We’ve got big plans for Musiguru, and are looking to add more modules over the next several months, and continue to enrich the learning experience based on user feedback. If you are an artist and would like to contribute to the platform, drop us an email at &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#109;&amp;#117;&amp;#115;&amp;#105;&amp;#103;&amp;#117;&amp;#114;&amp;#117;&amp;#064;&amp;#108;&amp;#101;&amp;#118;&amp;#105;&amp;#116;&amp;#117;&amp;#109;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#109;&amp;#117;&amp;#115;&amp;#105;&amp;#103;&amp;#117;&amp;#114;&amp;#117;&amp;#064;&amp;#108;&amp;#101;&amp;#118;&amp;#105;&amp;#116;&amp;#117;&amp;#109;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;. We are also gearing up for the Chennai/Bangalore kutcheri season and look forward to interacting with music lovers &amp;amp; discussing our ideas.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/musiguru-part-deux.html&quot;&gt;Musiguru - Part Deux&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on October 20, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[The End. And New Home]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2012/10/the-end-and-new-home.html" />
+  <id>http://localhost:4000/2012/10/the-end-and-new-home</id>
+  <published>2012-10-19T11:40:00+00:00</published>
+  <updated>2012-10-19T11:40:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">
+&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
+&lt;div dir=&quot;ltr&quot; style=&quot;text-align: left;&quot; trbidi=&quot;on&quot;&gt;Arvi&#39;s blog has a new &lt;a href=&quot;http://arg0s.in/adieu-blogspot.html&quot;&gt;home&lt;/a&gt;. All new posts will appear &lt;a href=&quot;http://arg0s.in/adieu-blogspot.html&quot;&gt;here&lt;/a&gt;. So long, blogspot.&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2012/10/the-end-and-new-home.html&quot;&gt;The End. And New Home&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on October 19, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Agile Team Analogy - A Michelin Star Restaurant]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/agile-team-analogy-a-michelin-star-restaurant.html" />
+  <id>http://localhost:4000/agile-team-analogy-a-michelin-star-restaurant</id>
+  <updated>2012-10-18T00:00:00-00:00</updated>
+  <published>2012-10-18T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;My favorite analogy of great team work has always been the Beatles. A group of diverse people coming together to build off each others strengths, and improvising when someone is down.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;static/images/michelin.png&quot; alt=&quot;Agile Team Analogy - A Michelin Star Restaurant&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However when I recently had to put together a slide to explain to executives at a partner firm how an agile software development team works best, I drew up the analogy of how the kitchen at a Michelin star restaurant works. Analogies arent always perfect, and maybe it’s all the time I’ve spent lately watching Masterchef Australia, but this just felt right (see slide above).&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/agile-team-analogy-a-michelin-star-restaurant.html&quot;&gt;Agile Team Analogy - A Michelin Star Restaurant&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on October 18, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Amul Cartoon Ads]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/amul-cartoon-ads.html" />
+  <id>http://localhost:4000/amul-cartoon-ads</id>
+  <updated>2012-9-20T00:00:00-00:00</updated>
+  <published>2012-09-20T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://itunes.apple.com/in/app/amul-cartoon-ads/id363119867&quot;&gt;&lt;img src=&quot;static/images/AppStore.png&quot; width=&quot;400&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This is my dedication to Dr Kurien of Amul, who passed away recently (September 9th 2012) at the age of 90. The Amul topical ads have been around since the 70s and have a deep connect with every Indian. I built this app on a whim since the Amul site didnt offer an easy to browse through the cartoons. Enjoy the new and updated &lt;a href=&quot;http://itunes.apple.com/in/app/amul-cartoon-ads/id363119867&quot;&gt;Amul Cartoon Ads&lt;/a&gt; app for the iPhone &amp;amp; iPad (2x mode). If you’d like to contribute to the project, the source code is on &lt;a href=&quot;http://arg0s.in/amulios/&quot;&gt;Github&lt;/a&gt;. Fork away and send in a pull request.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/amul-cartoon-ads.html&quot;&gt;Amul Cartoon Ads&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on September 20, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Ten collaboration tools every tech startup should consider]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/ten-collaboration-tools-every-tech-startup-should-consider.html" />
+  <id>http://localhost:4000/ten-collaboration-tools-every-tech-startup-should-consider</id>
+  <updated>2012-9-15T00:00:00-00:00</updated>
+  <published>2012-09-15T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;Our Bangalore based team at &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; works from home 3 days of the week. It’s awesome since we save nearly two hours of daily commute time, which gives us more time with our families and to do all the fun things we enjoy (and avoid the horrendous Bangalore traffic). On the other hand, it meant developing a collaborative team culture and using tools that would facilitate working from home effectively. While this may sound trivial, third world problems of power outages and broadband connectivity issues make things hard at times. We also have one colleague working from Chennai and another from Hyderabad. Over time, we’ve been using a number of cloud based tools &amp;amp; services that have helped us collaborate effectively and have loads of fun along the way while we’ve grown Levitum. Here’s a quick list!&lt;/p&gt;
+
+&lt;h2 id=&quot;gotomeeting&quot;&gt;1. GoToMeeting&lt;/h2&gt;
+&lt;p&gt;Since our team works from home 3 days a week, it helps to get on video often through the day. It makes conversations much more personal &amp;amp; fun. We tried Skype video, Google+ Hangouts, Assembla video chat and Tokbox. Hangouts was the most fun by far, and Skype was the most convenient. While Cisco’s &lt;a href=&quot;http://www.gotomeeting.in&quot;&gt;GoToMeeting&lt;/a&gt; looks and feels like an enterprise app, the audio and video quality is simply outstanding.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;static/images/gtm.jpg&quot; alt=&quot;GoToMeeting&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At $25/month, it’s freed us from the choppy audio or video that plagues some other solutions while still not making every meeting feel like a dull conference bridge conversation. And on most mornings during our daily standups, its simply been awesome fun.
+(PAID)&lt;/p&gt;
+
+&lt;h2 id=&quot;assembla&quot;&gt;2. Assembla&lt;/h2&gt;
+&lt;p&gt;One of the challenges we had was finding a solution that provided just the right mix of agile software development tools, source control repositories, and project management tools.&lt;/p&gt;
+
+&lt;p&gt;Ultimately &lt;a href=&quot;http://www.assembla.com&quot;&gt;Assembla&lt;/a&gt; won out with a more superior feature set combined with a lovely interface that scales up well for power users as well. What we love the most:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Card wall which incorporates most of the features of &lt;a href=&quot;www.trello.com&quot;&gt;Trello&lt;/a&gt; &amp;amp; lends itself to a Kanban workflow.&lt;/li&gt;
+  &lt;li&gt;Git repositories with a simple code review workflow.&lt;/li&gt;
+  &lt;li&gt;Powerful ticketing system which enables us to both manage our project backlog as well as support tickets.&lt;/li&gt;
+  &lt;li&gt;Social activity streams, convenient @ mentions &amp;amp; notifications.&lt;/li&gt;
+  &lt;li&gt;Reasonable pricing model ($50/month gives us accounts for 40 people &amp;amp; unlimited repos)
+(FREEMIUM)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;google-apps&quot;&gt;3. Google Apps&lt;/h2&gt;
+&lt;p&gt;You’d think every tech startup out there would be on Google Apps &amp;amp; leveraging the power of Google’s Mail, Calendar, Drive &amp;amp; other collaboration tools. Amazingly enough, I’ve encountered a few who aren’t (&lt;em&gt;sigh&lt;/em&gt;). And no, their reasons had nothing to do with concerns around Google or cloud security (&lt;em&gt;dont ask&lt;/em&gt;). So, here’s a gratuitous mention that’s stating the obvious.
+(FREEMIUM)&lt;/p&gt;
+
+&lt;h2 id=&quot;irc&quot;&gt;4. IRC&lt;/h2&gt;
+&lt;p&gt;When I tell people we use IRC for company group chats, some of them wonder if we’re still stuck in the late 90s. But after having meddled with Skype, Jabber, GTalk &amp;amp; Campfire, plain old IRC won out. The technology that worked great in the days of the dial up era and noisy modems continues to be the simplest way to get folks onto a chatroom from anywhere and everywhere. We’ve got IRC notifications wired in with our &lt;a href=&quot;http://en.wikipedia.org/wiki/Continuous_integration&quot;&gt;CI servers&lt;/a&gt; &amp;amp; a bunch of IRC bot addons that help us with everything from quick google searches to checking on project status. For our developers deeply engaged with the open source community, IRC is a portal into a world itself.
+(FREE)&lt;/p&gt;
+
+&lt;h2 id=&quot;joinme&quot;&gt;5. Join.me&lt;/h2&gt;
+&lt;p&gt;There’s always times when it’s a bit of effort to get people onto a GoToMeeting bridge. It doesnt help that Cisco seems to push a large update to every now and then that requires a 5 minute interrupt just before a 10 minute conversation. For all those times, &lt;a href=&quot;http://join.me&quot;&gt;Join.me&lt;/a&gt; saves the day with a near instant setup &amp;amp; screen share with basic audio conversations thrown in. For everthing else, there’s still GTM.
+(FREE)&lt;/p&gt;
+
+&lt;h2 id=&quot;github&quot;&gt;6. GitHub&lt;/h2&gt;
+&lt;p&gt;While most of our code is on Assembla hosted git repos, there’s enough said about GitHub. Assembla lags behind GitHub in the power developer tools for reviewing and collaborating on source code. That said, GitHub’s issue tracker provides limited abilities to manage a large team effectively - areas where Assembla wins out.
+(FREEMIUM)&lt;/p&gt;
+
+&lt;h2 id=&quot;titanpad&quot;&gt;7. Titanpad&lt;/h2&gt;
+&lt;p&gt;While Google Docs is decent for collaboration, we missed the fluid realtime capabilities of Google Wave. It helped that some folks set up Etherpad up and opened it out so companies could set up a subdomain and work on editing documents real time. &lt;a href=&quot;http://www.titanpad.com&quot;&gt;Titanpad&lt;/a&gt; has been awesome, and we probably dont use it nearly as much as we should. It’s got an awesome versioning system that also lets you playback edits - check it out! It’d be helpful if it had a Markdown editor/viewer baked in, though. Now, that’s an idea.
+(FREE)&lt;/p&gt;
+
+&lt;h2 id=&quot;basecamp&quot;&gt;8. Basecamp&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.basecamp.com&quot;&gt;Basecamp&lt;/a&gt; provided a simple and elegant mix of to-do lists, write boards, milestone views &amp;amp; integrated well with their other solutions like &lt;a href=&quot;http://campfirenow.com&quot;&gt;Campfire&lt;/a&gt;. However, the to-do lists get unwieldy quickly and dont roll up well into larger milestones. We use Basecamp on a limited set of consulting services projects.
+(PAID)&lt;/p&gt;
+
+&lt;h2 id=&quot;boxnet&quot;&gt;9. Box.net&lt;/h2&gt;
+&lt;p&gt;We also use GDrive and Dropbox, and this one’s really my personal bias. I like the &lt;a href=&quot;http://www.box.net&quot;&gt;Box.net&lt;/a&gt; iPad app more than the others &amp;amp; like the deeper permissions and sharing controls. We’ve been watching &lt;a href=&quot;https://owncloud.com&quot;&gt;OwnCloud&lt;/a&gt; closely and may make the switch someday.
+(FREE)&lt;/p&gt;
+
+&lt;h2 id=&quot;trello&quot;&gt;10. Trello&lt;/h2&gt;
+&lt;p&gt;Much as we loved Assembla’s card wall, it’s sometimes been much quicker to quickly get on &lt;a href=&quot;http://www.trello.com&quot;&gt;Trello&lt;/a&gt; and toss a bunch of cards on a board. It’s been our little whiteboard to draw up a &lt;a href=&quot;http://en.wikipedia.org/wiki/Work_breakdown_structure&quot;&gt;WBS&lt;/a&gt;, or just stack up a bunch of ideas, vote on them and move them between buckets before actually sticking them into Assembla.
+(FREE)&lt;/p&gt;
+
+&lt;p&gt;Got suggestions that you’d like to add to this list? Give me a shout - we’d love to give them a spin.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;Ten collaboration tools every tech startup should consider&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on September 15, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Adieu Blogspot]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/adieu-blogspot.html" />
+  <id>http://localhost:4000/adieu-blogspot</id>
+  <updated>2012-05-16T00:00:00-00:00</updated>
+  <published>2012-05-16T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;static/images/peanuts.jpg&quot; alt=&quot;Foo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It was just a matter of time. My &lt;a href=&quot;http://aravind-krishnaswamy.blogspot.com/&quot;&gt;old blog&lt;/a&gt; from blogspot was lying virtually abandoned.&lt;/p&gt;
+
+&lt;p&gt;I’d considered &lt;em&gt;Posterous&lt;/em&gt;. And &lt;em&gt;Tumblr&lt;/em&gt;. But somehow, the instant gratification of getting a quick tweet or Facebook wall post out in between the zillion other things going on the middle of my day seemed to keep winning out.&lt;/p&gt;
+
+&lt;p&gt;Until now. I’ve switched over to a new &lt;em&gt;Markdown&lt;/em&gt; flavored blog which promises to be easier to maintain and update. So maybe, just maybe, I’ll start to pen down my thoughts now and then just a little more.&lt;/p&gt;
+
+&lt;p&gt;As for the old archives, I’ve tried moving them over. Some of it made the hop just fine, but a lot of posts either got scrambled or had dead ends with image links or media. I might get to cleaning some of that at some point, but more likely not.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/adieu-blogspot.html&quot;&gt;Adieu Blogspot&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 16, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[My Birthday]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2010/10/my-birthday.html" />
+  <id>http://localhost:4000/2010/10/my-birthday</id>
+  <published>2010-10-04T10:59:00+00:00</published>
+  <updated>2010-10-04T10:59:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">
+&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
+Time flies. Or does it soar? I can’t believe that nearly a year has passed by since my last birthday! My wife and I threw a BBQ party, had a bunch of friends over, and we were dancing away on our terrace well into the night. Earlier that day, I ran a flood relief collection drive in our neighborhood that day for &lt;a href=&quot;http://www.icanimagine.org/&quot;&gt;ImagineIndia&lt;/a&gt;, and we pulled together a whole load of books, clothes, medicines and other donations. &lt;a href=&quot;http://www.icanimagine.org/&quot;&gt;ImagineIndia&lt;/a&gt; is an NGO run by Bharath, a former colleague and friend with a lot of heart, and they continue to do great work directly with schools.&lt;div&gt;&lt;br /&gt;This birthday (Oct 8th), I am collecting funds towards for an NGO called &lt;a href=&quot;http://www.anbukarangal.org/&quot;&gt;Anbu Karangal&lt;/a&gt; (&lt;a href=&quot;http://www.anbukarangal.org/&quot;&gt;http://www.anbukarangal.org/&lt;/a&gt;). My father has been involved with them for several years now, and he has been particularly appreciative of the little things that they do for children. Their center is home to over 90 abandoned children and 43 senior citizens, and is just a few kilometers away from where my parents live.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;I have a modest goal for this collection drive: &lt;b&gt;to sponsor the education of 10 children for a whole year&lt;/b&gt;. If you would like to help, it’s pretty simple. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Just Rs 2,000/- (US $50) covers the education of a child for a year&lt;/b&gt; (including food, clothes, medical aid and school fees). Write out a cheque or demand draft in favor of “Anbu Karangal”, and I&#39;ll be happy to pick it up. Contributions are income tax exempt in India under section 80G. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;If you would prefer to contribute with smaller amounts, or even through old clothes, books or medicines just let me know. Little things can go a long way.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;As for my birthday, I know my wife is planning something, but I dont quite know what yet!&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;UPDATE: Nov 4th&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;My thanks to all my friends who have helped in various ways with collections for the orphanage. I&#39;d like to single out a few whose significant contributions will change the lives of ten children in 2011.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;o  Asit&lt;/div&gt;&lt;div&gt;o  Kapil&lt;/div&gt;&lt;div&gt;o  Ajith&lt;/div&gt;&lt;div&gt;o  Mithil&lt;/div&gt;&lt;div&gt;o  Natasha&lt;/div&gt;&lt;div&gt;o  Kunal&lt;/div&gt;&lt;div&gt;o  Palkesh&lt;/div&gt;&lt;div&gt;o  Kuhu&lt;/div&gt;&lt;div&gt;o  Mioara&lt;/div&gt;&lt;div&gt;o  Vidyanand&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;I am planning on visiting the orphanage next week along with some Diwali treats, and will be sure to post pictures!&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;UPDATE: Dec 15th&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;iframe width=&quot;560&quot; height=&quot;349&quot; src=&quot;http://www.youtube.com/embed/vRet_Ky3ees&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span class=&quot;Apple-style-span&quot; style=&quot;font-weight: normal; &quot;&gt;&lt;div&gt;&lt;div&gt;Short video of the children having fun with Diwali fireworks and playing with Ma Belle!&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2010/10/my-birthday.html&quot;&gt;My Birthday&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on October 04, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[My mom retires this Friday!]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2010/04/my-mom-retires-this-friday.html" />
+  <id>http://localhost:4000/2010/04/my-mom-retires-this-friday</id>
+  <published>2010-04-27T11:27:00+00:00</published>
+  <updated>2010-04-27T11:27:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">
+&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
+&lt;a onblur=&quot;try {parent.deselectBloggerImageGracefully();} catch(e) {}&quot; href=&quot;http://2.bp.blogspot.com/_yv40plZwgmI/S9bV-CJdz-I/AAAAAAAAC60/_w0tAX7VFXA/s1600/Mom+and+Dad+in+Paris.jpg&quot;&gt;&lt;img style=&quot;display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 249px; height: 165px;&quot; src=&quot;http://2.bp.blogspot.com/_yv40plZwgmI/S9bV-CJdz-I/AAAAAAAAC60/_w0tAX7VFXA/s320/Mom+and+Dad+in+Paris.jpg&quot; border=&quot;0&quot; alt=&quot;&quot; id=&quot;BLOGGER_PHOTO_ID_5464790459565854690&quot; /&gt;&lt;/a&gt;&lt;br /&gt;&lt;span class=&quot;Apple-style-span&quot; style=&quot;font-size: x-large;&quot;&gt;A&lt;/span&gt;fter nearly three decades as a middle school science teacher, Padma Krishnaswamy, my mom retires from D.A.V. Gopalapuram in Chennai this Friday!&lt;br /&gt;&lt;br /&gt;There, now that&#39;s some news. She was due to retire two years back, but stayed on after requests from the school to extend her tenure since she is a senior and well respected teacher of the award winning institution (Outlook ranked D.A.V. as the &lt;a href=&quot;http://www.rediff.com/news/2006/may/26spec.htm&quot;&gt;No. 1 school in the country&lt;/a&gt;). She still loves the school, the children, and the job, but the longer commute (my parents now live in Thiruvanmiyur) and a desire to finally get around to doing more things around the house have caught up with her. The school is going through a number of changes at this time, and the timing of her decision has nothing to do with them. Change is good in the long run, and I&#39;m sure the school will continue to do well.&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;Her daily route for the last few decades pretty much meant getting up at 5 in the morning and running through household chores before leaving for school at 7:15 in order to make it past the Adyar traffic. When she gets home by dusk to catch up with other things, it&#39;s already been a long day. As you can imagine, my dad is looking forward to her having more time for herself as well for him! &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;As for me, I&#39;m really happy as well, although I&#39;ll probably miss hearing anecdotes from school. Stories of students playing pranks, students getting caught, unusual havan sessions, creative exam answers, and all those other crazy things that go on. (Have you heard the one of the sixth grader who asked a teacher, &quot;Madam, so whom did Draupadi go on her honeymoon with?&quot;)&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;My mom hasn&#39;t quite decided what she will be doing next, but one thing we are toying with is helping her set up online Carnatic lessons. She&#39;s an excellent singer, who had studied under one of the disciples of &lt;a href=&quot;http://en.wikipedia.org/wiki/Muthuswami_Dikshitar&quot;&gt;Muthuswami Dikshitar&lt;/a&gt; as well as with &lt;a href=&quot;http://en.wikipedia.org/wiki/M._Balamuralikrishna&quot;&gt;Bala Murali Krishna&lt;/a&gt;. Combining her love of music with her passion for teaching may be meaningful, but it&#39;s really up to her.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;If you are a D.A.V. alum and would like to send her a note, please email her at padmakv at gmail dot com. She doesnt check her email too often, and so I&#39;m hoping she&#39;ll be in for a nice warm surprise. Be sure to mention which batch you were from, and any anecdotes you may like to share!&lt;br /&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;br /&gt;&lt;div&gt; &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2010/04/my-mom-retires-this-friday.html&quot;&gt;My mom retires this Friday!&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on April 27, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Feb 4th: Bangalore Bus Day]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2010/01/feb-4th-bangalore-bus-day.html" />
+  <id>http://localhost:4000/2010/01/feb-4th-bangalore-bus-day</id>
+  <published>2010-01-27T06:23:00+00:00</published>
+  <updated>2010-01-27T06:23:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">
+&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
+If you live in Bangalore, you&#39;d empathize with the clip below:&lt;br /&gt;&lt;br /&gt;&lt;img src=&quot;http://www.vasanth.in/content/binary/bangalore-traffic-1.gif&quot; /&gt;&lt;br /&gt;&lt;br /&gt;Do you hate Bangalore traffic as much as most of us do?&lt;br /&gt;&lt;br /&gt;Well, here&#39;s a chance to be a part of an interesting social experiment conducted by the BMTC. They are organizing &#39;Bus Day&#39; on Thursday, Feb 4th 2010. It&#39;s simple. Leave your personal vehicle at home, and use public transport to get to work. &lt;br /&gt;&lt;br /&gt;Never taken the bus, and dont know the routes? Well, here&#39;s a neat little route map that&#39;s printer friendly: (&lt;a href=&quot;http://praja.in/files/BusDay_Route_Map_v1.0.pdf&quot;&gt;Click here&lt;/a&gt;). And if you are headed to Electronic City or ITPL, here are the bus routes (&lt;a href=&quot;http://praja.in/files/BMTC_Volvo_Routes_To_EC_And_ITPL_v2.xls&quot;&gt;Click here&lt;/a&gt;)&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;Apple-style-span&quot; style=&quot;font-size: x-large;&quot;&gt;TAKE THE BUS TO WORK ON FEB 4th&lt;/span&gt;&lt;span class=&quot;Apple-style-span&quot; style=&quot;font-size: x-large;&quot;&gt;!&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;All said and done, you might be reading this and dismissing it as yet another passing fad or idealistic initiative. And you may well be right.  Public transport may not be the only answer, and needs to be complemented with better infrastructure, better traffic management, and wider metro coverage. But then, take a minute to think of all the pain that the traffic situation gives us today. Give this initiative a chance. Share this post with colleagues and friends. As their slogan says, &quot;Take the bus, boss!&quot;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2010/01/feb-4th-bangalore-bus-day.html&quot;&gt;Feb 4th: Bangalore Bus Day&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on January 27, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[ACJ Speaker Session: Technology and Journalism]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2010/01/acj-speaker-session-technology-and.html" />
+  <id>http://localhost:4000/2010/01/acj-speaker-session-technology-and</id>
+  <published>2010-01-20T17:23:00+00:00</published>
+  <updated>2010-01-20T17:23:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">
+&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
+&lt;span class=&quot;Apple-style-span&quot;  style=&quot;font-size:x-large;&quot;&gt;S&lt;/span&gt;lides from my speaker session at Asian College of Journalism earlier today. Great audience, and insightful points raised afterwards. I was really impressed by everyone I met.&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;width:425px;text-align:left&quot; id=&quot;__ss_2957764&quot;&gt;&lt;a style=&quot;font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/aravindkrishnaswamy/technology-journalism-and-change&quot; title=&quot;Technology, Journalism And Change&quot;&gt;Technology, Journalism And Change&lt;/a&gt;&lt;object style=&quot;margin:0px&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=technologyjournalismandchange-100120112229-phpapp02&amp;amp;rel=0&amp;amp;stripped_title=technology-journalism-and-change&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=technologyjournalismandchange-100120112229-phpapp02&amp;amp;rel=0&amp;amp;stripped_title=technology-journalism-and-change&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;425&quot; height=&quot;355&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;&quot;&gt;View more &lt;a style=&quot;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/&quot;&gt;presentations&lt;/a&gt; from &lt;a style=&quot;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/aravindkrishnaswamy&quot;&gt;Aravind Krishnaswamy&lt;/a&gt;.&lt;/div&gt;&lt;/div&gt;&lt;br /&gt;Main points I tried to make were:&lt;br /&gt;&lt;ol&gt;&lt;li&gt;Trusted sources continue to matter&lt;/li&gt;&lt;li&gt;People will pay for more than information - knowledge and insights&lt;/li&gt;&lt;li&gt;There&#39;s no longer new media and print media, the digital and physical worlds meld&lt;/li&gt;&lt;li&gt;News has to be personalized and context based &lt;/li&gt;&lt;li&gt;New distribution and editorial models may evolve, like what iTunes did to music&lt;/li&gt;&lt;li&gt;Fundamentals matter - example of dot com boom and bust&lt;/li&gt;&lt;li&gt;New readers growing up in this century are digital era babies, will be key decision makers in the next 10 years.&lt;/li&gt;&lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2010/01/acj-speaker-session-technology-and.html&quot;&gt;ACJ Speaker Session: Technology and Journalism&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on January 20, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Featured in Iowa State University Newsletter]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2010/01/featured-in-iowa-state-university.html" />
+  <id>http://localhost:4000/2010/01/featured-in-iowa-state-university</id>
+  <published>2010-01-20T10:48:00+00:00</published>
+  <updated>2010-01-20T10:48:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">
+&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
+&lt;span class=&quot;Apple-style-span&quot;  style=&quot;font-size:x-large;&quot;&gt;I&lt;/span&gt;&#39;m honored to be featured in my alma, Iowa State University&#39;s annual departmental newsletter for 2009-10. The newsletter came out a few weeks ago, and they&#39;ve carried a feature that includes my brief bio, reflections on experiences at ISU, and tips I&#39;ve offered for graduating students. I owe a lot to ISU for everything I&#39;ve achieved to date, and have fond memories of life in Ames. Check out Page 14 below!&lt;br /&gt;&lt;br /&gt;&lt;div style=&quot;width:477px;text-align:left&quot; id=&quot;__ss_2954513&quot;&gt;&lt;a style=&quot;font:14px Helvetica,Arial,Sans-serif;display:block;margin:12px 0 3px 0;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/aravindkrishnaswamy/iowa-state-university-cs-newsletter-200910&quot; title=&quot;Iowa State University CS Newsletter 2009-10&quot;&gt;Iowa State University CS Newsletter 2009-10&lt;/a&gt;&lt;object style=&quot;margin:0px&quot; width=&quot;477&quot; height=&quot;510&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://static.slidesharecdn.com/swf/ssplayerd.swf?doc=csnewsletter09-10-100120044020-phpapp02&amp;amp;rel=0&amp;amp;stripped_title=iowa-state-university-cs-newsletter-200910&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://static.slidesharecdn.com/swf/ssplayerd.swf?doc=csnewsletter09-10-100120044020-phpapp02&amp;amp;rel=0&amp;amp;stripped_title=iowa-state-university-cs-newsletter-200910&quot; type=&quot;application/x-shockwave-flash&quot; allowscriptaccess=&quot;always&quot; allowfullscreen=&quot;true&quot; width=&quot;477&quot; height=&quot;510&quot;&gt;&lt;/embed&gt;&lt;/object&gt;&lt;div style=&quot;font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;&quot;&gt;View more &lt;a style=&quot;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/&quot;&gt;documents&lt;/a&gt; from &lt;a style=&quot;text-decoration:underline;&quot; href=&quot;http://www.slideshare.net/aravindkrishnaswamy&quot;&gt;Aravind Krishnaswamy&lt;/a&gt;.&lt;/div&gt;&lt;div style=&quot;font-size:11px;font-family:tahoma,arial;height:26px;padding-top:2px;&quot;&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;If you have trouble viewing it, you can also get to it off the CS departmental website (&lt;a href=&quot;http://www.cs.iastate.edu/newsletters.shtml&quot;&gt;click here&lt;/a&gt;)
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2010/01/featured-in-iowa-state-university.html&quot;&gt;Featured in Iowa State University Newsletter&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on January 20, 2010.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Twit or Tat]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2009/12/twit-or-tat.html" />
+  <id>http://localhost:4000/2009/12/twit-or-tat</id>
+  <published>2009-12-16T15:57:00+00:00</published>
+  <updated>2009-12-16T15:57:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">
+&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
+A little bit of this,&lt;br /&gt;and a little bit of that.&lt;br /&gt;I tweet lots,&lt;div&gt;and twit not.&lt;br /&gt;Follow me on Twitter,&lt;/div&gt;&lt;div&gt;and we&#39;ll get to know each other.&lt;br /&gt;Like birds of a feather,&lt;br /&gt;flock together.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;a href=&quot;http://www.twitter.com/twitortat&quot;&gt;www.twitter.com/twitortat&lt;/a&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/12/twit-or-tat.html&quot;&gt;Twit or Tat&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on December 16, 2009.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Trends to Watch]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/2009/12/trends-to-watch.html" />
+  <id>http://localhost:4000/2009/12/trends-to-watch</id>
+  <published>2009-12-16T15:45:00+00:00</published>
+  <updated>2009-12-16T15:45:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://localhost:4000</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">
+&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
+&lt;span class=&quot;Apple-style-span&quot; style=&quot;font-size: x-large;&quot;&gt;O&lt;/span&gt;ur team at Levitum has put together a list of key mobile cloud trends to watch in 2010 based on market research. While some of this is stating the obvious, as a whole, I think is extremely insightful and relevant in this rapidly changing landscape. &lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;In short:&lt;br /&gt;&lt;ul&gt;&lt;li&gt;Apps will move to the cloud&lt;/li&gt;&lt;li&gt;App Stores will thrive&lt;/li&gt;&lt;li&gt;Battle for the cloud has begun&lt;/li&gt;&lt;li&gt;Open standards and technologies will succeed&lt;/li&gt;&lt;li&gt;Mobile cloud based services will emerge&lt;/li&gt;&lt;li&gt;Enterprises will embrace the cloud&lt;/li&gt;&lt;/ul&gt;Check out the full whitepaper here: &lt;a href=&quot;http://levitum.com/mobile_cloud_whitepaper.html&quot;&gt;2010 Mobile Cloud Trend to Watch&lt;/a&gt; and feel free to share your comments.&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2009/12/trends-to-watch.html&quot;&gt;Trends to Watch&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on December 16, 2009.&lt;/p&gt;</content>
+</entry>
+
+</feed>
