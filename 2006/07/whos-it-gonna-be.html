@@ -76,6 +76,9 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.arg0s.in/images/apple-touch-icon-144x144-precomposed.png">
 
+<!-- Socialite -->
+<script src="http://www.arg0s.in/assets/js/vendor/socialite.min.js"></script>
+
 </head>
 
 <body class="post">
@@ -130,6 +133,17 @@
         <h1><a href="http://www.arg0s.in/2006/07/whos-it-gonna-be.html" rel="bookmark" title="Who's it gonna be?">Who's it gonna be?</a></h1>
       
     </div><!--/ .headline-wrap -->
+ <div class="social-box shareit">
+<ul id="sharethis" class="social-buttons cf">
+    <li>
+        <a href="http://twitter.com/share" class="socialite twitter-share" data-text="Who's it gonna be?" data-size="large" data-url="http://www.arg0s.in/2006/07/whos-it-gonna-be.html" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a> &nbsp;
+    </li>
+    <li>
+      <a href="https://twitter.com/twitortat" class="twitter-follow-button" data-show-count="true" data-size="large" data-count="vertical" data-dnt="true">Follow @twitortat</a>
+    </li>
+</ul>
+</div>
+
     <div class="article-wrap">
       
 <div class="css-full-post-content js-full-post-content">
@@ -164,8 +178,19 @@
         
             Arvi Krishnaswamy
         
-      </a>. If you liked this article, follow Arvi on Twitter <strong><a href="http://www.twitter.com/twitortat">@twitortat</a></strong> and say hello.</p>
-      </footer>
+      </a>.
+    </footer>
+ <div class="social-box shareit">
+<ul id="sharethis" class="social-buttons cf">
+    <li>
+        <a href="http://twitter.com/share" class="socialite twitter-share" data-text="Who's it gonna be?" data-size="large" data-url="http://www.arg0s.in/2006/07/whos-it-gonna-be.html" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a> &nbsp;
+    </li>
+    <li>
+      <a href="https://twitter.com/twitortat" class="twitter-follow-button" data-show-count="true" data-size="large" data-count="vertical" data-dnt="true">Follow @twitortat</a>
+    </li>
+</ul>
+</div>
+
     </div><!-- /.article-wrap -->
   
   </article>
@@ -228,6 +253,18 @@ function autoResize(id){
     document.getElementById(id).width= (newwidth) + "px";
 }
 //-->
+</script>
+
+
+<script>
+  (function() {
+    Socialite.load('.social-buttons');
+    $('.post-index-item').one('mouseenter', function()
+    {
+      Socialite.load(this);
+    });
+  })();
+
 </script>
 
 

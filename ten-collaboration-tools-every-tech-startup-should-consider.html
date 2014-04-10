@@ -76,6 +76,9 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.arg0s.in/images/apple-touch-icon-144x144-precomposed.png">
 
+<!-- Socialite -->
+<script src="http://www.arg0s.in/assets/js/vendor/socialite.min.js"></script>
+
 </head>
 
 <body class="post">
@@ -130,6 +133,17 @@
         <h1><a href="http://www.arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html" rel="bookmark" title="Ten collaboration tools every tech startup should consider">Ten collaboration tools every tech startup should consider</a></h1>
       
     </div><!--/ .headline-wrap -->
+ <div class="social-box shareit">
+<ul id="sharethis" class="social-buttons cf">
+    <li>
+        <a href="http://twitter.com/share" class="socialite twitter-share" data-text="Ten collaboration tools every tech startup should consider" data-size="large" data-url="http://www.arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a> &nbsp;
+    </li>
+    <li>
+      <a href="https://twitter.com/twitortat" class="twitter-follow-button" data-show-count="true" data-size="large" data-count="vertical" data-dnt="true">Follow @twitortat</a>
+    </li>
+</ul>
+</div>
+
     <div class="article-wrap">
       <p>Our Bangalore based team at <a href="http://www.levitum.com">Levitum</a> works from home 3 days of the week. It’s awesome since we save nearly two hours of daily commute time, which gives us more time with our families and to do all the fun things we enjoy (and avoid the horrendous Bangalore traffic). On the other hand, it meant developing a collaborative team culture and using tools that would facilitate working from home effectively. While this may sound trivial, third world problems of power outages and broadband connectivity issues make things hard at times. We also have one colleague working from Chennai and another from Hyderabad. Over time, we’ve been using a number of cloud based tools &amp; services that have helped us collaborate effectively and have loads of fun along the way while we’ve grown Levitum. Here’s a quick list!</p>
 
@@ -217,8 +231,19 @@
         
             Arvi Krishnaswamy
         
-      </a>. If you liked this article, follow Arvi on Twitter <strong><a href="http://www.twitter.com/twitortat">@twitortat</a></strong> and say hello.</p>
-      </footer>
+      </a>.
+    </footer>
+ <div class="social-box shareit">
+<ul id="sharethis" class="social-buttons cf">
+    <li>
+        <a href="http://twitter.com/share" class="socialite twitter-share" data-text="Ten collaboration tools every tech startup should consider" data-size="large" data-url="http://www.arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a> &nbsp;
+    </li>
+    <li>
+      <a href="https://twitter.com/twitortat" class="twitter-follow-button" data-show-count="true" data-size="large" data-count="vertical" data-dnt="true">Follow @twitortat</a>
+    </li>
+</ul>
+</div>
+
     </div><!-- /.article-wrap -->
   
     <section id="disqus_thread"></section><!-- /#disqus_thread -->
@@ -308,6 +333,18 @@ function autoResize(id){
     document.getElementById(id).width= (newwidth) + "px";
 }
 //-->
+</script>
+
+
+<script>
+  (function() {
+    Socialite.load('.social-buttons');
+    $('.post-index-item').one('mouseenter', function()
+    {
+      Socialite.load(this);
+    });
+  })();
+
 </script>
 
 

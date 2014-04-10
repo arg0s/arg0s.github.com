@@ -76,6 +76,9 @@
 <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.arg0s.in/images/apple-touch-icon-144x144-precomposed.png">
 
+<!-- Socialite -->
+<script src="http://www.arg0s.in/assets/js/vendor/socialite.min.js"></script>
+
 </head>
 
 <body class="page">
@@ -241,6 +244,18 @@ function autoResize(id){
     document.getElementById(id).width= (newwidth) + "px";
 }
 //-->
+</script>
+
+
+<script>
+  (function() {
+    Socialite.load('.social-buttons');
+    $('.post-index-item').one('mouseenter', function()
+    {
+      Socialite.load(this);
+    });
+  })();
+
 </script>
           
 
