@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-04-11T14:01:28+00:00</updated>
+<updated>2014-04-11T14:10:38+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
@@ -40,7 +40,7 @@
   &lt;li&gt;&lt;a href=&quot;#hypothesis-3&quot;&gt;Hypothesis 3&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#hypothesis-4&quot;&gt;Hypothesis 4&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#hypothesis-5&quot;&gt;Hypothesis 5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-condundrum&quot;&gt;The Condundrum&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-conundrum&quot;&gt;The Conundrum&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#what-we-did-well&quot;&gt;What we did well&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#what-we-could-have-done-better&quot;&gt;What we could have done better&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#was-this-a-failed-mvp&quot;&gt;Was this a ‘failed’ MVP?&lt;/a&gt;&lt;/li&gt;
@@ -79,7 +79,7 @@
 &lt;p&gt;As we thought about this, there were a number of questions.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Do people care at all about Charades? It turned out that Ellen’s charades game was &lt;a href=&quot;https://www.youtube.com/watch?v=Bf8RTdWdd44&quot;&gt;wildy popular&lt;/a&gt;, and there was a lot of buzz around Heads Up Charades, but that was not indicative about whether people would want to play online.&lt;/li&gt;
+  &lt;li&gt;Do people care at all about Charades? It turned out that Ellen’s charades game was &lt;a href=&quot;https://www.youtube.com/watch?v=Bf8RTdWdd44&quot;&gt;wildly popular&lt;/a&gt;, and there was a lot of buzz around Heads Up Charades, but that was not indicative about whether people would want to play online.&lt;/li&gt;
   &lt;li&gt;Would charades be engaging enough that people would want to play regularly?&lt;/li&gt;
   &lt;li&gt;If we set up a real-time game to mimic the mechanics of the game we are used to, that would require friends being present at the same time, which may be hard to schedule.&lt;/li&gt;
   &lt;li&gt;If scheduling was hard, would people be comfortable playing with strangers in games rooms like poker online.&lt;/li&gt;
@@ -155,7 +155,7 @@ we had a shot at something.&lt;/li&gt;
 &lt;h2 id=&quot;hypothesis-2&quot;&gt;Hypothesis 2&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Of users in the target demographic who are shown mockuped up flows of the game concept, at least 70% of them would be very interested in the game.&lt;/p&gt;
+  &lt;p&gt;Of users in the target demographic who are shown mocked up up flows of the game concept, at least 70% of them would be very interested in the game.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;table&gt;
@@ -340,30 +340,30 @@ we had a shot at something.&lt;/li&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt; &lt;/td&gt;
-      &lt;td&gt;6. Added a Qualroo style prompt to find out why they dont turn video on.&lt;/td&gt;
+      &lt;td&gt;6. Added a Qualroo style prompt to find out why they don’t turn video on.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;RESULT&lt;/td&gt;
-      &lt;td&gt;50% of the users visited the page, but &amp;lt; 10% turned video on. 5% answered the prompt indicating they didnt want to turn video on, would try later, or werent sure how to turn it on.&lt;/td&gt;
+      &lt;td&gt;50% of the users visited the page, but &amp;lt; 10% turned video on. 5% answered the prompt indicating they didn’t want to turn video on, would try later, or weren’t sure how to turn it on.&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;LEARNING&lt;/td&gt;
-      &lt;td&gt;Given the anonymity of these communities, it was hard to reach out directly and get feedback. The sampling size of the respondees to the prompt was too small to infer enough.&lt;/td&gt;
+      &lt;td&gt;Given the anonymity of these communities, it was hard to reach out directly and get feedback. The sampling size of the responders to the prompt was too small to infer enough.&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;the-condundrum&quot;&gt;The Condundrum&lt;/h2&gt;
+&lt;h2 id=&quot;the-conundrum&quot;&gt;The Conundrum&lt;/h2&gt;
 
 &lt;p&gt;We also spoke to a group of users and collated feedback. So, at this point, we were faced with this conundrum from our learnings.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;There’s a certain level of interest in charades, but it’s mostly seen as a family &amp;amp; friends game.&lt;/li&gt;
-  &lt;li&gt;For those who see their friends &amp;amp; family often enough, playing charades online wasnt appealing. (Playing live with them during Thanksgiving or Christmas was still appealing).&lt;/li&gt;
+  &lt;li&gt;For those who see their friends &amp;amp; family often enough, playing charades online wasn’t appealing. (Playing live with them during Thanksgiving or Christmas was still appealing).&lt;/li&gt;
   &lt;li&gt;The average users isn’t comfortable playing with random strangers online.&lt;/li&gt;
   &lt;li&gt;Even communities that are comfortable dealing with nudity online, and have no reservations didn’t find the idea appealing.&lt;/li&gt;
   &lt;li&gt;Improvements in the visual design and explanatory information offered did not increase conversions.&lt;/li&gt;
-  &lt;li&gt;A game like this requires a fairly engaged community, and it didnt appear that charades would sustain that level of engagement.&lt;/li&gt;
+  &lt;li&gt;A game like this requires a fairly engaged community, and it didn’t appear that charades would sustain that level of engagement.&lt;/li&gt;
   &lt;li&gt;There’s a community of people in the subcontinent that loves dumb charades, but the version that’s played is fairly technical and geeky, and would not scale out.&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -371,7 +371,7 @@ we had a shot at something.&lt;/li&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Capture our thought process and assumptions, laying out things that had to be true for us to succeed&lt;/li&gt;
-  &lt;li&gt;Identied small batches that could be proven (or disproven) with minimum cost, rapidly built and iterated through the batches.&lt;/li&gt;
+  &lt;li&gt;Identified small batches that could be proven (or disproven) with minimum cost, rapidly built and iterated through the batches.&lt;/li&gt;
   &lt;li&gt;Stayed honest and objective, tracked metrics and cohorts well.&lt;/li&gt;
 &lt;/ul&gt;
 
