@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-04-29T20:09:52+00:00</updated>
+<updated>2014-04-30T03:59:33+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
@@ -39,6 +39,7 @@
   &lt;li&gt;&lt;a href=&quot;#jumping-into-validation&quot;&gt;Jumping Into Validation&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#closure&quot;&gt;Closure&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#pitfalls--tips&quot;&gt;Pitfalls &amp;amp; Tips&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#using-turk&quot;&gt;Using Turk&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#disruption&quot;&gt;Disruption&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -48,7 +49,9 @@
 &lt;/section&gt;
 &lt;!-- /#table-of-contents --&gt;
 
-&lt;p&gt;In a &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;recent post&lt;/a&gt;, I covered off learnings from an MVP we built out for charades online&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;In a &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;recent post&lt;/a&gt;, I covered off learnings from an MVP we built out for charades online&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The post was quite popular, and made it to page one of Hacker News and Reddit, bringing in over 25,000 hits in a week. I learnt tons from comments and feedback from people, and also got to know a number of amazing people around the world like &lt;a href=&quot;http://twitter.com/skmurphy&quot;&gt;@skmurphy&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/trikro&quot;&gt;@trikro&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/spikelabs&quot;&gt;@spikelabs&lt;/a&gt; who are applying lean to their ventures. Closer to home, I had great conversations with &lt;a href=&quot;http://twitter.com/mtrajan&quot;&gt;@mtrajan&lt;/a&gt; and others that are a part of the local lean startup circle.&lt;/p&gt;
+
+&lt;p&gt;I realized that there were certain things that came naturally to me, but are areas which some people tend to get stuck at. I’m going to expand on the &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;original post&lt;/a&gt; to dive into a few of them in the interest of sharing and continuing to &lt;a href=&quot;http://steveblank.com/2011/09/15/the-pay-it-forward-culture/&quot;&gt;learn from each other&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;There was one question a number of people asked me via &lt;a href=&quot;https://news.ycombinator.com/item?id=7578518&quot;&gt;Hacker News&lt;/a&gt;, LinkedIn and Disqus.&lt;/p&gt;
 
@@ -62,7 +65,13 @@
   &lt;p&gt;What are some of the typical questions you ask during a customer interview?&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I’ve put together a list of common questions that I’ve been asking people I interview. Note that these questions are mostly targeted towards an enterprise/SaaS B2B or B2B2C type of discovery. Also, I’m not laying out a complete script for you to follow - these are just the &lt;em&gt;important&lt;/em&gt; questions that you may want to cover off.&lt;/p&gt;
+&lt;p&gt;I’ve put together a list of common questions that I’ve been asking people I interview. Note that&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;These questions are mostly targeted towards an enterprise/SaaS B2B or B2B2C type of discovery.&lt;/li&gt;
+  &lt;li&gt;Also, I’m not laying out a complete script for you to follow - these are just the &lt;em&gt;important&lt;/em&gt; questions that you may want to cover off.&lt;/li&gt;
+  &lt;li&gt;I’m not discussing how you may acquire these users, although I’ll share some tips further down in the article.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;&lt;img src=&quot;/images/niche.png&quot; alt=&quot;/images/niche.png&quot; /&gt;&lt;/p&gt;
 
@@ -117,7 +126,7 @@
 
 &lt;p&gt;One example where this approach may be useful is if your product’s unique proposition is based on the experience it offers. These can be hard to approach from a problem/solution fit Q&amp;amp;A if the user is unable to visualize how things could be different.&lt;/p&gt;
 
-&lt;p&gt;For instance, if your idea was a Flipboard style app, it would be hard to explain the unique experience to a Google Reader user. In this case, a mockup (or ever a prototype) may be needed to assist with your interview.&lt;/p&gt;
+&lt;p&gt;For instance, if your idea was a Flipboard style app, it would be hard to explain the unique experience to a Google Reader user. In this case, a mockup (or even a working prototype) may be needed to assist with your interview.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;What do you think about this product “insert the value proposition”?&lt;/li&gt;
@@ -148,18 +157,28 @@
 &lt;ul&gt;
   &lt;li&gt;One of the challenges I’ve faced so far has been that it’s not easy when there are certain barriers to reaching your target users. I’ve made the mistake of talking to what we thought were reasonable approximations (users of the same age group, but in a different part of the world). &lt;em&gt;They were not representative&lt;/em&gt;.
     &lt;ul&gt;
-      &lt;li&gt;There’s the story of &lt;a href=&quot;https://twitter.com/asmartbear/&quot;&gt;Jason Cohen&lt;/a&gt; of WPEngine. During their early days, he got onto LinkedIn and wrote a number of bloggers directly. To show that he really valued their time, he offered to pay for their time during the interviews. He spoke to several people until he found 30 that were willing to pay $49/mo for a hosted wordpress service.&lt;/li&gt;
+      &lt;li&gt;There’s the story of &lt;a href=&quot;https://twitter.com/asmartbear/&quot;&gt;Jason Cohen&lt;/a&gt; of WPEngine. During their early days, Jason got onto LinkedIn and wrote a number of bloggers directly. To show that he really valued their time, he offered to pay for their time during the interviews. He spoke to several people until he found 30 that were willing to pay $49/mo for a hosted wordpress service. If you are comfortable side stepping any personal reservations and reaching out to people, you may find that doors open.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;Also, no amount of secondary research online can compensate since you are ultimately extrapolating based on what you’ve infered from someone elses high level summary. Don’t ever assume you can substitute one for the other - both are valuable in their own ways.&lt;/li&gt;
+  &lt;li&gt;Also, no amount of secondary research online can compensate since you are ultimately extrapolating based on what you’ve infered from someone elses high level summary. Earlier on, I’ve spent hours looking at well laid out reports aggregating data from sites online since I would hesitate to reach out and talk to users. Don’t ever assume you can substitute one for the other - &lt;em&gt;both are valuable in their own ways&lt;/em&gt;.&lt;/li&gt;
   &lt;li&gt;There are periods when you may feel like you are learning nothing from the conversations you are having. Persist, and take time later to go back and listen to your recordings or review your notes. &lt;em&gt;The dots will start to line up&lt;/em&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;using-turk&quot;&gt;Using Turk&lt;/h2&gt;
+
+&lt;p&gt;So, I was asked recently if we’d considered using Amazon’s &lt;a href=&quot;https://www.mturk.com/mturk/welcome&quot;&gt;Mechanical Turk&lt;/a&gt; for B2C interviews. Well, we hadn’t. One part of the challenge was that I don’t think my thought process on the interview structure had matured enough to whittle it down to a list I could easily pass on to someone to follow. The other part to be honest was that I felt that I’d want to probe more to really explore and discover, and that would be hard to pass on via Turk. In many ways, this was so core to my understanding of the users that it wouldnt be something I would outsource away. I suspect that in the future, I might use Turk &lt;em&gt;after&lt;/em&gt; I’ve spoken to a sizeable sampling of people as a means of validating that my initial sampling size wasnt too small.&lt;/p&gt;
+
 &lt;h2 id=&quot;disruption&quot;&gt;Disruption&lt;/h2&gt;
 
-&lt;p&gt;If you’re attempting to do something truly disruptive, it’s quite likely that most people arent going to be able to understand what your vision is. It’s also quite likely that you may not be able to fully explain it either.&lt;/p&gt;
+&lt;p&gt;There’s one other question I’ve gotten.&lt;/p&gt;
 
-&lt;p&gt;In that case, I’m not totally sure this customer development approach may help you with broader questions that you seek answers too. But then I also hope that you’ve got enough VC money to help you chase down a problem which isnt totally straightforward.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;What if I have a great disruptive idea, but it’s not something users may be able to imagine at this point?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;IMHO, if you’re attempting to do something truly disruptive, it’s quite likely that most people arent going to be able to understand what your vision is. It’s also quite likely that you may not be able to fully explain it either.&lt;/p&gt;
+
+&lt;p&gt;In that case, I’m not totally sure this customer development approach may help you with broader questions that you seek answers too. But then I also hope that you’ve got enough VC money to help you chase down a problem which isnt totally straightforward - you’re likely looking at a fairly longer term play.&lt;/p&gt;
 
 &lt;p class=&quot;notice&quot;&gt;We’re still learning and would love to hear how you go about this. What are the common questions you ask? Feel free to share your tips in the comments below, or send me a message &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;
 
