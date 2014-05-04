@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-05-04T05:24:34+00:00</updated>
+<updated>2014-05-04T06:18:37+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
@@ -24,7 +24,32 @@
     <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
-  <content type="html">&lt;p&gt;As Google celebrates Audrey Hepburn’s&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; birthday with this lovely doodle&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, it’s worth re-reading one of her favorite poems by Rabindranath Tagore &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, Unending Love.&lt;/p&gt;
+  <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#audrey-hepburns-favorite-poem&quot;&gt;Audrey Hepburn’s Favorite Poem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-full-poem&quot;&gt;The Full Poem&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#ma-belle&quot;&gt;Ma Belle&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+    &lt;a href=&quot;/images/hepburn.jpg&quot;&gt;&lt;img src=&quot;/images/hepburn.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;a href=&quot;/images/tagore.jpg&quot;&gt;&lt;img src=&quot;/images/tagore.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;figcaption&gt;Tagore wrote Audrey Hepburn&#39;s favorite poem&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;audrey-hepburns-favorite-poem&quot;&gt;Audrey Hepburn’s Favorite Poem&lt;/h2&gt;
+
+&lt;p&gt;As Google celebrates Audrey Hepburn’s&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; birthday with this lovely doodle&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, it’s worth re-reading one of her favorite poems by Rabindranath Tagore &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, Unending Love.&lt;/p&gt;
 
 &lt;p&gt;It’s a lovely little piece where Tagore subtly immerses the reader in experiences of love.&lt;/p&gt;
 
@@ -33,14 +58,17 @@
 You become an image of what is remembered forever.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;We are taken back and forth across time, which makes the piece feel even more ethereal.&lt;/p&gt;
+&lt;p&gt;We are taken back and forth across time, which if you ask me, makes the piece feel even more ethereal.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Today it is heaped at your feet, it has found its end in you
 The love of all man’s days both past and forever:&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Here’s the full poem.&lt;/p&gt;
+&lt;h2 id=&quot;the-full-poem&quot;&gt;The Full Poem&lt;/h2&gt;
+
+&lt;p&gt;Here’s the full poem, translated from the original Bengali by William Radice&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. William was an English poet who spent decades with Tagore, developing a deep understanding of his work, and honed techniques for translation into English which retained the power of the original prose.&lt;/p&gt;
+
 &lt;pre&gt;
 Unending Love
 
@@ -67,12 +95,16 @@ The love of all man’s days both past and forever:
 Universal joy, universal sorrow, universal life.
 The memories of all loves merging with this one love of ours –
 And the songs of every poet past and forever.
+
+- Rabindranath Tagore
+
 &lt;/pre&gt;
 
 &lt;h3 id=&quot;ma-belle&quot;&gt;Ma Belle&lt;/h3&gt;
 
-&lt;p&gt;I’ll always remember this day since it’s also my &lt;a href=&quot;/about&quot;&gt;dog&lt;/a&gt;, my constant companion, Ma Belle’s birthday. She turns six today! And in so many ways, she is Hepburn-eque, with all the grace, poise, and regal bearing that that Audrey was much loved for.
-&lt;img src=&quot;/images/ma_belle.jpg&quot; alt=&quot;/images/ma_belle.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;On a more personal note, I’ll always remember this day since it’s also my &lt;a href=&quot;/about&quot;&gt;dog&lt;/a&gt;, my constant companion, Ma Belle’s birthday. She turns six today! And in so many ways, she is Hepburn-eque, with all the grace, poise, and regal bearing that that Audrey was much loved for.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/ma_belle.jpg&quot; alt=&quot;/images/ma_belle.jpg&quot; /&gt;&lt;/p&gt;
 
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
@@ -83,7 +115,10 @@ And the songs of every poet past and forever.
       &lt;p&gt;&lt;a href=&quot;http://www.mirror.co.uk/news/world-news/audrey-hepburn-google-celebrates-hollywood-3493881&quot;&gt;Google’s Doodle for Audrey Hepburn&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;en.wikipedia.org/wiki/Rabindranath_Tagore&quot;&gt;Rabindranath Tagore&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Rabindranath_Tagore&quot;&gt;Rabindranath Tagore&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.goodreads.com/author/list/96721.William_Radice&quot;&gt;William Radice&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
