@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-05-13T20:20:01+00:00</updated>
+<updated>2014-05-13T20:35:30+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
@@ -96,19 +96,19 @@
 
 &lt;p&gt;Invite less people. Or at least as few people as you really need to.&lt;/p&gt;
 
-&lt;p&gt;The honest truth about this is, if you’ve got people who sit through your meetings &lt;em&gt;without&lt;/em&gt; offering any new perspective or ideas, their attendance was likely optional in the first place.&lt;/p&gt;
+&lt;p&gt;The honest truth about this is, we invite too many people all the time. And we attend several meetings where don’t add much value. If you’ve got people who sit through your meetings &lt;em&gt;without&lt;/em&gt; offering any new perspective or ideas, their attendance was likely optional in the first place.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;If you’ve got people who sit through your meetings &lt;em&gt;without&lt;/em&gt; offering any new perspective or ideas, their attendance was likely optional in the first place.&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;I don’t doubt that they may have required the context and thought process behind the discussion, but that may have been better served by providing them a separate 10 minute summary instead of having them sit through an hour long meeting. And this is not about who is smart or who is not - everyone’s got a role to play and a job to get done at the end of the day.&lt;/p&gt;
+&lt;p&gt;I don’t doubt that they may have required the context and thought process behind the discussion. But, that may have been better served by providing them a separate 10 minute summary instead of having them sit through an hour long meeting. And this is not about who is smart or who is not - everyone’s got a role to play and a job to get done at the end of the day.&lt;/p&gt;
 
 &lt;h3 id=&quot;use-the-best-tools&quot;&gt;Use the best tools&lt;/h3&gt;
 
 &lt;p&gt;&lt;img src=&quot;images/slack.png&quot; alt=&quot;images/slack.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In the context of meetings, it’s important to also cover off collaboration tools. I’ve written earlier about &lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;collaboration tools every startup should consider&lt;/a&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, but I’ll particularly call out some of the newer ones that are arrived since.&lt;/p&gt;
+&lt;p&gt;In the context of meetings, it’s important to also cover off collaboration tools. I’ve written about &lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;collaboration tools every startup should consider&lt;/a&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, but I’ll  call out some of the newer ones that are arrived since then.&lt;/p&gt;
 
 &lt;p&gt;While you may be able to get by with with Skype or other similar general consumer chat apps, most startups I know are using either Campfire, Hipchat or Slack. In our case, we’ve made Slack the primary. I’ve literally gone through weeks without having had to have exchanged emails with my colleagues.&lt;/p&gt;
 
@@ -143,7 +143,7 @@
   &lt;li&gt;Discuss plan for the week&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;The objective of this meeting is to lay out the plan for the week ahead. We’ve been using &lt;a href=&quot;http://www.leankit.com&quot;&gt;LeanKit&lt;/a&gt; extensively, and use it to track everything. Ideally, we try to get LeanKit up to date coming in to the meeting so that the rough plan is in place and we need to mostly sync up to ensure we have a shared context.&lt;/p&gt;
+&lt;p&gt;The objective of this meeting is to lay out the plan for the week ahead. We’ve been using &lt;a href=&quot;http://www.leankit.com&quot;&gt;LeanKit&lt;/a&gt; extensively, and use it to track everything. We try to get LeanKit up to date coming in to the meeting so that the rough plan is in place and we need to sync up just to ensure we have a shared context.&lt;/p&gt;
 
 &lt;h2 id=&quot;tuesday---the-compass&quot;&gt;Tuesday - The Compass&lt;/h2&gt;
 
@@ -153,7 +153,7 @@
   &lt;li&gt;Are we headed in the right direction?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This is a slightly broader discussion about whether we are on track towards the original objective. While we could have considered moving this to a fortnightly or monthly discussion, it’s important enough since we’re learning a lot very rapidly. This gives us a weekly checkpoint to consider whether we need to pivot based on our learnings, or whether we are on course.&lt;/p&gt;
+&lt;p&gt;This is a slightly broader discussion about whether we are on track towards the original goal. While we could have considered moving this to a fortnightly or monthly discussion, it’s important enough since we’re learning a lot rapidly. This gives us a weekly checkpoint to consider whether we need to pivot based on our learnings, or whether we are on course.&lt;/p&gt;
 
 &lt;h2 id=&quot;wednesday---the-caliper&quot;&gt;Wednesday - The Caliper&lt;/h2&gt;
 
@@ -165,7 +165,7 @@
   &lt;li&gt;Are there things we aren’t doing that we should be?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We’re focused on just 2-3 metrics at this point, and they are around acquisition, activation, and retention. In certain areas such as customer development, we currently just track the number of conversations we’ve had.&lt;/p&gt;
+&lt;p&gt;We’re focused on just 2-3 metrics at this point. They are around acquisition, activation, and retention. In certain areas such as customer development, we currently just track the number of conversations we’ve had.&lt;/p&gt;
 
 &lt;h2 id=&quot;thursday---the-knot&quot;&gt;Thursday - The Knot&lt;/h2&gt;
 
@@ -175,7 +175,15 @@
   &lt;li&gt;Learn a new thing from each other&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;One of the things that has always amazed me about the &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; is the amount of talent and knowledge everyone has on a wide range of subjects. Often enough, the day to day routine of our work doesn’t let us explore this as much as we’d like. And what better way to bring a team together than just share your knowledge and passion with each other. We’re hoping to cover off a wide range of topics - technology, business, social media, sports, photography, music and more. The goal of these sessions is to keep things informal, and not require a lot of prep. In the interest of sharing this with everyone else who may be interested, and doesn’t mind ad-hoc learning without a set agenda or formal structure, we’ll open this out as a Hangout on-air.&lt;/p&gt;
+&lt;p&gt;One of the things that has always amazed me about the &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; team is the amount of talent and knowledge everyone has on a wide range of subjects. Often enough, the day to day routine of our work doesn’t let us explore this as much as we’d like. And what better way to bring a team together than just share your knowledge and passion with each other.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;And what better way to bring a team together than just share your knowledge and passion with each other.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We’re hoping to cover off a wide range of topics - technology, business, social media, sports, photography, music and more. The goal of these sessions is to keep things informal, and not need a lot of prep.&lt;/p&gt;
+
+&lt;p&gt;In the interest of sharing this with everyone else who are interested, we plan open this out to the public. So, if you doen’t mind ad-hoc learning without a set agenda or formal structure, join us on our weekly Knot Hangout on-air*.&lt;/p&gt;
 
 &lt;h2 id=&quot;friday---the-truth&quot;&gt;Friday - The Truth&lt;/h2&gt;
 
