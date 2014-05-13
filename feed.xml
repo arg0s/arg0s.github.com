@@ -4,13 +4,212 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-05-04T09:56:14+00:00</updated>
+<updated>2014-05-13T20:20:01+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
   <uri>http://arg0s.in/</uri>
   <email>arvi@alumni.iastate.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Running Effective Meetings At Your Startup]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/running-efficient-meetings-at-your-startup.html" />
+  <id>http://arg0s.in/running-efficient-meetings-at-your-startup</id>
+  <updated>2014-05-04 07:11:59 UTCT00:00:00-00:00</updated>
+  <published>2014-05-14T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+  &lt;header&gt;
+    &lt;h3&gt;Contents&lt;/h3&gt;
+  &lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-grease&quot;&gt;The Grease&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-makes-an-effective-meeting&quot;&gt;What makes an effective meeting&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#establish-the-purpose&quot;&gt;Establish the purpose&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#invite-less-people&quot;&gt;Invite less people&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#use-the-best-tools&quot;&gt;Use the best tools&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#keep-conversations-effective&quot;&gt;Keep conversations effective&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-we-run-meetings-through-the-week&quot;&gt;How We Run Meetings Through The Week&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#our-schedule&quot;&gt;Our Schedule&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#monday---the-sunny-beginning&quot;&gt;Monday - The Sunny Beginning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tuesday---the-compass&quot;&gt;Tuesday - The Compass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#wednesday---the-caliper&quot;&gt;Wednesday - The Caliper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#thursday---the-knot&quot;&gt;Thursday - The Knot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#friday---the-truth&quot;&gt;Friday - The Truth&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;p&gt;At &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt;, we are currently experimenting with a clean, new approach to how we’re running meetings during the week. This post shares the thought process behind the changes we’ve made as we’re growing and balancing new priorities. We’re hoping this will help us be more efficient, promote collaboration, and ensure we are looking out for the right things.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;/images/meeting.png&quot; /&gt;
+  &lt;figcaption&gt;A simpler, clear schedule for our meetings&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-grease&quot;&gt;The Grease&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;While often viewed as a necessary evil in most startups, meetings provide connective communication grease.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Meetings. While often viewed as a necessary evil in most startups, they provide connective communication grease. Grease that helps information flow, camaradarie to grow, and keeps your startup running like a well oiled machine. But invariably, too much meetings can be a bad thing. Developers get particularly restless when they end up spending too much time in status meetings. Strategy meetings can often spin into endless self aggrandizing discussions. How do you know when you’ve got the right mix and balance of meetings?&lt;/p&gt;
+
+&lt;h2 id=&quot;what-makes-an-effective-meeting&quot;&gt;What makes an effective meeting&lt;/h2&gt;
+
+&lt;p&gt;Running effective meetings really boils down to three things&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;They achieve the meeting’s objective.&lt;/li&gt;
+  &lt;li&gt;They take up a minimum amount of time.&lt;/li&gt;
+  &lt;li&gt;They leave participants feeling that a sensible process has been followed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;establish-the-purpose&quot;&gt;Establish the purpose&lt;/h3&gt;
+
+&lt;p&gt;It’s also important to decide upon what the key purposes&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; your meetings are for:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Communication – share new initiatives, company victories and upcoming challenges&lt;/li&gt;
+  &lt;li&gt;Consolidation – unite the team around a common sense of purpose and formally onboard new team members&lt;/li&gt;
+  &lt;li&gt;Confirmation – highlight employee accomplishments which reinforce the company’s values and culture&lt;/li&gt;
+  &lt;li&gt;Motivation – excite employees and describe how the company will win, without ignoring reality or attempting to delude them&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;invite-less-people&quot;&gt;Invite less people&lt;/h2&gt;
+
+&lt;p&gt;Invite less people. Or at least as few people as you really need to.&lt;/p&gt;
+
+&lt;p&gt;The honest truth about this is, if you’ve got people who sit through your meetings &lt;em&gt;without&lt;/em&gt; offering any new perspective or ideas, their attendance was likely optional in the first place.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;If you’ve got people who sit through your meetings &lt;em&gt;without&lt;/em&gt; offering any new perspective or ideas, their attendance was likely optional in the first place.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I don’t doubt that they may have required the context and thought process behind the discussion, but that may have been better served by providing them a separate 10 minute summary instead of having them sit through an hour long meeting. And this is not about who is smart or who is not - everyone’s got a role to play and a job to get done at the end of the day.&lt;/p&gt;
+
+&lt;h3 id=&quot;use-the-best-tools&quot;&gt;Use the best tools&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/slack.png&quot; alt=&quot;images/slack.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the context of meetings, it’s important to also cover off collaboration tools. I’ve written earlier about &lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;collaboration tools every startup should consider&lt;/a&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, but I’ll particularly call out some of the newer ones that are arrived since.&lt;/p&gt;
+
+&lt;p&gt;While you may be able to get by with with Skype or other similar general consumer chat apps, most startups I know are using either Campfire, Hipchat or Slack. In our case, we’ve made Slack the primary. I’ve literally gone through weeks without having had to have exchanged emails with my colleagues.&lt;/p&gt;
+
+&lt;p&gt;These tools are particularly effective for distributed teams (we’re in 3 different cities), and help keep everyone on the same page. A quick live conversation is just a click away.&lt;/p&gt;
+
+&lt;h3 id=&quot;keep-conversations-effective&quot;&gt;Keep conversations effective&lt;/h3&gt;
+
+&lt;p&gt;And here’s a few tips from Sean Blanda&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; on keeping the conversations as useful as possible.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;There is no judging in brainstorming. Focus on capturing ideas before filtering and critiquing them.&lt;/li&gt;
+  &lt;li&gt;Bring solutions, not problems. Solutioning in the middle of a meeting wastes precious communication time. If you can’t bring proposed solutions to the table, save it for next time or bring it up in private conversations.&lt;/li&gt;
+  &lt;li&gt;Review “homework” from the last meeting. Not only does it remind participants what happened last week, it holds attendees accountable.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-we-run-meetings-through-the-week&quot;&gt;How We Run Meetings Through The Week&lt;/h2&gt;
+
+&lt;p&gt;Earlier, we used to mostly operate off a daily standup at 9AM. This used to mostly work ok - we’d just follow up and set up breakout meetings as and when needed. But increasingly, the meetings used to stretch out for an hour or so, often meandering through updates and discussions that weren’t always relevant. Plus, there were certain topics that we ought to have been covering off that simply weren’t surfacing.&lt;/p&gt;
+
+&lt;p&gt;We’re trying out a new meeting structure for the week. Every day, the meetings start at 9AM over Google Hangout, and run for half hour to an hour. There are also other meetings not listed here for breakout discussions on technical or marketing activities.&lt;/p&gt;
+
+&lt;h3 id=&quot;our-schedule&quot;&gt;Our Schedule&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/meeting.png&quot; alt=&quot;/images/meeting.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;monday---the-sunny-beginning&quot;&gt;Monday - The Sunny Beginning&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/sunflowers.jpg&quot; alt=&quot;images/sunflowers.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Discuss how last week went (brief)&lt;/li&gt;
+  &lt;li&gt;Discuss plan for the week&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The objective of this meeting is to lay out the plan for the week ahead. We’ve been using &lt;a href=&quot;http://www.leankit.com&quot;&gt;LeanKit&lt;/a&gt; extensively, and use it to track everything. Ideally, we try to get LeanKit up to date coming in to the meeting so that the rough plan is in place and we need to mostly sync up to ensure we have a shared context.&lt;/p&gt;
+
+&lt;h2 id=&quot;tuesday---the-compass&quot;&gt;Tuesday - The Compass&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/compass.jpg&quot; alt=&quot;images/compass.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Are we headed in the right direction?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a slightly broader discussion about whether we are on track towards the original objective. While we could have considered moving this to a fortnightly or monthly discussion, it’s important enough since we’re learning a lot very rapidly. This gives us a weekly checkpoint to consider whether we need to pivot based on our learnings, or whether we are on course.&lt;/p&gt;
+
+&lt;h2 id=&quot;wednesday---the-caliper&quot;&gt;Wednesday - The Caliper&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/caliper.jpg&quot; alt=&quot;images/caliper.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What are some of the things we are doing well&lt;/li&gt;
+  &lt;li&gt;What are things we could be doing better&lt;/li&gt;
+  &lt;li&gt;Are there things we aren’t doing that we should be?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We’re focused on just 2-3 metrics at this point, and they are around acquisition, activation, and retention. In certain areas such as customer development, we currently just track the number of conversations we’ve had.&lt;/p&gt;
+
+&lt;h2 id=&quot;thursday---the-knot&quot;&gt;Thursday - The Knot&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/knot.jpg&quot; alt=&quot;images/knot.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Learn a new thing from each other&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;One of the things that has always amazed me about the &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; is the amount of talent and knowledge everyone has on a wide range of subjects. Often enough, the day to day routine of our work doesn’t let us explore this as much as we’d like. And what better way to bring a team together than just share your knowledge and passion with each other. We’re hoping to cover off a wide range of topics - technology, business, social media, sports, photography, music and more. The goal of these sessions is to keep things informal, and not require a lot of prep. In the interest of sharing this with everyone else who may be interested, and doesn’t mind ad-hoc learning without a set agenda or formal structure, we’ll open this out as a Hangout on-air.&lt;/p&gt;
+
+&lt;h2 id=&quot;friday---the-truth&quot;&gt;Friday - The Truth&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/truth.jpg&quot; alt=&quot;images/truth.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What we accomplished this week&lt;/li&gt;
+  &lt;li&gt;What have we learnt&lt;/li&gt;
+  &lt;li&gt;Demo/Show/Tell&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The last day of the week is a show and tell, focused on a quick update on what got accomplished during the period and what our learnings were. This would typically include product demos, code walkthroughs, and general show &amp;amp; tell sessions.&lt;/p&gt;
+
+&lt;p&gt;If you are at a startup, how do you structure your meetings? I’d love to hear what you do, and see if we can learn from your experiences. Chime in via the comments, or drop me a note on &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.mindtools.com/CommSkll/RunningMeetings.htm&quot;&gt;Running Effective Meetings&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.businessinsider.com/how-to-run-effective-company-meetings-at-your-startup-avoid-a-revivalist-approach-2011-4&quot;&gt;How To Run Effective Company Meetings At Your Startup - Avoid A Revivalist Approach&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;Collaboration Tools Every Startup Should Consider&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://99u.com/articles/7220/how-to-run-your-meetings-like-apple-and-google&quot;&gt;How to run your meetings like Apple and Google&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/running-efficient-meetings-at-your-startup.html&quot;&gt;Running Effective Meetings At Your Startup&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 14, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -33,6 +232,7 @@
   &lt;li&gt;&lt;a href=&quot;#audrey-hepburns-favorite-poem&quot;&gt;Audrey Hepburn’s Favorite Poem&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#the-full-poem&quot;&gt;The Full Poem&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#gregory-peck-reads-unending-love&quot;&gt;Gregory Peck reads Unending Love&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#audrey-the-humanitarian&quot;&gt;Audrey the Humanitarian&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#ma-belle&quot;&gt;Ma Belle&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -108,6 +308,15 @@ And the songs of every poet past and forever.
 &lt;figcaption&gt;After Audrey&#39;s death, Gregory Peck reads out her favorite poems.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;h3 id=&quot;audrey-the-humanitarian&quot;&gt;Audrey the Humanitarian&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.”
+- Audrey Hepburn&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/audrey-2hands.jpg&quot; alt=&quot;images/audrey-2hands.jpg&quot; /&gt;&lt;/p&gt;
+
 &lt;h3 id=&quot;ma-belle&quot;&gt;Ma Belle&lt;/h3&gt;
 
 &lt;p&gt;On a more personal note, I’ll always remember this day since it’s also my &lt;a href=&quot;/about&quot;&gt;dog&lt;/a&gt;, my constant companion, Ma Belle’s birthday. She turns six today! And in so many ways, she is Hepburn-eque, with all the grace, poise, and regal bearing that that Audrey was much loved for.&lt;/p&gt;
@@ -171,7 +380,11 @@ And the songs of every poet past and forever.
 &lt;/section&gt;
 &lt;!-- /#table-of-contents --&gt;
 
-&lt;p&gt;In a &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;recent post&lt;/a&gt;, I covered off learnings from an MVP we built out for charades online&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The post was quite popular, and made it to page one of Hacker News and Reddit, bringing in over 25,000 hits in a week. I learnt tons from comments and feedback from people, and also got to know a number of amazing people around the world like &lt;a href=&quot;http://twitter.com/skmurphy&quot;&gt;@skmurphy&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/trikro&quot;&gt;@trikro&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/spikelabs&quot;&gt;@spikelabs&lt;/a&gt; who are applying lean to their ventures. Closer to home, I had great conversations with &lt;a href=&quot;http://twitter.com/mtrajan&quot;&gt;@mtrajan&lt;/a&gt; and others that are a part of the local lean startup circle.&lt;/p&gt;
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;br /&gt;
+Read the follow on post on &lt;a href=&quot;http://arg0s.in/running-efficient-meetings-at-your-startup.html&quot;&gt;how we’re improving how we run our meetings effectively at our startup&lt;/a&gt;, that’s part of an ongoing series on this blog.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;recent post&lt;/a&gt;, I covered off learnings from an MVP we built out for charades online&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The post was quite popular, and made it to page one of Hacker News and Reddit, bringing in over 25,000 hits in a week. I learnt tons from comments and feedback from people, and also got to know a number of amazing people around the world like &lt;a href=&quot;http://twitter.com/skmurphy&quot;&gt;@skmurphy&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/trikro&quot;&gt;@trikro&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/spikelab&quot;&gt;@spikelabs&lt;/a&gt; who are applying lean to their ventures. Closer to home, I had great conversations with &lt;a href=&quot;http://twitter.com/mtrajan&quot;&gt;@mtrajan&lt;/a&gt; and others that are a part of the local lean startup circle.&lt;/p&gt;
 
 &lt;p&gt;I realized that there were certain things that came naturally to me, but are areas which some people tend to get stuck at. I’m going to expand on the &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;original post&lt;/a&gt; to dive into a few of them in the interest of sharing and continuing to &lt;a href=&quot;http://steveblank.com/2011/09/15/the-pay-it-forward-culture/&quot;&gt;learn from each other&lt;/a&gt;.&lt;/p&gt;
 
@@ -304,6 +517,8 @@ And the songs of every poet past and forever.
 
 &lt;p class=&quot;notice&quot;&gt;We’re still learning and would love to hear how you go about this. What are the common questions you ask? Feel free to share your tips in the comments below, or send me a message &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;
 
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;br /&gt;
+Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.in/running-efficient-meetings-at-your-startup.html&quot;&gt;how we’re improving how we run our meetings effectively at our startup&lt;/a&gt;.&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot;&gt;
@@ -1865,26 +2080,6 @@ where the player has total control (well, once you’ve got a handle on the toss
 &lt;p&gt;As for the old archives, I’ve tried moving them over. Some of it made the hop just fine, but a lot of posts either got scrambled or had dead ends with image links or media. I might get to cleaning some of that at some point, but more likely not.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/adieu-blogspot.html&quot;&gt;Adieu Blogspot&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 16, 2012.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[My Birthday]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/2010/10/my-birthday.html" />
-  <id>http://arg0s.in/2010/10/my-birthday</id>
-  <published>2010-10-04T10:59:00+00:00</published>
-  <updated>2010-10-04T10:59:00+00:00</updated>
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">
-&lt;div class=&quot;css-full-post-content js-full-post-content&quot;&gt;
-Time flies. Or does it soar? I can’t believe that nearly a year has passed by since my last birthday! My wife and I threw a BBQ party, had a bunch of friends over, and we were dancing away on our terrace well into the night. Earlier that day, I ran a flood relief collection drive in our neighborhood that day for &lt;a href=&quot;http://www.icanimagine.org/&quot;&gt;ImagineIndia&lt;/a&gt;, and we pulled together a whole load of books, clothes, medicines and other donations. &lt;a href=&quot;http://www.icanimagine.org/&quot;&gt;ImagineIndia&lt;/a&gt; is an NGO run by Bharath, a former colleague and friend with a lot of heart, and they continue to do great work directly with schools.&lt;div&gt;&lt;br /&gt;This birthday (Oct 8th), I am collecting funds towards for an NGO called &lt;a href=&quot;http://www.anbukarangal.org/&quot;&gt;Anbu Karangal&lt;/a&gt; (&lt;a href=&quot;http://www.anbukarangal.org/&quot;&gt;http://www.anbukarangal.org/&lt;/a&gt;). My father has been involved with them for several years now, and he has been particularly appreciative of the little things that they do for children. Their center is home to over 90 abandoned children and 43 senior citizens, and is just a few kilometers away from where my parents live.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;I have a modest goal for this collection drive: &lt;b&gt;to sponsor the education of 10 children for a whole year&lt;/b&gt;. If you would like to help, it’s pretty simple. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Just Rs 2,000/- (US $50) covers the education of a child for a year&lt;/b&gt; (including food, clothes, medical aid and school fees). Write out a cheque or demand draft in favor of “Anbu Karangal”, and I&#39;ll be happy to pick it up. Contributions are income tax exempt in India under section 80G. &lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;If you would prefer to contribute with smaller amounts, or even through old clothes, books or medicines just let me know. Little things can go a long way.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;As for my birthday, I know my wife is planning something, but I dont quite know what yet!&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;UPDATE: Nov 4th&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;My thanks to all my friends who have helped in various ways with collections for the orphanage. I&#39;d like to single out a few whose significant contributions will change the lives of ten children in 2011.&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;o  Asit&lt;/div&gt;&lt;div&gt;o  Kapil&lt;/div&gt;&lt;div&gt;o  Ajith&lt;/div&gt;&lt;div&gt;o  Mithil&lt;/div&gt;&lt;div&gt;o  Natasha&lt;/div&gt;&lt;div&gt;o  Kunal&lt;/div&gt;&lt;div&gt;o  Palkesh&lt;/div&gt;&lt;div&gt;o  Kuhu&lt;/div&gt;&lt;div&gt;o  Mioara&lt;/div&gt;&lt;div&gt;o  Vidyanand&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;I am planning on visiting the orphanage next week along with some Diwali treats, and will be sure to post pictures!&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;UPDATE: Dec 15th&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;iframe width=&quot;560&quot; height=&quot;349&quot; src=&quot;http://www.youtube.com/embed/vRet_Ky3ees&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;span class=&quot;Apple-style-span&quot; style=&quot;font-weight: normal; &quot;&gt;&lt;div&gt;&lt;div&gt;Short video of the children having fun with Diwali fireworks and playing with Ma Belle!&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;&lt;div&gt;&lt;br /&gt;&lt;/div&gt;
-&lt;/div&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/2010/10/my-birthday.html&quot;&gt;My Birthday&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 04, 2010.&lt;/p&gt;</content>
 </entry>
 
 </feed>
