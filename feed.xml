@@ -4,13 +4,116 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-05-16T13:44:11+00:00</updated>
+<updated>2014-05-19T14:46:23+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
   <uri>http://arg0s.in/</uri>
   <email>arvi@alumni.iastate.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Why I'm a Mentor at Lean Startup Machine Bangalore]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html" />
+  <id>http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore</id>
+  <published>2014-05-19T00:00:00+00:00</published>
+  <updated>2014-05-19T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
+	&lt;header&gt;
+		&lt;h3&gt;Contents&lt;/h3&gt;
+	&lt;/header&gt;
+&lt;div id=&quot;drawer&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-lean-startup-movement&quot;&gt;The Lean Startup Movement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#practicing-lean&quot;&gt;Practicing Lean&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lsm-bangalore-mentors&quot;&gt;LSM Bangalore Mentors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-lsm-works&quot;&gt;How LSM works&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#hackathons&quot;&gt;Hackathons&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#validation-board&quot;&gt;Validation Board&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-takeaways-can-you-expect&quot;&gt;What takeaways can you expect?&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#say-hello&quot;&gt;Say Hello&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+  &lt;/div&gt;
+&lt;/section&gt;
+&lt;!-- /#table-of-contents --&gt;
+
+&lt;p class=&quot;notice&quot;&gt;Lean Startup Machine is coming to Bangalore, India. LSM has held 150 workshops in 50 cities, across six continents, for over 25,000 aspiring entrepreneurs around the world.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-lean-startup-movement&quot;&gt;The Lean Startup Movement&lt;/h2&gt;
+
+&lt;p&gt;Unless you’ve been living in a cave, you’ve likely noticed that the &lt;a href=&quot;http://theleanstartup.com/&quot; target=&quot;_blank&quot;&gt;Lean Startup&lt;/a&gt; movement has been gaining momentum worldwide. Since &lt;a href=&quot;http://www.amazon.in/The-Lean-Startup-Entrepreneurs-Continuous/dp/0307887898&quot; target=&quot;_blank&quot;&gt;Eric Ries&lt;/a&gt; wrote about continous innovation, several startups have embraced a new way of building sustainable businesses. One of the misnomers associated with lean, especially amongst the uninitiated, is thinking that lean represents just a &lt;em&gt;capital efficient&lt;/em&gt; way of running a company. Instead, it’s 	a radical shift in &lt;em&gt;how we think&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Practitioners go through a methodical set of steps. They start outlining their bright new idea and identifying their target customers. Next, they put down the high risk elements of their idea, and go about validating them with a series of iterations that involve direct customer feedback. They progress forward only after having gotten validation at each step.&lt;/p&gt;
+
+&lt;p&gt;While the lean approach does not guarantee success, it provides a systematic foundation for real learning and improvement.&lt;/p&gt;
+
+&lt;h2 id=&quot;practicing-lean&quot;&gt;Practicing Lean&lt;/h2&gt;
+
+&lt;p&gt;I’ve blogged recently about what I’ve learnt about &lt;a href=&quot;http://arg0s.in/lean-startup-customer-development-interviews.html&quot;&gt;customer development&lt;/a&gt;, applying &lt;a href=&quot;http://arg0s.in/applying-lean-startup-principles-to-mobile-app-development.html&quot;&gt;lean to mobile app development&lt;/a&gt;, and learnings from an &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;MVP that we abandoned&lt;/a&gt;. A lot of it is plain common sense, and likely includes many things you already apply. I’ve found it valuable to have a structure around my thinking as well as a shared vocabulary since it helps me communicate my thought process and intuition better. I’ll continue to update my blog as I learn more.&lt;/p&gt;
+
+&lt;h2 id=&quot;lsm-bangalore-mentors&quot;&gt;LSM Bangalore Mentors&lt;/h2&gt;
+
+&lt;p&gt;I was recently invited to volunteer as a mentor for young, upcoming entrepreneurs that are going through a 3-day workshop at &lt;a href=&quot;https://www.leanstartupmachine.com&quot; target=&quot;_blank&quot;&gt;Lean Startup Machine&lt;/a&gt;. LSM has held 150 workshops on lean methodology in 50 cities, across six continents, for over 25,000 aspiring entrepreneurs around the world. All the mentors volunteer their time, and pay it forward towards the community.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;a href=&quot;images/lean-startup-machine-bangalore-mentors.png&quot;&gt;&lt;img src=&quot;images/lean-startup-machine-bangalore-mentors.png&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Lean Startup Machine Bangalore Startup Mentors&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;It’s an excellent line up. There’s several leading lean practitioners like &lt;a href=&quot;http://twitter.com/mtrajan&quot; target=&quot;_blank&quot;&gt;@mtrajan&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/mohamax&quot; target=&quot;_blank&quot;&gt;@mohamax&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/natwar86&quot; target=&quot;_blank&quot;&gt;@natwar86&lt;/a&gt;, who are all doing a wonderful job educating and supporting the local community. There’s successful enterpreneurs like &lt;a href=&quot;http://twitter.com/phan1881&quot; target=&quot;_blank&quot;&gt;@phani1881&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/pratyushp&quot; target=&quot;_blank&quot;&gt;@pratyushp&lt;/a&gt; as well as VCs like &lt;a href=&quot;http://twitter.com/seedfund&quot; target=&quot;_blank&quot;&gt;@seedfund&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/s_brij_verma&quot; target=&quot;_blank&quot;&gt;@s_brij_verma&lt;/a&gt;. I’m chuffed to be in such good company.&lt;/p&gt;
+
+&lt;h2 id=&quot;how-lsm-works&quot;&gt;How LSM works&lt;/h2&gt;
+
+&lt;figure&gt;
+  &lt;img src=&quot;images/lsm-about.png&quot; /&gt;
+  &lt;figcaption&gt;&lt;i&gt;The excerpt above is from the Lean Startup Machine About page&lt;/i&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Qwh62zNgBaY?hd=1&amp;amp;rel=0&amp;amp;autohide=1&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Melissa Peri on her Lean Startup Machine experience.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;hackathons&quot;&gt;Hackathons&lt;/h3&gt;
+
+&lt;p&gt;It’s worthwhile noting that the LSM workshop is &lt;em&gt;not&lt;/em&gt; a hackathon. It’s less about coding, and more about teaching entrepreneurs and innovators about how to build products.&lt;/p&gt;
+
+&lt;h3 id=&quot;validation-board&quot;&gt;Validation Board&lt;/h3&gt;
+
+&lt;p&gt;Validation boards are tools to help enterprenurs apply lean methodologies. They provide a sheet which helps you structure your thinking with slots for your USP, target segment, revenue model, hypothesis, and learnings. A few popular boards include the &lt;a href=&quot;http://leanstack.com/&quot; target=&quot;_blank&quot;&gt;Lean Canvas&lt;/a&gt; and &lt;a href=&quot;https://www.leanstartupmachine.com/validationboard/&quot; target=&quot;_blank&quot;&gt;Javelin Experiment Board&lt;/a&gt;. Javelin, the organization that runs LSM worldwide recently &lt;a href=&quot;http://blogs.wsj.com/venturecapital/2014/03/05/javelin-raises-1-5m-to-bring-lean-startup-method-to-big-corporations/&quot; target=&quot;_blank&quot;&gt;raised $1.5 million&lt;/a&gt;, and part of the agenda in the LSM workshops will be to orient you with their own tools. Related, but slightly different tools for managing your KanBan include &lt;a href=&quot;http://kanbantool.com/lean-startup-kanban&quot; target=&quot;_blank&quot;&gt;Lean Startup Kanban&lt;/a&gt; and &lt;a href=&quot;http://www.leankit.com&quot; target=&quot;_blank&quot;&gt;LeanKit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-takeaways-can-you-expect&quot;&gt;What takeaways can you expect?&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Network with several aspiring entrepreneurs in a small cohesive environment, far away from the noise of the startup conference dance.&lt;/li&gt;
+  &lt;li&gt;Learn how to adopt a systematic way of testing out your ideas to see if they solve real problems.&lt;/li&gt;
+  &lt;li&gt;Understand how getting out of your cubicle and talking to real users can help you seek validation about your ideas early, and help refine your MVP.&lt;/li&gt;
+  &lt;li&gt;Practical examples of how other lean practitioners have benefited from the methodology, and  insights you can benefit from.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;LSM tickets are $299 in the US, but are priced by the organizers, &lt;a href=&quot;http://10000startups.com/&quot; target=&quot;_blank&quot;&gt;Nascomm 10000 Startups&lt;/a&gt; at Rs.3,500 (~$60) for the 3-day workshop. It’s a small fraction of the international costs for a potentially life changing experience for a young entrepreneur. If you want to contact the organizers, reach out to &lt;a href=&quot;http://twitter.com/rohith_v&quot; target=&quot;_blank&quot;&gt;@rohith_v&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/nitprashant&quot; target=&quot;_blank&quot;&gt;@nitprashant&lt;/a&gt; for questions.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;a href=&quot;images/cool-cartoon-7559797.png&quot;&gt;&lt;img src=&quot;images/cool-cartoon-7559797.png&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;A Lean State Of Mind&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;say-hello&quot;&gt;Say Hello&lt;/h3&gt;
+&lt;p&gt;If you are attending LSM this month, give me a shout &lt;a href=&quot;http://twitortat/twitortat&quot; target=&quot;_blank&quot;&gt;@twitortat&lt;/a&gt; and say hi. It’d be great to get a few conversations started ahead of the event.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Why I'm a Mentor at Lean Startup Machine Bangalore&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 19, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -2038,80 +2141,6 @@ where the player has total control (well, once you’ve got a handle on the toss
 &lt;p&gt;This is my dedication to Dr Kurien of Amul, who passed away recently (September 9th 2012) at the age of 90. The Amul topical ads have been around since the 70s and have a deep connect with every Indian. I built this app on a whim since the Amul site didnt offer an easy to browse through the cartoons. Enjoy the new and updated &lt;a href=&quot;http://itunes.apple.com/in/app/amul-cartoon-ads/id363119867&quot;&gt;Amul Cartoon Ads&lt;/a&gt; app for the iPhone &amp;amp; iPad (2x mode). If you’d like to contribute to the project, the source code is on &lt;a href=&quot;http://arg0s.in/amulios/&quot;&gt;Github&lt;/a&gt;. Fork away and send in a pull request.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/amul-cartoon-ads.html&quot;&gt;Amul Cartoon Ads&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 20, 2012.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Ten collaboration tools every tech startup should consider]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html" />
-  <id>http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider</id>
-  <updated>2012-9-15T00:00:00-00:00</updated>
-  <published>2012-09-15T00:00:00+00:00</published>
-  
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;Our Bangalore based team at &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; works from home 3 days of the week. It’s awesome since we save nearly two hours of daily commute time, which gives us more time with our families and to do all the fun things we enjoy (and avoid the horrendous Bangalore traffic). On the other hand, it meant developing a collaborative team culture and using tools that would facilitate working from home effectively. While this may sound trivial, third world problems of power outages and broadband connectivity issues make things hard at times. We also have one colleague working from Chennai and another from Hyderabad. Over time, we’ve been using a number of cloud based tools &amp;amp; services that have helped us collaborate effectively and have loads of fun along the way while we’ve grown Levitum. Here’s a quick list!&lt;/p&gt;
-
-&lt;h2 id=&quot;gotomeeting&quot;&gt;1. GoToMeeting&lt;/h2&gt;
-&lt;p&gt;Since our team works from home 3 days a week, it helps to get on video often through the day. It makes conversations much more personal &amp;amp; fun. We tried Skype video, Google+ Hangouts, Assembla video chat and Tokbox. Hangouts was the most fun by far, and Skype was the most convenient. While Cisco’s &lt;a href=&quot;http://www.gotomeeting.in&quot;&gt;GoToMeeting&lt;/a&gt; looks and feels like an enterprise app, the audio and video quality is simply outstanding.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;static/images/gtm.jpg&quot; alt=&quot;GoToMeeting&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;At $25/month, it’s freed us from the choppy audio or video that plagues some other solutions while still not making every meeting feel like a dull conference bridge conversation. And on most mornings during our daily standups, its simply been awesome fun.
-(PAID)&lt;/p&gt;
-
-&lt;h2 id=&quot;assembla&quot;&gt;2. Assembla&lt;/h2&gt;
-&lt;p&gt;One of the challenges we had was finding a solution that provided just the right mix of agile software development tools, source control repositories, and project management tools.&lt;/p&gt;
-
-&lt;p&gt;Ultimately &lt;a href=&quot;http://www.assembla.com&quot;&gt;Assembla&lt;/a&gt; won out with a more superior feature set combined with a lovely interface that scales up well for power users as well. What we love the most:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Card wall which incorporates most of the features of &lt;a href=&quot;www.trello.com&quot;&gt;Trello&lt;/a&gt; &amp;amp; lends itself to a Kanban workflow.&lt;/li&gt;
-  &lt;li&gt;Git repositories with a simple code review workflow.&lt;/li&gt;
-  &lt;li&gt;Powerful ticketing system which enables us to both manage our project backlog as well as support tickets.&lt;/li&gt;
-  &lt;li&gt;Social activity streams, convenient @ mentions &amp;amp; notifications.&lt;/li&gt;
-  &lt;li&gt;Reasonable pricing model ($50/month gives us accounts for 40 people &amp;amp; unlimited repos)
-(FREEMIUM)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;google-apps&quot;&gt;3. Google Apps&lt;/h2&gt;
-&lt;p&gt;You’d think every tech startup out there would be on Google Apps &amp;amp; leveraging the power of Google’s Mail, Calendar, Drive &amp;amp; other collaboration tools. Amazingly enough, I’ve encountered a few who aren’t (&lt;em&gt;sigh&lt;/em&gt;). And no, their reasons had nothing to do with concerns around Google or cloud security (&lt;em&gt;dont ask&lt;/em&gt;). So, here’s a gratuitous mention that’s stating the obvious.
-(FREEMIUM)&lt;/p&gt;
-
-&lt;h2 id=&quot;irc&quot;&gt;4. IRC&lt;/h2&gt;
-&lt;p&gt;When I tell people we use IRC for company group chats, some of them wonder if we’re still stuck in the late 90s. But after having meddled with Skype, Jabber, GTalk &amp;amp; Campfire, plain old IRC won out. The technology that worked great in the days of the dial up era and noisy modems continues to be the simplest way to get folks onto a chatroom from anywhere and everywhere. We’ve got IRC notifications wired in with our &lt;a href=&quot;http://en.wikipedia.org/wiki/Continuous_integration&quot;&gt;CI servers&lt;/a&gt; &amp;amp; a bunch of IRC bot addons that help us with everything from quick google searches to checking on project status. For our developers deeply engaged with the open source community, IRC is a portal into a world itself.
-(FREE)&lt;/p&gt;
-
-&lt;h2 id=&quot;joinme&quot;&gt;5. Join.me&lt;/h2&gt;
-&lt;p&gt;There’s always times when it’s a bit of effort to get people onto a GoToMeeting bridge. It doesnt help that Cisco seems to push a large update to every now and then that requires a 5 minute interrupt just before a 10 minute conversation. For all those times, &lt;a href=&quot;http://join.me&quot;&gt;Join.me&lt;/a&gt; saves the day with a near instant setup &amp;amp; screen share with basic audio conversations thrown in. For everthing else, there’s still GTM.
-(FREE)&lt;/p&gt;
-
-&lt;h2 id=&quot;github&quot;&gt;6. GitHub&lt;/h2&gt;
-&lt;p&gt;While most of our code is on Assembla hosted git repos, there’s enough said about GitHub. Assembla lags behind GitHub in the power developer tools for reviewing and collaborating on source code. That said, GitHub’s issue tracker provides limited abilities to manage a large team effectively - areas where Assembla wins out.
-(FREEMIUM)&lt;/p&gt;
-
-&lt;h2 id=&quot;titanpad&quot;&gt;7. Titanpad&lt;/h2&gt;
-&lt;p&gt;While Google Docs is decent for collaboration, we missed the fluid realtime capabilities of Google Wave. It helped that some folks set up Etherpad up and opened it out so companies could set up a subdomain and work on editing documents real time. &lt;a href=&quot;http://www.titanpad.com&quot;&gt;Titanpad&lt;/a&gt; has been awesome, and we probably dont use it nearly as much as we should. It’s got an awesome versioning system that also lets you playback edits - check it out! It’d be helpful if it had a Markdown editor/viewer baked in, though. Now, that’s an idea.
-(FREE)&lt;/p&gt;
-
-&lt;h2 id=&quot;basecamp&quot;&gt;8. Basecamp&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;http://www.basecamp.com&quot;&gt;Basecamp&lt;/a&gt; provided a simple and elegant mix of to-do lists, write boards, milestone views &amp;amp; integrated well with their other solutions like &lt;a href=&quot;http://campfirenow.com&quot;&gt;Campfire&lt;/a&gt;. However, the to-do lists get unwieldy quickly and dont roll up well into larger milestones. We use Basecamp on a limited set of consulting services projects.
-(PAID)&lt;/p&gt;
-
-&lt;h2 id=&quot;boxnet&quot;&gt;9. Box.net&lt;/h2&gt;
-&lt;p&gt;We also use GDrive and Dropbox, and this one’s really my personal bias. I like the &lt;a href=&quot;http://www.box.net&quot;&gt;Box.net&lt;/a&gt; iPad app more than the others &amp;amp; like the deeper permissions and sharing controls. We’ve been watching &lt;a href=&quot;https://owncloud.com&quot;&gt;OwnCloud&lt;/a&gt; closely and may make the switch someday.
-(FREE)&lt;/p&gt;
-
-&lt;h2 id=&quot;trello&quot;&gt;10. Trello&lt;/h2&gt;
-&lt;p&gt;Much as we loved Assembla’s card wall, it’s sometimes been much quicker to quickly get on &lt;a href=&quot;http://www.trello.com&quot;&gt;Trello&lt;/a&gt; and toss a bunch of cards on a board. It’s been our little whiteboard to draw up a &lt;a href=&quot;http://en.wikipedia.org/wiki/Work_breakdown_structure&quot;&gt;WBS&lt;/a&gt;, or just stack up a bunch of ideas, vote on them and move them between buckets before actually sticking them into Assembla.
-(FREE)&lt;/p&gt;
-
-&lt;p&gt;Got suggestions that you’d like to add to this list? Give me a shout - we’d love to give them a spin.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;Ten collaboration tools every tech startup should consider&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 15, 2012.&lt;/p&gt;</content>
 </entry>
 
 </feed>
