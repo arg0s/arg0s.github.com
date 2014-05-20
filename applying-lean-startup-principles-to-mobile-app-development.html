@@ -80,11 +80,6 @@
 </head>
 
 <body class="post">
-<!-- ClickTale Top part -->
-<script type="text/javascript">
-var WRInitTime=(new Date()).getTime();
-</script>
-<!-- ClickTale end of Top part -->
 
 <!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
 
@@ -334,24 +329,16 @@ function autoResize(id){
 
 </script>
 
-
-
-<!-- ClickTale Bottom part -->
-
-<script type='text/javascript'>
-// The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
-//
-//   function ClickTalePreRecordingHook() { /* place your customized code here */  }
-//
-// For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
-
-document.write(unescape("%3Cscript%20src='"+
-(document.location.protocol=='https:'?
-"https://cdnssl.clicktale.net/www07/ptc/65c9cd90-787d-47f7-86e4-3fbf8500b4c8.js":
-"http://cdn.clicktale.net/www07/ptc/65c9cd90-787d-47f7-86e4-3fbf8500b4c8.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
+<script type="text/javascript">
+   var _mfq = _mfq || [];
+   (function() {
+       var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+       mf.src = "//cdn.mouseflow.com/projects/15bc9596-2fd7-4707-b34b-f41f3bfb128a.js";
+       document.getElementsByTagName("head")[0].appendChild(mf);
+   })();
 </script>
 
-<!-- ClickTale end of Bottom part -->
+
 
 </body>
 </html>
