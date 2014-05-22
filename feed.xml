@@ -4,13 +4,58 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-05-20T02:11:18+00:00</updated>
+<updated>2014-05-22T13:51:28+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
   <uri>http://arg0s.in/</uri>
   <email>arvi@alumni.iastate.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Why Large Companies Should Consider A Lean Startup Approach]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach.html" />
+  <id>http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach</id>
+  <published>2014-05-22T00:00:00+00:00</published>
+  <updated>2014-05-22T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;Recently, &lt;a href=&quot;http://twitter.com/Penenberg&quot; target=&quot;_blank&quot;&gt;Adam Penenberg&lt;/a&gt; made a great &lt;a href=&quot;http://pando.com/2014/04/18/dancing-giants-why-large-companies-should-embrace-the-minimum-viable-product&quot;&gt;post&lt;/a&gt; about large companies and why the MVP matters to them. There’s several things that I strongly agree with, but one stands out in particular.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Large companies are still largely stepped in a culture that’s risk averse.&lt;/em&gt; They have large teams dedicated to building out and fine tuning processes within the organization for strategic planning and execution. As Adam says, the traditional mindset is biased towards more upfront planning, in the hope that more planning will translate into better results. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;That is, the more planning we do, the more apt we are to hit the nail on the head. The more thought we put in upfront around designing the next product, the more apt we are to hit the mark.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is &lt;em&gt;far&lt;/em&gt; from the truth. Companies that build a business model or a large product based on a long cycle of planning, deliberation and analysis are only increasing their risk. While there are exceptions, they are far from the norm, and the reason why large companies today find it easier to acqui-hire than to innovate internally. The sooner we get ourselves in front of real users, talking to them, and getting data or feedback, the better placed we are to test out high risk assumptions. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Infosys, which has seen a slew of top-level exits recently, saw attrition rise to 18.1%&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Wonder why Indian IT giants like Infosys, Cognizant, Wipro and TCS have made no headway whatsoever with their attempts at what they call non-linear growth models? The writing is very much on the wall. &lt;/p&gt;
+
+&lt;p&gt;The great recession of `08 pretty much hammered in the last nails on large enterprise software and unwarranted custom development. While they’ve created teams focused on building solution frameworks and reusable software, they’ve not experimented with radical changes to their models. With most bright grads now moving to startups, you wonder how they can influence internal change any more.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, our IT industry and education systems churn out graduates who are exceptionally good at solving &lt;em&gt;well defined problems&lt;/em&gt;. We’re also good at mapping undefined problems to certain known patterns and approaching them. However, we lack adeptness with lateral thinking and dealing with complete ambiguity in an open, exploratory mode. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cultivate a learning mindset.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In most of our ivory towers, there’s a great deal of emphasis on &lt;em&gt;strategic thinking&lt;/em&gt; and the &lt;em&gt;ability to execute&lt;/em&gt;, but an insufficient understanding of the importance of a &lt;em&gt;learning mindset&lt;/em&gt;. In contrast, graduates with an ability to cultivate and retain a learning mindset are most likely to be  enterpreneurs. Their natural tendency to run along with an open mind, be filling to adapt to the unknown, and leverage their intuition while there’s limited data at hand sets them apart. &lt;/p&gt;
+
+&lt;p&gt;I’d love to see a few of the majors come forward and create venture funds, support the startup ecosystem, and encourage some of their intrapreneurs to take wing. With a &lt;em&gt;quarterly&lt;/em&gt; &lt;a href=&quot;http://www.livemint.com/Companies/HCunTVSouBUdsakftRsgQP/Infosys-beats-profit-estimates-raises-revenue-guidance.html&quot; target=&quot;_blank&quot;&gt;net profit of $463 million&lt;/a&gt;, I’d imagine it wouldnt break the bank for Infosys to create a $100 million fund. &lt;/p&gt;
+
+&lt;p&gt;They’d have to start by opening their minds.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach.html&quot;&gt;Why Large Companies Should Consider A Lean Startup Approach&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -2208,28 +2253,6 @@ where the player has total control (well, once you’ve got a handle on the toss
 &lt;/div&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/2012/10/the-end-and-new-home.html&quot;&gt;The End. And New Home&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 19, 2012.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Agile Team Analogy - A Michelin Star Restaurant]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/agile-team-analogy-a-michelin-star-restaurant.html" />
-  <id>http://arg0s.in/agile-team-analogy-a-michelin-star-restaurant</id>
-  <updated>2012-10-18T00:00:00-00:00</updated>
-  <published>2012-10-18T00:00:00+00:00</published>
-  
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;My favorite analogy of great team work has always been the Beatles. A group of diverse people coming together to build off each others strengths, and improvising when someone is down.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;static/images/michelin.png&quot; alt=&quot;Agile Team Analogy - A Michelin Star Restaurant&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;However when I recently had to put together a slide to explain to executives at a partner firm how an agile software development team works best, I drew up the analogy of how the kitchen at a Michelin star restaurant works. Analogies arent always perfect, and maybe it’s all the time I’ve spent lately watching Masterchef Australia, but this just felt right (see slide above).&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/agile-team-analogy-a-michelin-star-restaurant.html&quot;&gt;Agile Team Analogy - A Michelin Star Restaurant&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 18, 2012.&lt;/p&gt;</content>
 </entry>
 
 </feed>
