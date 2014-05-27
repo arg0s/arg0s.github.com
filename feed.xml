@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-05-27T04:46:30+00:00</updated>
+<updated>2014-05-27T08:50:22+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
@@ -24,7 +24,7 @@
     <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
-  <content type="html">&lt;p&gt;Here’s a colorful look back at the &lt;a href=&quot;http://www.pmindia.nic.in/&quot;&gt;PMO India site&lt;/a&gt; over the years, with archives from the Wayback Machine.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Here’s a colorful look back at the &lt;a href=&quot;http://www.pmindia.nic.in/&quot; target=&quot;_blank&quot;&gt;PMO India site&lt;/a&gt; over the years, with archives from the Wayback Machine.&lt;/p&gt;
 
 &lt;figure&gt;
   &lt;a href=&quot;images/namo/may-11-2000.png&quot;&gt;&lt;img src=&quot;images/namo/may-11-2000.png&quot; /&gt;&lt;/a&gt;
@@ -61,6 +61,7 @@
   &lt;figcaption&gt;Narendra Modi PMO site in May 2014. A snappy new site that went live at the time of the swearing in. Promises transparency and an channel for direct communication with the people.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The PMO &lt;a href=&quot;http://pmindia.nic.in/website_policy.php&quot; target=&quot;_blank&quot;&gt;website policy&lt;/a&gt; section indicates that external sites must get their permission before linking in to it. I’ve sent in a request for permission, but I hope this policy is just a relic of the old website that never did get updated. In case you are from NIC or PMO and would like the link removed, please &lt;a href=&quot;http://arg0s.in/ask-me-anything/&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/the-evolution-of-the-pmo-site-vajpayee-to-modi.html&quot;&gt;The Evolution of the PMO Site - Vajpayee to Modi&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 27, 2014.&lt;/p&gt;</content>
 </entry>
