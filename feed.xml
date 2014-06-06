@@ -4,13 +4,37 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-05-30T23:09:42+00:00</updated>
+<updated>2014-06-06T18:24:50+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
   <uri>http://arg0s.in/</uri>
   <email>arvi@alumni.iastate.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Why People Buy Things From You]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/why-people-buy-things-from-you.html" />
+  <id>http://arg0s.in/why-people-buy-things-from-you</id>
+  <published>2014-06-06T00:00:00+00:00</published>
+  <updated>2014-06-06T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;figure&gt;
+  &lt;a href=&quot;images/why-people-buy-things.jpeg&quot;&gt;&lt;img src=&quot;images/why-people-buy-things.jpeg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Why People Buy Things&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;You can spend a ton of time making your site easier for your customers to understand &lt;em&gt;what you do&lt;/em&gt;. &lt;/p&gt;
+
+&lt;p&gt;Or you can spend a ton of time understanding your customers. And then customers will buy things from you because you understand &lt;em&gt;what they do&lt;/em&gt;.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-people-buy-things-from-you.html&quot;&gt;Why People Buy Things From You&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -2229,30 +2253,6 @@ where the player has total control (well, once you’ve got a handle on the toss
 &lt;p&gt;I’d like to think the new design will inspire me to update this blog more often, or at least provide impetus for more frequent bursts of writing.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/a-new-site-design-pelican-kleen-theme.html&quot;&gt;A New Site Design Pelican Kleen Theme&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[The Pursuit of Dreams]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/the-pursuit-of-dreams.html" />
-  <id>http://arg0s.in/the-pursuit-of-dreams</id>
-  <updated>2012-11-05T00:00:00-00:00</updated>
-  <published>2012-11-05T00:00:00+00:00</published>
-  
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;The Education section of todays Times of India has covered my wife &lt;a href=&quot;http://www.projectemm.com&quot;&gt;Monami Bhattacharya&lt;/a&gt;, chronicling her journey from an REC Warangal engineering grad working in the IT industry to breaking away to set up Project Emm and establishing herself as an artist with her &lt;a href=&quot;http://www.projectemm.com&quot;&gt;Studio+Gallery&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.projectemm.com&quot;&gt;&lt;img src=&quot;static/images/monami_toi_dreams.jpg&quot; alt=&quot;Monami in the Times of India&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;You can read the full e-Paper article here: &lt;a href=&quot;http://bit.ly/TtLhIF&quot;&gt;http://bit.ly/TtLhIF&lt;/a&gt;. They even loved our dog so much, she features prominently in the picture!&lt;/p&gt;
-
-&lt;p&gt;I hope this inspires others to walk the path they really believe in, and strive to make a difference! Impossible is nothing.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/the-pursuit-of-dreams.html&quot;&gt;The Pursuit of Dreams&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on November 05, 2012.&lt;/p&gt;</content>
 </entry>
 
 </feed>
