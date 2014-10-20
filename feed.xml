@@ -4,13 +4,137 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-06-06T18:24:50+00:00</updated>
+<updated>2014-10-20T03:24:26+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
   <uri>http://arg0s.in/</uri>
   <email>arvi@alumni.iastate.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[My Second PyCon]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/my-second-pycon.html" />
+  <id>http://arg0s.in/my-second-pycon</id>
+  <updated>2014-10-11 04:53:16 UTCT00:00:00-00:00</updated>
+  <published>2014-10-11T00:00:00+00:00</published>
+  
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;img src=&quot;images/lifeofpy.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;A decade back, college kids used to get taught assembly, C/C++ and Java. Javascript has taken over as the &lt;a href=&quot;http://www.hanselman.com/blog/JavaScriptisAssemblyLanguagefortheWebPart2MadnessorjustInsanity.aspx&quot;&gt;assembly language of the web&lt;/a&gt;. And, the place of C/C++/Java in the educational institutions is now dominated by &lt;a href=&quot;http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-us-universities/fulltext&quot;&gt;Python&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I went from being a &lt;a href=&quot;http://arg0s.in/my-first-PyCon.html&quot;&gt;speaker at last year’s PyCon&lt;/a&gt; to being a part of the &lt;em&gt;program committee&lt;/em&gt; for the 2014 PyCon which concluded in the last week of September. The program committee’s focus is primarily on the content of the conference, and assists with curation and mentoring speakers. The committee is a part of the &lt;em&gt;significantly&lt;/em&gt; larger volunteer driven organizing team which handles other aspects of sponsorship, logistics, food and setup. While I’d chaired the &lt;a href=&quot;http://arg0s.in/making-droidcon-bigger-better.html&quot;&gt;Droidcon committee&lt;/a&gt; earlier, this was a new experience in a very different tech community.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here are my 10 highlights of the event. This is of course a personal account, and my views are my own.&lt;/p&gt;
+
+&lt;h2 id=&quot;python-is-everywhere&quot;&gt;Python is Everywhere.&lt;/h2&gt;
+&lt;p&gt;It’s been a privilege being a part of what is arguably one of India’s largest tech events, and one of the largest PyCon events around the world. I’m always amazed at how this little &lt;em&gt;microcosm&lt;/em&gt; of the python universe reminds us of how far and wide the language is used. Web programming. Machine learning. 3-D Modeling. Weather forecasting. Gaming. Education. Embedded Systems. 
+	And in the local community, a wonderful effort has been initiated by Anand to expand Python Month to a year long initiative to help educate newbies with Python. Say hello to &lt;a href=&quot;pythonexpress.in&quot;&gt;Python Express&lt;/a&gt;. If you are a professor, a student or a trainer, I’d encourage you to consider signing up or seeing if there’s already a workshop happening close to where you live.&lt;/p&gt;
+
+&lt;h2 id=&quot;collaborating-with-an-amazing-program-committee&quot;&gt;Collaborating with an amazing Program Committee.&lt;/h2&gt;
+&lt;p&gt;The core program committee consisted of Krace, Konark, Kushal, Senthil and I. We were faced with the challenge of having to look at the 140+ submissions and choose around 20 from them. This ended up being incredibly hard since there were several excellent proposals. &lt;/p&gt;
+
+&lt;h3 id=&quot;rough-approach&quot;&gt;Rough Approach.&lt;/h3&gt;
+&lt;p&gt;Here’s the rough approach we took, and a full account deserves a formal post on the PyCon blog. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Between us, we broke out the different sections of submissions for review with a primary and secondary owner for each section. &lt;/li&gt;
+  &lt;li&gt;This let us divide and conquer so that each person need not review more than 30-40 proposals. &lt;/li&gt;
+  &lt;li&gt;We would read through the abstracts, go through slides (where available), request past speaker videos, and go through upstream contributions. &lt;/li&gt;
+  &lt;li&gt;Having a primary and secondary owner reduced the bias that a single reviewer may have, although it’s hard to completely avoid group think. &lt;/li&gt;
+  &lt;li&gt;To the extent that was possible, we interacted with people via the submission funnel, requesting additional information and posting feedback. &lt;/li&gt;
+  &lt;li&gt;Based on this, we shortlisted about 30 odd speakers, including a few who were waitlisted. &lt;/li&gt;
+  &lt;li&gt;We then rigourously followed up with each individual speaker to whet their slides, talk through their presentation structure, demo content, and key takeaways for the audience. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We were supported by Noufal and Anand who joined us on a number of the hangouts we organized every few weeks to ensure we were on the same page, and had consensus on key decisions being made. Senthil, in addition to his review of core and embedded content, also drove the workshops. Pratap and Kathir were external reviewers who helped with inputs of tbe scientific computing submissions since the committee didnt have sufficient experience internally. Vijay, in addition to several other duties running the conference, helped put together most of the schedule. &lt;/p&gt;
+
+&lt;p&gt;Also, here are some structured guidelines we put together for the speakers. If you’d like to view the full 12 page slidedeck, it’s up here on &lt;a href=&quot;http://www.slideshare.net/aravindkrishnaswamy/PyCon-india-2014-10-tips-for-speakers&quot;&gt;SlideShare&lt;/a&gt;. &lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;images/conference-speaker-tips.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The feedback ratings post conference show a significant improvement from the previous years ratings. Apart from two talks, all the other talks had relatively positive ratings, and a handful had high ratings. So we must have been doing something right with several long hours in our spare time that went into this. That said, there’s still lots of room for improvement, and there always will be.&lt;/p&gt;
+
+&lt;h2 id=&quot;original-work&quot;&gt;Original Work.&lt;/h2&gt;
+&lt;p&gt;The session by Sandeep on an &lt;a href=&quot;https://speakerdeck.com/sandeepraju/sharq-an-open-source-rate-limited-queueing-system-PyCon-india-2014&quot;&gt;Sharq&lt;/a&gt;, open source rate limited queueing system he’d built was one of the standout sessions of the conference. It wasn’t one of the most popular sessions, and it mostly attracted a niche crowd. But where it stood out, was in terms of &lt;em&gt;original work&lt;/em&gt; that had been done. I had a chance to check out his work before the conference, and played around with it. Although unacknowledged, it may be partly derived from work by &lt;a href=&quot;http://vimeo.com/52569901&quot;&gt;Alan Shreve&lt;/a&gt; (whose work is however not open sourced). It’d be great to see more people in the community come forward and show off their original work, and perhaps more importantly, leverage the conference platform to find others to collaborate with and build on each others good work.&lt;/p&gt;
+
+&lt;h2 id=&quot;conferences-are-fun&quot;&gt;Conferences are fun.&lt;/h2&gt;
+&lt;p&gt;Heh, we even found time to shake a gangnam leg on stage for posterity later in the evening.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;images/pycancan.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;kushals-keynote&quot;&gt;Kushal’s Keynote.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/kushaldas&quot;&gt;Kushal&lt;/a&gt; delivered a &lt;em&gt;personal&lt;/em&gt; keynote that chronicled his journey. From his beginnings in his village, through learning technology, contributing upstream, learning from others around him, coaching and mentoring others, it was a wonderful journey told straight from the heart. If you haven’t look up the excellent work &lt;a href=&quot;http://dgplug.org/&quot;&gt;DgpLUG&lt;/a&gt; now does - they have their unofficial(?) annual meeting on the stairway at PyCon. I was sitting with him just minutes before he got started with the keynote, and he wanted me to look through his slides. As he started to walk me through them, I had to interrupt him - I was so touched by the first few slides that I selfishly told him that I wanted to just hear him live on stage. I’d like to think I made up for that by clicking him in this Moses pose, parting the upstream waters for aspiring contributors.&lt;/p&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;images/kushal-upstream.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I’m sure Kiran’s keynote last year and Kushal’s this year will inspire several to think &lt;em&gt;upstream&lt;/em&gt;. I’d love to see more such personal stories that weave in key themes that set the tone for the conference.&lt;/p&gt;
+
+&lt;h2 id=&quot;dinner-with-the-speakers&quot;&gt;Dinner with the Speakers.&lt;/h2&gt;
+&lt;p&gt;We did this smaller, intimate dinner with the speakers and volunteers on one of the evenings at &lt;a href=&quot;https://www.zomato.com/bangalore/barbeque-junction-koramangala&quot;&gt;Barbeque Junction&lt;/a&gt; in Koramangala. The food was passable, but the conversations were electric. I caught up with Sonal, Dhananjay and Vajrasky over dinner, and we had an enthralling discussion about work, travel, and culture.&lt;/p&gt;
+
+&lt;h2 id=&quot;old-faces-new-faces&quot;&gt;Old Faces, New Faces.&lt;/h2&gt;
+&lt;p&gt;I met a number of incredibly smart people, and I wish I could recall enough names to list them here. While some of the sessions were by veteran speakers, there were a couple of first time speakers. One of them that shood out was a session on Medusa, a Dart generator, that was presented by Rahul, a college student. I snuck out of the conference in between to go attend the Bangalore Literature Festival for a bit, and apparently missed seeing a 9 year old present about his work with Arduino. It was also nice to meet familiar faces from previous PyCons and hang out on the stairway. I don’t know about more Audis, but the conference hall likely needs more stairways soon!&lt;/p&gt;
+
+&lt;h2 id=&quot;panel---flask-vs-django-vs-webpy&quot;&gt;Panel - Flask vs Django vs Web.py&lt;/h2&gt;
+&lt;p&gt;Ok, I’ll admit I’m biased since I came up with the idea for this panel and I also moderated the discussion. After my talk on &lt;a href=&quot;http://arg0s.in/my-first-PyCon.html&quot;&gt;Flask at last year’s PyCon&lt;/a&gt;, I got a number of questions about choosing the right framework. It’s often a nuanced choice, and there’s no one size fits all answer. I thought it would make for an engaging conversation in a debate style format to get the different tradeoffs involved directly from experienced practitioners. One of the things I didn’t want to do however was to script the panel discussion. I prepped the panelists so that a general sense of the structure of the discussion, and the high level themes were clear, but we avoided discussing specifics until we were on stage.  &lt;/p&gt;
+
+&lt;p&gt;I was nervous an hour before the panel. There were just a ton of little things to juggle. I skipped lunch to get set up on stage and prep. &lt;/p&gt;
+
+&lt;p&gt;I had to walk the difficult line between maintaining structure and retaining spontaneity. I kept the Twitter #pyconindia stream open on one screen along with my moderator notes, and the slides projected on the other. I wasn’t sure how well conference Wi-Fi would hold out, but I was going to meld in questions that came in via the Twitter hash tag into the panel itself. My moderator notes had specific questions, timelines for reach round of discussion, and icebreakers. &lt;/p&gt;
+
+&lt;p&gt;It was also important to engage with the panelists to ensure they had sufficient talk time on each point, and countered each others points. To make things a bit harder, we were on just after a big hearty lunch, and some amount of levity was essential to avoid the audience going into mass coma. &lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;images/panel-lineup.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I loved the energy of the debate, and I thought the three panelists - Anand, Kiran and Arun were outstanding. I think we are fortunate to have such experienced practitoners together on stage. Anand is a co-author and maintainer of Web.py and had collaborated with Aaron Swartz. Kiran has been using Flask at scale actively at HasGeek over the last few years. Arun is an acknowledged expert on Django and has a book coming out soon. I’m honored to have shared the stage with them that afternoon.&lt;/p&gt;
+
+&lt;p&gt;At one point, it amused me how Kiran who had initially been on the fence about taking a strong position with Flask started thumping the Alchemy bible whenever Anand dissed ORMs. That got the audience really going. Arun was Django unchained, and held his ground throughout pretty well. &lt;/p&gt;
+
+&lt;p&gt;I’d built a basic &lt;a href=&quot;https://github.com/arg0s/ungli&quot;&gt;missed call voting system&lt;/a&gt; which we used at the end to poll the audience. 402 people voted via their phones in the space a minute. I was relieved that the system held up when it had to, although Wi-Fi dropped and we couldn’t project the live results. The clear winner was Django. &lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;images/panel-live.jpg&quot; /&gt;
+	&lt;img src=&quot;images/panel-votes.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;During planning as well as setup, I received great inputs and suggestions from Krace, Konark and Mukesh. Also, Abhishek helped pull together the awesome visualization of the voting on &lt;a href=&quot;http://codepen.io/darkyen/pen/dicgu&quot;&gt;codepen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;open-spaces&quot;&gt;Open Spaces!&lt;/h2&gt;
+&lt;p&gt;We followed up the panel with a deep dive in the Open Space area upstairs at Nimhans. With a smaller group of 25-30 folks, it was a good opportunity to dig into the nuances a little more, talk about personal experiences, and also cover off frameworks like Pyramid and Twisted. The discussions could have been more interactive, but some of this will take time to evolve. I’ll likely spend more of my time in open spaces next year than in sessions.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;images/stop.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;pure-volunteer-magic&quot;&gt;Pure Volunteer Magic.&lt;/h2&gt;
+&lt;p&gt;It’s incredible how much volunteer effort goes into the conference. Apparently there were over 1200+ delegates, which means a packaged house at the Nimhans venue. Volunteers worked round the clock the week of the conference to get the food, decorations, handouts, T-shirts, registration and sponsor booths, and a zillion little things right. With this being a volunteer driven event, there’s also a ton of chaos. Communication isn’t always great, a few people end up doing a sizeable chunk of the work, and a few things always fall through. But, it’s the self organizing nature of community events which makes them special and unique. The early bird price of the ticket for the event is INR 800 (USD 13), which is ridiculous value for the two days of great sessions, meeting smart people, eating scrumptious food, and getting a fun conference tee. In contrast, most other good tech events in Bangalore are often upwards of INR 3000 or more, and dont often include the swag. &lt;/p&gt;
+
+&lt;p&gt;Life with Py is good! &lt;/p&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;images/lifeofpy.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/my-second-pycon.html&quot;&gt;My Second PyCon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 11, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -412,7 +536,7 @@
 &lt;h3 id=&quot;slides&quot;&gt;Slides&lt;/h3&gt;
 
 &lt;figure&gt;
-  &lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/35319264?rel=0&quot; width=&quot;512&quot; height=&quot;421&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt;     &lt;/iframe&gt; 
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/35319264?rel=0&quot; width=&quot;512&quot; height=&quot;421&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt;     &lt;/iframe&gt;
 &lt;/figure&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Why I'm a Mentor at Lean Startup Machine Bangalore&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 19, 2014.&lt;/p&gt;</content>
@@ -2219,40 +2343,6 @@ where the player has total control (well, once you’ve got a handle on the toss
 &lt;p&gt;&lt;a href=&quot;http://www.campushash.com/internhacks&quot;&gt;CampusHash&lt;/a&gt; is running &lt;a href=&quot;http://www.campushash.com/internhacks&quot;&gt;InternHacks&lt;/a&gt;, a program which promises to help connect companies with interns that have &lt;em&gt;real&lt;/em&gt; experience building things via a series of hackathons.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/a-case-for-paid-trials-instead-of-interviews.html&quot;&gt;A Case For Paid Trials Instead Of Interviews&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 16, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[A New Site Design Pelican Kleen Theme]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/a-new-site-design-pelican-kleen-theme.html" />
-  <id>http://arg0s.in/a-new-site-design-pelican-kleen-theme</id>
-  <published>2013-09-13T00:00:00+00:00</published>
-  <updated>2013-09-13T00:00:00+00:00</updated>
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;So, I moved from Blogspot a year or so back, and began using a fabulous static site generator called &lt;a href=&quot;http://docs.getpelican.com/en/3.2/&quot;&gt;Pelican&lt;/a&gt;. The distribution offers a number of themes, but I’ve never liked any of them. So, I’ve been finally motivated to make some changes.&lt;/p&gt;
-
-&lt;p&gt;While I mostly liked the &lt;a href=&quot;https://raw.github.com/getpelican/pelican-themes/master/mnmlist/screenshot.png&quot;&gt;mnmlist&lt;/a&gt; theme, I made a number of changes:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I’ve been greatly inspired by the awesomeness of Readability, Medium, and Pocket.&lt;/li&gt;
-  &lt;li&gt;I switched the typography from sans to serif.&lt;/li&gt;
-  &lt;li&gt;Next, I redesigned the main blog header. Split out the title and the post. Added a subtitle section for pages.&lt;/li&gt;
-  &lt;li&gt;Finally, I improved responsivness to different screen sizes and devices.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I really like the new look, and hope you’d appreciate it as well. Here’s what it currently looks like:&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;shadow&quot; src=&quot;https://raw.github.com/arg0s/kleen/master/screenshot.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you’d like to grab the theme, fork away from &lt;a href=&quot;https://github.com/arg0s/kleen&quot;&gt;https://github.com/arg0s/kleen&lt;/a&gt;. It’s still got some rough edges, which need cleanup.&lt;/p&gt;
-
-&lt;p&gt;I’d like to think the new design will inspire me to update this blog more often, or at least provide impetus for more frequent bursts of writing.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/a-new-site-design-pelican-kleen-theme.html&quot;&gt;A New Site Design Pelican Kleen Theme&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 13, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
