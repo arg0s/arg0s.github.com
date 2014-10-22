@@ -4,13 +4,31 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2014-10-20T06:51:57+00:00</updated>
+<updated>2014-10-22T04:28:36+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
   <uri>http://arg0s.in/</uri>
   <email>arvi@alumni.iastate.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Himalayas Trek: Triund, Mt Dhauladhar Base Camp]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp.html" />
+  <id>http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp</id>
+  <published>2014-10-20T00:00:00+00:00</published>
+  <updated>2014-10-20T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;If you are considering trekking from [McLeod Ganj] up to [Triund], this travelogue should serve as a quick and dirty rough guide.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp.html&quot;&gt;Himalayas Trek: Triund, Mt Dhauladhar Base Camp&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 20, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -89,7 +107,7 @@
 &lt;p&gt;We did this smaller, intimate dinner with the speakers and volunteers on one of the evenings at &lt;a href=&quot;https://www.zomato.com/bangalore/barbeque-junction-koramangala&quot;&gt;Barbeque Junction&lt;/a&gt; in Koramangala. The food was passable, but the conversations were electric. I caught up with Sonal, Dhananjay and Vajrasky over dinner, and we had an enthralling discussion about work, travel, and culture.&lt;/p&gt;
 
 &lt;h2 id=&quot;old-faces-new-faces&quot;&gt;Old Faces, New Faces.&lt;/h2&gt;
-&lt;p&gt;I met a number of incredibly smart people, and I wish I could recall enough names to list them here. While some of the sessions were by veteran speakers, there were a couple of first time speakers. One of them that stood out was a session on Medusa, a Dart generator, that was presented by Rahul, a college student. I snuck out of the conference in between to go attend the Bangalore Literature Festival for a bit with Abhay, and apparently missed seeing a 9 year old present about his work with Arduino. It was also nice to meet familiar faces from previous PyCons and hang out on the stairway. I don’t know about more Audis, but the conference hall likely needs more stairways soon! Noufal. Anand. Kiran. Dhananjay. Sonal. Krace. Shrayas. Abhishek. Kushal. Anand. Michael. Haris. Sandeep. Vajrasky. Abhay. And the many more whose names I cant remember now. Thanks for terrific conversations.&lt;/p&gt;
+&lt;p&gt;I met a number of incredibly smart people, and I wish I could recall enough names to list them here. While some of the sessions were by veteran speakers, there were a couple of first time speakers. One of them that stood out was a session on Medusa, a Dart generator, that was presented by Rahul, a college student. I snuck out of the conference in between to go attend the Bangalore Literature Festival for a bit with Abhay, and apparently missed seeing a 9 year old present about his work with Arduino. It was also nice to meet familiar faces from previous PyCons and hang out on the stairway. I don’t know about more Audis, but the conference hall likely needs more stairways soon! Noufal. Anand. Kiran. Dhananjay. Sonal. Krace. Shrayas. Abhishek. Kushal. Anand. Sankarshan. Michael. Haris. Sandeep. Vajrasky. Abhay. And the many more whose names I cant remember now. Thanks for terrific conversations.&lt;/p&gt;
 
 &lt;h2 id=&quot;panel---flask-vs-django-vs-webpy&quot;&gt;Panel - Flask vs Django vs Web.py&lt;/h2&gt;
 &lt;p&gt;Ok, I’ll admit I’m biased since I came up with the idea for this panel and I also moderated the discussion. After my talk on &lt;a href=&quot;http://arg0s.in/my-first-PyCon.html&quot;&gt;Flask at last year’s PyCon&lt;/a&gt;, I got a number of questions about choosing the right framework. It’s often a nuanced choice, and there’s no one size fits all answer. I thought it would make for an engaging conversation in a debate style format to get the different tradeoffs involved directly from experienced practitioners. One of the things I didn’t want to do however was to script the panel discussion. I prepped the panelists so that a general sense of the structure of the discussion, and the high level themes were clear, but we avoided discussing specifics until we were on stage.  &lt;/p&gt;
@@ -2209,140 +2227,6 @@ where the player has total control (well, once you’ve got a handle on the toss
 &lt;p&gt;Great job by the organizers. Congrats for making Pycon 2013 a great success.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/my-first-pycon.html&quot;&gt;My First Pycon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 19, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[A Case For Paid Trials Instead Of Interviews]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/a-case-for-paid-trials-instead-of-interviews.html" />
-  <id>http://arg0s.in/a-case-for-paid-trials-instead-of-interviews</id>
-  <published>2013-09-16T00:00:00+00:00</published>
-  <updated>2013-09-16T00:00:00+00:00</updated>
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;blockquote&gt;
-  &lt;p&gt;Only 1 in 10 startups survives growth from initial co-founders to 10 people. Only 1 in 10 makes the next leap to a 100.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;em&gt;Invariably, hiring is a struggle at startups as they attempt to scale organically while retaining the culture and roots of their early days.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;At many startups and small companies that I’ve known, executives run a fairly tight ship. Even all the way through 70-100 employees, its not uncommon to see several people wearing many different hats.&lt;/p&gt;
-
-&lt;h1 id=&quot;hiring-is-hard&quot;&gt;Hiring is hard&lt;/h1&gt;
-
-&lt;p&gt;It’s worth reading a compilation by &lt;a href=&quot;http://www.twitter.com/swaroopch&quot;&gt;@swaroopch&lt;/a&gt; about the &lt;a href=&quot;http://swaroopch.com/2010/11/22/reasons-indian-startups-struggle-hiring/&quot;&gt;startup hiring challenges in India&lt;/a&gt;. Also, &lt;a href=&quot;http://twitter.com/guglanisam&quot;&gt;@guglanisam&lt;/a&gt; has outlined methods that have &lt;a href=&quot;http://www.guglanisam.me/hiring-method-that-works/&quot;&gt;worked for Morpheus portfolio companies&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;There’s a few common problems that I’ve observed (note that these not exclusively startup issues)&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Young leaders have limited experience with the recruitment process, skills assessment, and how to fill out a team.
-    &lt;ul&gt;
-      &lt;li&gt;Hiring is often &lt;em&gt;whimsical&lt;/em&gt;, without a sense of balancing a team out so that they can collaborate well together.&lt;/li&gt;
-      &lt;li&gt;Managers either look for people &lt;em&gt;similar&lt;/em&gt; to themselves, or those who are the exact &lt;em&gt;opposite&lt;/em&gt;.&lt;/li&gt;
-      &lt;li&gt;Expectations for new hires are not set clearly leading to fatigue a year or two into the job.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;HR staff are given position requirements which list totally unrealistic expectations about the role.
-    &lt;ul&gt;
-      &lt;li&gt;HR ends up spending months working with recruiters to fill positions.&lt;/li&gt;
-      &lt;li&gt;Recruiters get frustrated and lose interest in chasing down the requirements.&lt;/li&gt;
-      &lt;li&gt;Since it’s hard to find a fit easily, candidates end up being on the ‘back burner’ for weeks altogether and often lose interest.&lt;/li&gt;
-      &lt;li&gt;Good candidates end up getting filtered due to the nature of the recruitment keyword filters. HR looks for ready skills, but cannot &lt;em&gt;measure potential&lt;/em&gt;.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Candidates end up interviewing with &lt;em&gt;half the company&lt;/em&gt; before decisions are made.
-    &lt;ul&gt;
-      &lt;li&gt;Particularly common with Indian subsidiaries of small companies, senior candidates go through several rounds of telephonic interviews with overseas interviews in addition to various rounds locally.&lt;/li&gt;
-      &lt;li&gt;Sometimes, even junior developers end up going through a number of rounds of discussions.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Despite complex hiring processes with checks and balances, bad hires happen.
-    &lt;ul&gt;
-      &lt;li&gt;These are inevitably a major drain on the organization.&lt;/li&gt;
-      &lt;li&gt;In addition to 15-20% payouts to the head hunters, the loss is the significant amount of organizational time and energy that goes in.&lt;/li&gt;
-      &lt;li&gt;Bad hires lead to a knee jerk response in the recruiting strategy, and an eventual downward spiral.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Given the rapid go-go culture of small companies, there’s often very little time to reflect on hiring mistakes, and to work through these issues upstream.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately, this ends up being a huge issue. For most small companies, people are often their &lt;em&gt;biggest asset&lt;/em&gt; and hiring mistakes can blow through your plans pretty quickly, causing tensions with the team, a loss of productivity, and eventual attrition.&lt;/p&gt;
-
-&lt;h2 id=&quot;screening&quot;&gt;Screening&lt;/h2&gt;
-
-&lt;p&gt;The folks at &lt;a href=&quot;http://www.interviewstreet.com&quot;&gt;InterviewStreet&lt;/a&gt; have developed a model that lets you run candidates through programming tests and puzzles (including custom modules). I think this has &lt;em&gt;huge&lt;/em&gt; potential, and I expect that this would alleviate a lot of the &lt;em&gt;pre-screening&lt;/em&gt; that tends to happen in the recruiting process to sieve out resumes.&lt;/p&gt;
-
-&lt;h1 id=&quot;make-new-friends-work-with-them&quot;&gt;Make new friends, work with them&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;The relationship between early founders of a startup is like a marriage.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;You end up spending so much time with your team at a startup, that it’s important that your working relationship thrives through the highs and lows.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;It’s important to work with people who are nice. But in startups, it’s nice to work with people who collaborate when shit hits the ceiling.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So, how do you make new friends and find people to grow your startup team?&lt;/p&gt;
-
-&lt;p&gt;You local community may also offer a number of avenues for meeting &lt;em&gt;great&lt;/em&gt; people. Community meetups like &lt;a href=&quot;http://www.meetup.com/blrdroid/&quot;&gt;Blrdroid&lt;/a&gt;, &lt;a href=&quot;http://bangalore.python.org.in/&quot;&gt;Bangpypers&lt;/a&gt;, as well as larger events like &lt;a href=&quot;http://www.jsfoo.in&quot;&gt;JSFoo&lt;/a&gt;, &lt;a href=&quot;http://rubyconfindia.org/&quot;&gt;RubyConf&lt;/a&gt;, &lt;a href=&quot;http://www.droidcon.in&quot;&gt;Droidcon&lt;/a&gt;, and &lt;a href=&quot;http://www.metarefresh.in&quot;&gt;Meta Refresh&lt;/a&gt; are great places to make friends and exchange ideas.&lt;/p&gt;
-
-&lt;p&gt;If your organization is involved in open source projects (honking great idea if you aren’t), those can be a great place to collaborate and explore things.&lt;/p&gt;
-
-&lt;p&gt;The best part about the working relationships that come out of the community? You get to &lt;em&gt;work&lt;/em&gt; with &lt;em&gt;friends&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;try-new-faces-with-paid-trials&quot;&gt;Try new faces with paid trials&lt;/h1&gt;
-
-&lt;p&gt;While it’s great to work with friends, its hard to scale quickly enough that way. Invariably, you get to a point where you need to expand out and meet a bunch of new faces and put them through the paces of interviews. I believe that instead of having candidates go through a battery of interviews, some of this can be evaluated better through a paid trial.&lt;/p&gt;
-
-&lt;p&gt;Here’s how I see a paid trial working:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A mutually agreed upon period of collaboration with the candidate&lt;/li&gt;
-  &lt;li&gt;A set of activities that would be performed together towards certain goals.&lt;/li&gt;
-  &lt;li&gt;These activities would be structured to model fairly typical interactions and working that is expected as a part of the role.&lt;/li&gt;
-  &lt;li&gt;These goals need not always be tangible, although thaπt helps.&lt;/li&gt;
-  &lt;li&gt;The activities should have mutual benefits - offering both the candidate and the company insight into each others thought process, working style, communication, and work ethic.&lt;/li&gt;
-  &lt;li&gt;A mutually agreed upon remuneration for the work. &lt;em&gt;More than the money involved, this shows that you are serious, and that you value each other’s time.&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;em&gt;To be clear, I’m &lt;strong&gt;not&lt;/strong&gt; saying we should do away with &lt;strong&gt;all&lt;/strong&gt; interviews&lt;/em&gt;. It’s not going to be economically feasible to invest organizational time and resources into running trials with &lt;em&gt;every&lt;/em&gt; candidate. You’d still want to run a first round of interviews to prescreen the candidate, and then discussions later for behavioral screening, longer term career growth, compensation expectations, and other non technical aspects of the discussion. However, there’s the rounds of interviews in between which may be better served by a trial.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;‘Paid trial’ is likely not the best name for this. &lt;a href=&quot;http://www.twitter.com/justjots&quot;&gt;@justjots&lt;/a&gt; suggests ‘role auditions’ or ‘job auditions’.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If the person you are looking to hire is currently freelancing, it’s often easier to evaluate them for a period and then see if they may be interested in joining you. However, if they are already working elsewhere, it would be hard to get them involved with you in a full time trial.&lt;/p&gt;
-
-&lt;p&gt;Instead, it may make sense in having them take up a small project and work with you in their spare time over the course of a longer period of time. The split of work being done remotely versus on premise is dependent on your organization, work culture,  policies, and the role itself.&lt;/p&gt;
-
-&lt;p&gt;Some candidates may resist the process, concerned about the time and effort involved. However, once they consider the amount of time saved from avoiding multiple commutes to your office, time spent waiting in the lobby, multiple interviews, and then various follow-ups, they’ll likely be much &lt;em&gt;happier&lt;/em&gt; doing work that they actually &lt;em&gt;enjoy&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Lets discuss specifics with examples.&lt;/p&gt;
-
-&lt;p&gt;If you are looking for an iOS developer with geolocation and networking skills, it may be useful to pick a small, active but non-critical app and have the candidate build out a small feature over the course of a month. For instance, getting someone to design a new IB screen, build out a view controller &amp;amp; wire up data model service calls may provide some insights.&lt;/p&gt;
-
-&lt;p&gt;If you are looking for an python developer with web dev skills, it’s easy enough to carve out smaller working assignments to build a decoupled service or a standalone site using lightweight tools like Flask or Bottle.&lt;/p&gt;
-
-&lt;p&gt;Interviews can get fairly hypothetical, but there’s nothing like working code. &lt;em&gt;Great engineers know that great engineers ship&lt;/em&gt;.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;Update 1&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;//twitter.com/nixxin&quot;&gt;Nikhil Pahwa&lt;/a&gt; mentioned to me that he’s been using trials at &lt;a href=&quot;//medianama.com&quot;&gt;Medianama&lt;/a&gt; successfully for the editorial hires.
-&lt;a href=&quot;//twitter.com/vijaysw&quot;&gt;Vijay Sharma&lt;/a&gt; is using trials at &lt;a href=&quot;//exotel.in&quot;&gt;Exotel&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Update 2&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://www.campushash.com/internhacks&quot;&gt;CampusHash&lt;/a&gt; is running &lt;a href=&quot;http://www.campushash.com/internhacks&quot;&gt;InternHacks&lt;/a&gt;, a program which promises to help connect companies with interns that have &lt;em&gt;real&lt;/em&gt; experience building things via a series of hackathons.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/a-case-for-paid-trials-instead-of-interviews.html&quot;&gt;A Case For Paid Trials Instead Of Interviews&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 16, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
