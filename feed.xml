@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2015-07-09T03:37:26+00:00</updated>
+<updated>2015-07-09T04:52:31+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
@@ -49,7 +49,7 @@
 
 &lt;h1 id=&quot;why-lean-startup-is-hard-in-practice&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/h1&gt;
 
-&lt;p&gt;Over the last couple of years, I’ve blogged about my &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;lean startup experiments&lt;/a&gt; (a popular post that made page one of HN). I’ve spoken at conferences about applying lean to &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;building mobile apps&lt;/a&gt;. And, I was a mentor at &lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Lean Startup Machine&lt;/a&gt;. Along the way, I’ve applied lean at a previous startup, collaborated with other entrepreneurs as a part of a DHC lean peer group, and am now running lean experiments at Intuit, a large software company. I’ve come to the conclusion that while lean startup has been a terrific step forward in how we think about what to build next, there’s still many significant challenges involved in practice. This post is an attempt to surface some of the issues so that we can talk about them as a community, and we can learn from each other.&lt;/p&gt;
+&lt;p&gt;Over the last couple of years, I’ve blogged about my &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;lean startup experiments&lt;/a&gt; (a popular post that made page one of HN). I’ve spoken at conferences about applying lean to &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;building mobile apps&lt;/a&gt;. And, I was a mentor at &lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Lean Startup Machine&lt;/a&gt;. Along the way, I’ve applied lean at my last startup across ideas incubated using an internal Y-Combinator incubation format. I’ve collaborated with other entrepreneurs as a part of a DHC lean peer group (who reviewed this post). And right now, I’m running lean experiments at Intuit, a large software company. I’ve come to the conclusion that while lean startup has been a terrific step forward in how we think about what to build next, there’s still many significant challenges involved in practice. This post is an attempt to surface some of the issues so that we can talk about them as a community, and we can learn from each other.&lt;/p&gt;
 
 &lt;p&gt;Before you read on, you may want to get past some of the &lt;a href=&quot;http://www.startuplessonslearned.com/2010/04/five-myths-about-lean-startup.html&quot;&gt;common misconceptions&lt;/a&gt; about Lean Startup.&lt;/p&gt;
 
@@ -60,7 +60,7 @@
 &lt;p&gt;Crafting a hypothesis and finding your leap of faith needs discipline. Choices about validation criteria can be subjective and need judgment calls. Decisions about how minimal your MVP needs to be can be challenging with marketplace or mobile apps where experience matters. Is the right experiment broad based generative research or evaluative to find fitment? Are we testing for the market needs or product fitment? That said, there’s certainly a wealth of information out there now, and vibrant supportive community that’s making this easier.&lt;/p&gt;
 
 &lt;figure&gt;
-&lt;img src=&quot;http://grasshopperherder.com/wp-content/uploads/2014/09/framework-lean-startup-playbook.png&quot; /&gt;
+&lt;a alt=&quot;lean startup&quot; href=&quot;http://grasshopperherder.com/what-type-of-lean-startup-experiment-should-i-run/&quot;&gt;&lt;img src=&quot;http://grasshopperherder.com/wp-content/uploads/2014/09/framework-lean-startup-playbook.png&quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;Source: grasshopperherder.com&lt;/figcaption&gt;
 &lt;/figure&gt;
 
