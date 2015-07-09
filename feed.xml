@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2015-07-07T20:23:35+00:00</updated>
+<updated>2015-07-09T03:37:26+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
@@ -31,10 +31,13 @@
 &lt;div id=&quot;drawer&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
   &lt;li&gt;&lt;a href=&quot;#why-lean-startup-is-hard-in-practice&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#basic-experiment-design-is-still-hard-for-beginners&quot;&gt;Basic experiment design is still hard for beginners.&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#managing-control-variables-across-experiment-batches-requires-rigor-and-persistence&quot;&gt;Managing control variables across experiment batches requires rigor and persistence.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#experiment-design-is-hard-for-beginners&quot;&gt;Experiment design is hard for beginners.&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#sampling-sizes-need-to-be-large-enough-to-hold-significance&quot;&gt;Sampling sizes need to be large enough to hold significance.&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#risk-of-missing-big-opportunities&quot;&gt;Risk of missing big opportunities.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#managing-control-variables-across-experiment-batches-requires-rigor-and-persistence&quot;&gt;Managing control variables across experiment batches requires rigor and persistence.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#risk-of-missing-big-opportunities&quot;&gt;Risk of missing big opportunities.&lt;/a&gt;        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;#effectuation-and-lean-startup&quot;&gt;Effectuation and Lean Startup&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#slope-of-enlightenment&quot;&gt;Slope of Enlightenment?&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -46,25 +49,22 @@
 
 &lt;h1 id=&quot;why-lean-startup-is-hard-in-practice&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/h1&gt;
 
-&lt;p&gt;Over the last couple of years, I’ve blogged about my &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;lean startup experiments&lt;/a&gt; (a popular post that made page one of HN), spoken at conferences about applying lean to &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;building mobile apps&lt;/a&gt;, and was a mentor at &lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Lean Startup Machine&lt;/a&gt;. Along the way, I’ve applied lean at a previous startup, collaborated with other entrepreneurs as a part of a DHC lean peer group, and am now running lean experiments at Intuit, a large enterprise. I’ve come to the conclusion that while lean startup has been a terrific step forward in how we think about what to build next, there’s still many significant challenges involved in practice. This post is an attempt to surface some of the issues so that we can talk about them as a community, and we can learn from each other.&lt;/p&gt;
+&lt;p&gt;Over the last couple of years, I’ve blogged about my &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;lean startup experiments&lt;/a&gt; (a popular post that made page one of HN). I’ve spoken at conferences about applying lean to &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;building mobile apps&lt;/a&gt;. And, I was a mentor at &lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Lean Startup Machine&lt;/a&gt;. Along the way, I’ve applied lean at a previous startup, collaborated with other entrepreneurs as a part of a DHC lean peer group, and am now running lean experiments at Intuit, a large software company. I’ve come to the conclusion that while lean startup has been a terrific step forward in how we think about what to build next, there’s still many significant challenges involved in practice. This post is an attempt to surface some of the issues so that we can talk about them as a community, and we can learn from each other.&lt;/p&gt;
 
 &lt;p&gt;Before you read on, you may want to get past some of the &lt;a href=&quot;http://www.startuplessonslearned.com/2010/04/five-myths-about-lean-startup.html&quot;&gt;common misconceptions&lt;/a&gt; about Lean Startup.&lt;/p&gt;
 
-&lt;h2 id=&quot;basic-experiment-design-is-still-hard-for-beginners&quot;&gt;Basic experiment design is still hard for beginners.&lt;/h2&gt;
+&lt;h2 id=&quot;experiment-design-is-hard-for-beginners&quot;&gt;Experiment design is hard for beginners.&lt;/h2&gt;
 
-&lt;p&gt;This may seem obvious, but I think it’s worth mentioning. Some folks get into lean startup thinking of it in the context of cost, but that’s a misnomer. While &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_manufacturing&quot;&gt;lean manufacturing&lt;/a&gt; is about cost, and is the &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_startup#Origins&quot;&gt;origin&lt;/a&gt; of Eric Ries’ idea, Lean Startup is about translating a vision into a falsifiable business model hypothesis.&lt;/p&gt;
+&lt;p&gt;This may seem obvious, but it’s worth mentioning. Some folks get into lean startup thinking of it in the context of cost, but that’s a misnomer. While &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_manufacturing&quot;&gt;lean manufacturing&lt;/a&gt; is about cost, and is the &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_startup#Origins&quot;&gt;origin&lt;/a&gt; of Eric Ries’ idea, Lean Startup is about translating a vision into a falsifiable business model hypothesis. &lt;/p&gt;
 
-&lt;p&gt;There are many tools that have emerged in the last few years like &lt;a href=&quot;http://www.leancanvas.com&quot;&gt;Lean Canvas&lt;/a&gt;, &lt;a href=&quot;http://www.javelin.com/experiment-board.html&quot;&gt;Javelin Board&lt;/a&gt;, &lt;a href=&quot;https://www.leanmonitor.com/&quot;&gt;Lean Monitor&lt;/a&gt;, &lt;a href=&quot;http://leanlab.io/&quot;&gt;Lean Lab&lt;/a&gt;, &lt;a href=&quot;https://www.leanlaunchlab.com/&quot;&gt;Lean Launch Lab&lt;/a&gt;, &lt;a href=&quot;http://www.intuitbrainstorm.com/&quot;&gt;Brainstorm&lt;/a&gt;and &lt;a href=&quot;https://leanstack.com/&quot;&gt;Lean Stack&lt;/a&gt;. There’s also several consultants and trainers offering training to help new entreprenurs or intrapreneurs apply lean startup to new ideas. While these have eased the learning curve, I think it’s still hard for a beginner getting started. &lt;/p&gt;
+&lt;p&gt;Crafting a hypothesis and finding your leap of faith needs discipline. Choices about validation criteria can be subjective and need judgment calls. Decisions about how minimal your MVP needs to be can be challenging with marketplace or mobile apps where experience matters. Is the right experiment broad based generative research or evaluative to find fitment? Are we testing for the market needs or product fitment? That said, there’s certainly a wealth of information out there now, and vibrant supportive community that’s making this easier.&lt;/p&gt;
 
-&lt;p&gt;Crafting a hypothesis and finding your leap of faith needs discipline. Choices about validation criteria can be subjective and need judgment calls. Decisions about how minimal your MVP needs to be can be challenging with marketplace or mobile apps where experience matters. That said, there’s certainly a wealth of information out there now, and vibrant supportive community that’s making this easier.&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://grasshopperherder.com/wp-content/uploads/2014/09/framework-lean-startup-playbook.png&quot; /&gt;
+&lt;figcaption&gt;Source: grasshopperherder.com&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;h2 id=&quot;managing-control-variables-across-experiment-batches-requires-rigor-and-persistence&quot;&gt;Managing control variables across experiment batches requires rigor and persistence.&lt;/h2&gt;
-
-&lt;p&gt;A common challenge I’ve seen has been identifying the &lt;a href=&quot;http://en.wikipedia.org/wiki/Control_variable#In_an_experiment&quot;&gt;control variables&lt;/a&gt; that influence your experiments and managing them across experiment batches. Without this in place, it can be hard to draw a strong correlation, and understand if you were invalidated or not.&lt;/p&gt;
-
-&lt;p&gt;For instance, it’s easy to mix up testing out a channel hypothesis with a value hypothesis and get muddled. One of the medical startups that was at Lean Startup Machine went out and spoke to ten people on the street to test their initial value hypothesis. They got a lukewarm signal, but decided to persevere with a modified value hypothesis. They then went out and spoke to ten people at hospitals. Since the signal was weak, they felt they were invalidated, but weren’t sure if their original value prop might have appealed to the hospital. &lt;/p&gt;
-
-&lt;p&gt;While a scrappy approach helps try things out quickly, keeping in mind the different control variables that apply to your experiment and holding them constant helps derive clearer inferences about the result of an experiment.&lt;/p&gt;
+&lt;p&gt;There are many tools that have emerged in the last few years like &lt;a href=&quot;http://www.leancanvas.com&quot;&gt;Lean Canvas&lt;/a&gt;, &lt;a href=&quot;http://www.javelin.com/experiment-board.html&quot;&gt;Javelin Board&lt;/a&gt;, &lt;a href=&quot;https://www.leanmonitor.com/&quot;&gt;Lean Monitor&lt;/a&gt;, &lt;a href=&quot;http://leanlab.io/&quot;&gt;Lean Lab&lt;/a&gt;, &lt;a href=&quot;https://www.leanlaunchlab.com/&quot;&gt;Lean Launch Lab&lt;/a&gt;, &lt;a href=&quot;http://www.intuitbrainstorm.com/&quot;&gt;Brainstorm&lt;/a&gt;and &lt;a href=&quot;https://leanstack.com/&quot;&gt;Lean Stack&lt;/a&gt;. There’s even a clever &lt;a href=&quot;http://www.playinglean.com/&quot;&gt;board game&lt;/a&gt; by Simen Fure Jørgensen. There’s also several consultants and trainers offering training to help new entreprenurs or intrapreneurs apply lean startup to new ideas. While these have eased the learning curve somewhat, it’s still hard for a beginner going beyond a launch page and into his first pivot to figure out what next.&lt;/p&gt;
 
 &lt;h2 id=&quot;sampling-sizes-need-to-be-large-enough-to-hold-significance&quot;&gt;Sampling sizes need to be large enough to hold significance.&lt;/h2&gt;
 
@@ -76,9 +76,23 @@
 
 &lt;p&gt;So what ends up happening? Some run experiments with broad, large sampling sizes whose personas type may be a mismatch, leading to invalidation. Or, run with smaller groups with qualitative feedback that yields deeper insights, but may not be statistically significant.&lt;/p&gt;
 
-&lt;p&gt;Whether choosing criteria for validation or making a pivot vs persevere decision, we’re often faced with situations that require a judgment call. Despite our best intentions, our decisions are often swayed by our biases. While our understanding of cognitive psychology may have improved over the year, we often let our biases get the better of us. If you haven’t read Daniel Kahneman’s &lt;a href=&quot;http://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/1846140552&quot;&gt;Thinking Fast and Slow&lt;/a&gt; yet, you might want to pick it up for examples where we don’t quite think as logically as we may hope we do. &lt;/p&gt;
+&lt;p&gt;Whether choosing criteria for validation or making a pivot vs persevere decision, we’re often faced with situations that require a judgment call. Despite our best intentions, our decisions are often swayed by our biases. While our understanding of cognitive psychology may have improved over the year, we often let our biases get the better of us. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;a href=&quot;http://www.goodreads.com/quotes/1249307-if-you-torture-the-data-long-enough-it-will-confess&quot;&gt;If you torture the data long enough, it will confess.&lt;/a&gt; &lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;Sometimes we often spend endless analyzing things, and make ourselves believe we are arriving at deeper insights by armchair analysis. Instead, we are often just rationalizing our own thoughts with dialectical skills. While Lean Startup provides a framework that appears to helps reduce otherwise rampant &lt;a href=&quot;http://en.wikipedia.org/wiki/Confirmation_bias&quot;&gt;confirmation bias&lt;/a&gt;, it doesn’t necessarily provide all the answers.&lt;/p&gt;
+
+&lt;h2 id=&quot;managing-control-variables-across-experiment-batches-requires-rigor-and-persistence&quot;&gt;Managing control variables across experiment batches requires rigor and persistence.&lt;/h2&gt;
+
+&lt;p&gt;A common challenge I’ve seen has been identifying the &lt;a href=&quot;http://en.wikipedia.org/wiki/Control_variable#In_an_experiment&quot;&gt;control variables&lt;/a&gt; that influence your experiments and managing them across experiment batches. Without this in place, it can be hard to draw a strong correlation, and understand if you were invalidated or not.&lt;/p&gt;
+
+&lt;p&gt;For instance, it’s easy to mix up testing out a channel hypothesis with a value hypothesis and get muddled. One of the medical startups that was at Lean Startup Machine went out and spoke to ten people on the street to test their initial value hypothesis. They got a lukewarm signal, but decided to persevere with a modified value hypothesis. They then went out and spoke to ten people at hospitals. Since the signal was weak, they felt they were invalidated, but weren’t sure if their original value prop might have appealed to the hospital. &lt;/p&gt;
+
+&lt;p&gt;In scientific lab experiments, control variables are carefully managed. If an experiment is run again with the same setup, the same results are expected. If not, the original experiment is usually considered to have been flawed.&lt;/p&gt;
+
+&lt;p&gt;However, tests in the real world are exposed to several variables which are often beyond our control. While a scrappy approach helps us try things out quickly, keeping in mind the different control variables that apply to your experiment and holding them constant may help derive better inferences about the result of an experiment.&lt;/p&gt;
 
 &lt;h2 id=&quot;risk-of-missing-big-opportunities&quot;&gt;Risk of missing big opportunities.&lt;/h2&gt;
 
@@ -94,15 +108,24 @@
   &lt;p&gt;Iteration and machine learning are often excuses for not thinking about the future and short time horizons.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://33.media.tumblr.com/tumblr_m4c8ztrzpQ1qbb0b4.png&quot; /&gt;&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://33.media.tumblr.com/tumblr_m4c8ztrzpQ1qbb0b4.png&quot; /&gt;
+&lt;/figure&gt;
 
 &lt;p&gt;Part of his thought process there is that post the 2008 subprime crisis, the world has largely slipped away from the top left quadrant towads the bottom half. &lt;/p&gt;
 
-&lt;p&gt;There’s also the views of professor &lt;a href=&quot;http://www.darden.virginia.edu/faculty-research/directory/saras-d-sarasvathy/&quot;&gt;Saras Sarasvathy&lt;/a&gt;, whose paper on &lt;a href=&quot;http://www.effectuation.org/sites/default/files/documents/what-makes-entrepreneurs-entrepreneurial-sarasvathy.pdf&quot;&gt;What makes entrepreneurs entrepreneurial&lt;/a&gt; is now regarded as a seminal piece on &lt;a href=&quot;http://en.wikipedia.org/wiki/Effectuation&quot;&gt;Effectuation&lt;/a&gt;. &lt;/p&gt;
+&lt;h3 id=&quot;effectuation-and-lean-startup&quot;&gt;Effectuation and Lean Startup&lt;/h3&gt;
 
-&lt;p&gt;In simple terms, her view is that causal reasoning is used when the future is predictable. But effectual reasoning is used when the future is unpredictable, which is most often the case for entrepreneurs. She believes that instead of causal or systems thinking, entrepreneurs look to leverage available resources at hand to see where they can go from there. &lt;/p&gt;
+&lt;p&gt;There’s also the views of Professor &lt;a href=&quot;http://www.darden.virginia.edu/faculty-research/directory/saras-d-sarasvathy/&quot;&gt;Saras Sarasvathy&lt;/a&gt;, who was a speaker at a fabulous &lt;a href=&quot;http://www.ispirt.in/&quot;&gt;iSprt&lt;/a&gt; roundtable last year. Saras’s paper on “&lt;a href=&quot;http://www.effectuation.org/sites/default/files/documents/what-makes-entrepreneurs-entrepreneurial-sarasvathy.pdf&quot;&gt;What makes entrepreneurs entrepreneurial&lt;/a&gt;” is now regarded as a seminal piece on &lt;a href=&quot;http://en.wikipedia.org/wiki/Effectuation&quot;&gt;Effectuation&lt;/a&gt;. &lt;/p&gt;
 
-&lt;p&gt;Ultimately, most of these views are inherently hard to digest since there’s no easy way to examine how any of these approaches are working in practice. While there are some people who claim to have succeeded using one framework or the other, those declarations have mostly come &lt;em&gt;after&lt;/em&gt; they achieved success with limited visibility into the journey. Are we falling for &lt;a href=&quot;https://en.wikipedia.org/wiki/Survivorship_bias&quot;&gt;survivorship bias&lt;/a&gt;?&lt;/p&gt;
+&lt;figure&gt;
+&lt;img src=&quot;http://www.effectuation.org/sites/default/files/means-causal-vs-effectual.png&quot; /&gt;
+&lt;figcaption&gt;Source: effectuation.org&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;In simple terms, her view is that causal reasoning is used when the future is predictable. But effectual reasoning is used when the future is unpredictable, which is most often the case for entrepreneurs. She believes that instead of causal or systems thinking, entrepreneurs look to leverage available resources at hand to see where they can go from there. In many ways, some of her ideas resonated with the audience and &lt;em&gt;felt&lt;/em&gt; more intuitive than Lean Startup. Some, like &lt;a href=&quot;http://thestartuptoolkit.com/blog/2014/09/i-prefer-effectuation-to-lean-startup-sorta/&quot;&gt;Rob Fitzpatrick&lt;/a&gt; have opined that Effectuation may be the better suited tool to decide &lt;a href=&quot;http://thestartuptoolkit.com/blog/2014/09/i-prefer-effectuation-to-lean-startup-sorta/&quot;&gt;what to do next&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Ultimately, most of these views are inherently hard to digest since there’s no easy way to examine how any of these approaches are working in practice. While there are some people who claim to have succeeded using one framework or the other, those declarations have mostly come &lt;em&gt;after&lt;/em&gt; they achieved success with limited visibility into the journey. Are we just falling for &lt;a href=&quot;https://en.wikipedia.org/wiki/Survivorship_bias&quot;&gt;survivorship bias&lt;/a&gt;?&lt;/p&gt;
 
 &lt;h2 id=&quot;slope-of-enlightenment&quot;&gt;Slope of Enlightenment?&lt;/h2&gt;
 
@@ -120,7 +143,7 @@
 &lt;img src=&quot;images/lean-startup-hype-cycle.png&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;We’re beyond thinking of lean startup solely in terms of cost saving, or an excuse to put out half assed MVPs, or to keep pivoting at a whim. If you believe the traction Eric seems to have around his new book &lt;a href=&quot;https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries&quot;&gt;The Leader’s Guide&lt;/a&gt;, a significant community has embraced Lean Startup in the context of both entrepreneurship and intrapreneurship across a wide range of industries. &lt;/p&gt;
+&lt;p&gt;We are now well beyond thinking of lean startup solely in terms of cost saving, or an excuse to put out half assed MVPs, or to keep pivoting at a whim. If you believe the traction Eric seems to have around his new book &lt;a href=&quot;https://www.kickstarter.com/projects/881308232/only-on-kickstarter-the-leaders-guide-by-eric-ries&quot;&gt;The Leader’s Guide&lt;/a&gt;, a significant community has embraced Lean Startup in the context of both entrepreneurship and intrapreneurship across a wide range of industries. While challenges remain, we continue to learn.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;We cannot afford to have our success breed a new pseudoscience around pivots, MVPs, and the like. This was the fate of scientific management, and in the end, I believe, that set back its cause by decades&lt;/p&gt;
