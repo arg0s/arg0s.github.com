@@ -2,26 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Arvi's Blog</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2015-07-27T04:27:27+00:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
+<link rel="alternate" type="text/html" href="http://arg0s.in" />
+<updated>2015-07-27T04:29:18+00:00</updated>
+<id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://arg0s.in/</uri>
   <email>arvi@alumni.iastate.edu</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Why Lean Startup Is Hard In Practice]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/why-lean-startup-is-hard-in-practice.html" />
-  <id>http://localhost:4000/why-lean-startup-is-hard-in-practice</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/why-lean-startup-is-hard-in-practice.html" />
+  <id>http://arg0s.in/why-lean-startup-is-hard-in-practice</id>
   <published>2015-06-01T00:00:00+00:00</published>
   <updated>2015-06-01T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -152,20 +152,20 @@
 &lt;p&gt;If you have suggestions or examples from your experiences, please drop me a note or connect via Twitter @twitortat.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-lean-startup-is-hard-in-practice.html&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on June 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-lean-startup-is-hard-in-practice.html&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on June 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My Second PyCon]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/my-second-pycon.html" />
-  <id>http://localhost:4000/my-second-pycon</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/my-second-pycon.html" />
+  <id>http://arg0s.in/my-second-pycon</id>
   <updated>2014-10-11 04:53:16 UTCT00:00:00-00:00</updated>
   <published>2014-10-11T00:00:00+00:00</published>
   
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;images/lifeofpy.jpg&quot; /&gt;&lt;/p&gt;
@@ -276,19 +276,19 @@
 &lt;img src=&quot;images/lifeofpy.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/my-second-pycon.html&quot;&gt;My Second PyCon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on October 11, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/my-second-pycon.html&quot;&gt;My Second PyCon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why People Buy Things From You]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/why-people-buy-things-from-you.html" />
-  <id>http://localhost:4000/why-people-buy-things-from-you</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/why-people-buy-things-from-you.html" />
+  <id>http://arg0s.in/why-people-buy-things-from-you</id>
   <published>2014-06-06T00:00:00+00:00</published>
   <updated>2014-06-06T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;figure&gt;
@@ -300,19 +300,19 @@
 
 &lt;p&gt;Or you can spend a ton of time understanding your customers. And then customers will buy things from you because you understand &lt;em&gt;what they do&lt;/em&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-people-buy-things-from-you.html&quot;&gt;Why People Buy Things From You&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-people-buy-things-from-you.html&quot;&gt;Why People Buy Things From You&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Customer Development, Invalidation, Karma and WhatsApp]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/customer-development-invalidation-karma-and-whatsapp.html" />
-  <id>http://localhost:4000/customer-development-invalidation-karma-and-whatsapp</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/customer-development-invalidation-karma-and-whatsapp.html" />
+  <id>http://arg0s.in/customer-development-invalidation-karma-and-whatsapp</id>
   <published>2014-05-29T00:00:00+00:00</published>
   <updated>2014-05-29T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;This is an &lt;em&gt;amazing&lt;/em&gt; story worth sharing again, and again. In May 2009, an entrepreneur shared this on an online forum that he was active on.&lt;/p&gt;
@@ -362,19 +362,19 @@
   &lt;li&gt;Why did Whatsapp succeed despite the existence of players like Google, Facebook, Skype and others with their messengers? Why were the telecom providers bleeding SMS revenue caught napping? What can we learn from it?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/customer-development-invalidation-karma-and-whatsapp.html&quot;&gt;Customer Development, Invalidation, Karma and WhatsApp&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 29, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/customer-development-invalidation-karma-and-whatsapp.html&quot;&gt;Customer Development, Invalidation, Karma and WhatsApp&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 29, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Evolution of the PMO Site - Vajpayee to Modi]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/the-evolution-of-the-pmo-site-vajpayee-to-modi.html" />
-  <id>http://localhost:4000/the-evolution-of-the-pmo-site-vajpayee-to-modi</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/the-evolution-of-the-pmo-site-vajpayee-to-modi.html" />
+  <id>http://arg0s.in/the-evolution-of-the-pmo-site-vajpayee-to-modi</id>
   <published>2014-05-27T00:00:00+00:00</published>
   <updated>2014-05-27T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;Here’s a colorful look back at the &lt;a href=&quot;http://www.pmindia.nic.in/&quot; target=&quot;_blank&quot;&gt;PMO India site&lt;/a&gt; over the years, with archives from the Wayback Machine.&lt;/p&gt;
@@ -416,19 +416,19 @@
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The PMO &lt;a href=&quot;http://pmindia.nic.in/website_policy.php&quot; target=&quot;_blank&quot;&gt;website policy&lt;/a&gt; section indicates that external sites must get their permission before linking in to it. I’ve sent in a request for permission, but I hope this policy is just a relic of the old website that never did get updated. In case you are from NIC or PMO and would like the link removed, please &lt;a href=&quot;http://arg0s.in/ask-me-anything/&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/the-evolution-of-the-pmo-site-vajpayee-to-modi.html&quot;&gt;The Evolution of the PMO Site - Vajpayee to Modi&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/the-evolution-of-the-pmo-site-vajpayee-to-modi.html&quot;&gt;The Evolution of the PMO Site - Vajpayee to Modi&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why Large Companies Should Consider A Lean Startup Approach]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/why-large-companies-should-consider-a-lean-startup-approach.html" />
-  <id>http://localhost:4000/why-large-companies-should-consider-a-lean-startup-approach</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach.html" />
+  <id>http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach</id>
   <published>2014-05-22T00:00:00+00:00</published>
   <updated>2014-05-22T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;Recently, &lt;a href=&quot;http://twitter.com/Penenberg&quot; target=&quot;_blank&quot;&gt;Adam Penenberg&lt;/a&gt; made a great &lt;a href=&quot;http://pando.com/2014/04/18/dancing-giants-why-large-companies-should-embrace-the-minimum-viable-product&quot;&gt;post&lt;/a&gt; about large companies and why the MVP matters to them. There’s several things that I strongly agree with, but one stands out in particular.&lt;/p&gt;
@@ -461,19 +461,19 @@
 
 &lt;p&gt;They’d have to start by opening their minds.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-large-companies-should-consider-a-lean-startup-approach.html&quot;&gt;Why Large Companies Should Consider A Lean Startup Approach&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach.html&quot;&gt;Why Large Companies Should Consider A Lean Startup Approach&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A 10 Minute Good Reads Challenge]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/a-10-minute-good-reads-challenge.html" />
-  <id>http://localhost:4000/a-10-minute-good-reads-challenge</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/a-10-minute-good-reads-challenge.html" />
+  <id>http://arg0s.in/a-10-minute-good-reads-challenge</id>
   <published>2014-05-20T00:00:00+00:00</published>
   <updated>2014-05-20T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;So, my colleague and good friend &lt;a href=&quot;http://www.linkedin.com/pub/raj-kannan/0/313/4a9&quot;&gt;Raj&lt;/a&gt; prodded me towards this post. He asked us to come up with a list few &lt;em&gt;memorable&lt;/em&gt; blog posts that we’d all liked. What constitutes a blog post was left fairly open, and could include opinion pieces from all types of media.&lt;/p&gt;
@@ -570,19 +570,19 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/a-10-minute-good-reads-challenge.html&quot;&gt;A 10 Minute Good Reads Challenge&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/a-10-minute-good-reads-challenge.html&quot;&gt;A 10 Minute Good Reads Challenge&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why I'm a Mentor at Lean Startup Machine Bangalore]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/why-im-a-mentor-at-lean-startup-machine-bangalore.html" />
-  <id>http://localhost:4000/why-im-a-mentor-at-lean-startup-machine-bangalore</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html" />
+  <id>http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore</id>
   <published>2014-05-19T00:00:00+00:00</published>
   <updated>2014-05-19T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -682,20 +682,20 @@
 &lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/35319264?rel=0&quot; width=&quot;512&quot; height=&quot;421&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt;     &lt;/iframe&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Why I'm a Mentor at Lean Startup Machine Bangalore&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Why I'm a Mentor at Lean Startup Machine Bangalore&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Kicking off Levitum Knot Hangouts On Air]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/kicking-off-the-levitum-knot-hangouts-on-air.html" />
-  <id>http://localhost:4000/kicking-off-the-levitum-knot-hangouts-on-air</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/kicking-off-the-levitum-knot-hangouts-on-air.html" />
+  <id>http://arg0s.in/kicking-off-the-levitum-knot-hangouts-on-air</id>
   <updated>2014-05-15 12:42:52 UTCT00:00:00-00:00</updated>
   <published>2014-05-15T00:00:00+00:00</published>
   
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;I’d blogged recently about how we’ve adopted a &lt;a href=&quot;http://arg0s.in/running-efficient-meetings-at-your-startup.html&quot;&gt;new approach&lt;/a&gt; to how we’re running meetings at Levitum.&lt;/p&gt;
@@ -732,20 +732,20 @@
 
 &lt;p&gt;One of the things we’d love to do once we’ve started to get a little bit of structure (read: less screw ups) around how we’re running the on air sessions is invite friends at other startups to join us for guest sessions. We’re open to most topic ideas - we’d just like to keep it informative, informal and useful. We think this might be a nice way to brings birds of a feather together, and find others who share common hobbies and passions. If you’d like to be a guest speaker write to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#108;&amp;#101;&amp;#118;&amp;#105;&amp;#116;&amp;#117;&amp;#109;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#108;&amp;#101;&amp;#118;&amp;#105;&amp;#116;&amp;#117;&amp;#109;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt; or ping &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/kicking-off-the-levitum-knot-hangouts-on-air.html&quot;&gt;Kicking off Levitum Knot Hangouts On Air&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/kicking-off-the-levitum-knot-hangouts-on-air.html&quot;&gt;Kicking off Levitum Knot Hangouts On Air&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Running Effective Meetings At Your Startup]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/running-efficient-meetings-at-your-startup.html" />
-  <id>http://localhost:4000/running-efficient-meetings-at-your-startup</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/running-efficient-meetings-at-your-startup.html" />
+  <id>http://arg0s.in/running-efficient-meetings-at-your-startup</id>
   <updated>2014-05-04 07:11:59 UTCT00:00:00-00:00</updated>
   <published>2014-05-14T00:00:00+00:00</published>
   
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -939,19 +939,19 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/running-efficient-meetings-at-your-startup.html&quot;&gt;Running Effective Meetings At Your Startup&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/running-efficient-meetings-at-your-startup.html&quot;&gt;Running Effective Meetings At Your Startup&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Unending Love, Audrey Hepburn's Favorite Poem by Rabindranath Tagore]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/unending-love-audrey-hepburn-rabindranath-tagore.html" />
-  <id>http://localhost:4000/unending-love-audrey-hepburn-rabindranath-tagore</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/unending-love-audrey-hepburn-rabindranath-tagore.html" />
+  <id>http://arg0s.in/unending-love-audrey-hepburn-rabindranath-tagore</id>
   <published>2014-05-04T00:00:00+00:00</published>
   <updated>2014-05-04T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -1071,19 +1071,19 @@ And the songs of every poet past and forever.
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/unending-love-audrey-hepburn-rabindranath-tagore.html&quot;&gt;Unending Love, Audrey Hepburn's Favorite Poem by Rabindranath Tagore&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/unending-love-audrey-hepburn-rabindranath-tagore.html&quot;&gt;Unending Love, Audrey Hepburn's Favorite Poem by Rabindranath Tagore&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Checklist of Lean Startup Customer Development Interview Questions]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/lean-startup-customer-development-interviews.html" />
-  <id>http://localhost:4000/lean-startup-customer-development-interviews</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/lean-startup-customer-development-interviews.html" />
+  <id>http://arg0s.in/lean-startup-customer-development-interviews</id>
   <published>2014-04-29T00:00:00+00:00</published>
   <updated>2014-04-29T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -1270,19 +1270,19 @@ Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.i
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/lean-startup-customer-development-interviews.html&quot;&gt;A Checklist of Lean Startup Customer Development Interview Questions&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on April 29, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/lean-startup-customer-development-interviews.html&quot;&gt;A Checklist of Lean Startup Customer Development Interview Questions&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 29, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Seth Godin on Not Reinventing the Wheel]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/seth-on-not-reinventing-the-wheel.html" />
-  <id>http://localhost:4000/seth-on-not-reinventing-the-wheel</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/seth-on-not-reinventing-the-wheel.html" />
+  <id>http://arg0s.in/seth-on-not-reinventing-the-wheel</id>
   <published>2014-04-20T00:00:00+00:00</published>
   <updated>2014-04-20T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;/images/seth-godin.jpg&quot; alt=&quot;/images/seth-godin.jpg&quot; /&gt;&lt;/p&gt;
@@ -1297,20 +1297,20 @@ For the rest, honor those that came before and use their work as a building bloc
 
 &lt;p&gt;A succinct gem by Seth Godin on why it’s time we stopped reinventing the wheel. &lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2014/04/steal-dont-invent.html&quot;&gt;See original article&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/seth-on-not-reinventing-the-wheel.html&quot;&gt;Seth Godin on Not Reinventing the Wheel&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on April 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/seth-on-not-reinventing-the-wheel.html&quot;&gt;Seth Godin on Not Reinventing the Wheel&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How I Lost Ten Kilos In A Year]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/how-i-lost-ten-kilos-in-a-year.html" />
-  <id>http://localhost:4000/how-i-lost-ten-kilos-in-a-year</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/how-i-lost-ten-kilos-in-a-year.html" />
+  <id>http://arg0s.in/how-i-lost-ten-kilos-in-a-year</id>
   <updated>2014-04-15T00:00:00-00:00</updated>
   <published>2014-04-15T00:00:00+00:00</published>
   
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -1498,20 +1498,20 @@ For the rest, honor those that came before and use their work as a building bloc
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/how-i-lost-ten-kilos-in-a-year.html&quot;&gt;How I Lost Ten Kilos In A Year&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on April 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/how-i-lost-ten-kilos-in-a-year.html&quot;&gt;How I Lost Ten Kilos In A Year&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What We Learnt From A Failed MVP (Lean Startup)]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/what-we-learnt-from-a-failed-mvp.html" />
-  <id>http://localhost:4000/what-we-learnt-from-a-failed-mvp</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/what-we-learnt-from-a-failed-mvp.html" />
+  <id>http://arg0s.in/what-we-learnt-from-a-failed-mvp</id>
   <updated>2014-04-14T00:00:00-00:00</updated>
   <published>2014-04-11T00:00:00+00:00</published>
   
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
@@ -1892,19 +1892,19 @@ Are there things that you think we could have done differently? Chime in via the
 &lt;strong&gt;UPDATE&lt;/strong&gt;&lt;br /&gt;
 Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.in/lean-startup-customer-development-interviews.html&quot;&gt;lean startup customer development interview questions&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/what-we-learnt-from-a-failed-mvp.html&quot;&gt;What We Learnt From A Failed MVP (Lean Startup)&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;What We Learnt From A Failed MVP (Lean Startup)&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Five Most Popular Amul Ads Of 2013]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/five-most-popular-amul-ads-of-2013.html" />
-  <id>http://localhost:4000/five-most-popular-amul-ads-of-2013</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/five-most-popular-amul-ads-of-2013.html" />
+  <id>http://arg0s.in/five-most-popular-amul-ads-of-2013</id>
   <published>2014-04-09T00:00:00+00:00</published>
   <updated>2014-04-09T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;Wonder what the most popular Amul Ads of 2013 were?  Well, here’s a quick round up of the top 5.&lt;/p&gt;
@@ -1945,20 +1945,20 @@ Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.i
 
 &lt;p class=&quot;notice&quot;&gt;Quiz Time! Guess what each ads is about in the comments. Answers will be updated shortly.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/five-most-popular-amul-ads-of-2013.html&quot;&gt;Five Most Popular Amul Ads Of 2013&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on April 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/five-most-popular-amul-ads-of-2013.html&quot;&gt;Five Most Popular Amul Ads Of 2013&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Applying Lean Startup Principles To Mobile App Development]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development.html" />
-  <id>http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/applying-lean-startup-principles-to-mobile-app-development.html" />
+  <id>http://arg0s.in/applying-lean-startup-principles-to-mobile-app-development</id>
   <updated>2014-04-05T00:00:00-00:00</updated>
   <published>2014-04-05T00:00:00+00:00</published>
   
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;I attended &lt;a href=&quot;http://www.droidsync.in&quot;&gt;DroidSync&lt;/a&gt;, an event organized in Mumbai by my friend &lt;a href=&quot;http://www.twitter.com/prajyotm&quot;&gt;Prajyot Mainkar&lt;/a&gt; of &lt;a href=&quot;http://www.androcid.com&quot;&gt;Androcid&lt;/a&gt; for app developers and entrepreneurs. I presented a session in the Business Track about applying Lean Startup principles to Mobile App Development.&lt;/p&gt;
@@ -1991,19 +1991,19 @@ Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.i
 
 &lt;p&gt;Also a big shout out to the other awesome speakers &lt;a href=&quot;http://twitter.com/amsanjeev&quot;&gt;Amrit&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/ravivyas84&quot;&gt;Ravi&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/PG1O1&quot;&gt;Prateek&lt;/a&gt;, Garima, Boaz, and Santosh. The highlight of the day for me was the time we spent having an open chat with the audience from the stage. And thanks once again for Androcid for pulling off a great event, and wonderful hospitality. They also organized NitroDroid in Goa, and doing a great job broadening and enabling the ecosystem.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development.html&quot;&gt;Applying Lean Startup Principles To Mobile App Development&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on April 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/applying-lean-startup-principles-to-mobile-app-development.html&quot;&gt;Applying Lean Startup Principles To Mobile App Development&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Three Tennis Serve Tips I Wish I Had Known Earlier]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier.html" />
-  <id>http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/three-tennis-serve-tips-i-wish-i-had-known-earlier.html" />
+  <id>http://arg0s.in/three-tennis-serve-tips-i-wish-i-had-known-earlier</id>
   <published>2014-01-10T00:00:00+00:00</published>
   <updated>2014-01-10T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;When I watch Roger Federer serve, his fluid brilliance is incredibly captivating. Balanced and relaxed start position. Check. Graceful rocking motion. Check. Rapid arm pronation. Check. Explosion at contact. Check. It’s poetry in motion.&lt;/p&gt;
@@ -2101,19 +2101,19 @@ where the player has total control (well, once you’ve got a handle on the toss
 
 &lt;p&gt;Hope these are useful to you. Please chime in via the comments, or let me know on &lt;a href=&quot;http://www.twitter.com/twitortat&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier.html&quot;&gt;Three Tennis Serve Tips I Wish I Had Known Earlier&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/three-tennis-serve-tips-i-wish-i-had-known-earlier.html&quot;&gt;Three Tennis Serve Tips I Wish I Had Known Earlier&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Making Droidcon Bigger Better]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/making-droidcon-bigger-better.html" />
-  <id>http://localhost:4000/making-droidcon-bigger-better</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/making-droidcon-bigger-better.html" />
+  <id>http://arg0s.in/making-droidcon-bigger-better</id>
   <published>2013-09-25T00:00:00+00:00</published>
   <updated>2013-09-25T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;//droidcon.in&quot;&gt;&lt;img src=&quot;static/images/droidcon.jpg&quot; alt=&quot;Droidcon India&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
@@ -2264,19 +2264,19 @@ where the player has total control (well, once you’ve got a handle on the toss
 
 &lt;p&gt;&lt;em&gt;Aravind Krishnaswamy is Co-Founder, &lt;a href=&quot;//levitum.com&quot;&gt;Levitum&lt;/a&gt;. He is a volunteer at &lt;a href=&quot;//droidcon.in&quot;&gt;Droidcon&lt;/a&gt;, and chairs the Program Committee&lt;/em&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/making-droidcon-bigger-better.html&quot;&gt;Making Droidcon Bigger Better&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on September 25, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/making-droidcon-bigger-better.html&quot;&gt;Making Droidcon Bigger Better&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 25, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My First Pycon]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/my-first-pycon.html" />
-  <id>http://localhost:4000/my-first-pycon</id>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/my-first-pycon.html" />
+  <id>http://arg0s.in/my-first-pycon</id>
   <published>2013-09-19T00:00:00+00:00</published>
   <updated>2013-09-19T00:00:00+00:00</updated>
   <author>
     <name>Arvi Krishnaswamy</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://arg0s.in</uri>
     <email>arvi@alumni.iastate.edu</email>
   </author>
   <content type="html">&lt;p&gt;Late last month, &lt;a href=&quot;//twitter.com/vinuthomas&quot;&gt;Vinu&lt;/a&gt;, Aditya, Jay and I attended &lt;a href=&quot;//twitter.com/pyconindia&quot;&gt;Pycon India&lt;/a&gt; for the first time. I made a presentation about the technology stack we use at &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; for the backend some of our apps. We use a heady cocktail of &lt;code&gt;Flask&lt;/code&gt;, &lt;code&gt;Redis&lt;/code&gt;, &lt;code&gt;CouchDB&lt;/code&gt;, &lt;code&gt;Postgres&lt;/code&gt;, &lt;code&gt;Heroku&lt;/code&gt;, &lt;code&gt;Gunicorn&lt;/code&gt;, and &lt;code&gt;Gevent&lt;/code&gt; and have several hundred thousand users using the apps we’ve built.&lt;/p&gt;
@@ -2351,7 +2351,7 @@ where the player has total control (well, once you’ve got a handle on the toss
 
 &lt;p&gt;Great job by the organizers. Congrats for making Pycon 2013 a great success.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/my-first-pycon.html&quot;&gt;My First Pycon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi's Blog&lt;/a&gt; on September 19, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/my-first-pycon.html&quot;&gt;My First Pycon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 19, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
