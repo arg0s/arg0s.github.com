@@ -4,13 +4,190 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
 <link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2015-07-28T01:59:41+00:00</updated>
+<updated>2017-07-30T18:08:56+00:00</updated>
 <id>http://arg0s.in/</id>
 <author>
   <name>Arvi Krishnaswamy</name>
   <uri>http://arg0s.in/</uri>
   <email>arvi@alumni.iastate.edu</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[How Scott Cook coaches innovation teams]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/how-scott-cook-coaches-teams.html" />
+  <id>http://arg0s.in/how-scott-cook-coaches-teams</id>
+  <published>2016-02-10T00:00:00+00:00</published>
+  <updated>2016-02-10T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;great-coaches&quot;&gt;Great Coaches&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/scott-bill.jpg&quot; alt=&quot;images/scott-bill.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are great leaders and there are great coaches. Bill Campbell (to the right in the picture above) is one of Silicon Valley’s most well known coaches, having mentored the Google founders Larry and Sergie, Amazon’s Jeff Bezos, and Apple’s Steve Jobs. He was CEO of Intuit for half a decade before going to be the Chairman of the Board. &lt;/p&gt;
+
+&lt;p&gt;I have not had the fortune to interact with Bill during my time at Intuit, but have always had the greatest respect for the legend. However, I had a few opportunities to receive coaching from Scott Cook (to the left in the picture above). &lt;a href=&quot;https://en.wikipedia.org/wiki/Scott_Cook&quot;&gt;Scott Cook&lt;/a&gt;, one of the original founders of Intuit, and former CEO is involved as an internal coach, providing inspiration and guidance to innovation teams.&lt;/p&gt;
+
+&lt;h1 id=&quot;scotts-approach&quot;&gt;Scott’s approach&lt;/h1&gt;
+&lt;p&gt;There’s a few things about how Scott approached his sessions with our innovation teams that stood out to me, and are a fine blueprint for most leaders.&lt;/p&gt;
+
+&lt;h2 id=&quot;listen&quot;&gt;Listen&lt;/h2&gt;
+
+&lt;p&gt;I noticed that Scott first went around the room talking to each person and trying to understand different viewpoints from the teams. Innovation teams typically bring together product managers, experience designers and engineers. Scott probed for underlying dissent or differing viewpoints within the team to ensure they were being heard. This is important since it gets people to open up and talk about challenges they are facing. It can also help diagnose issues within a team that may need further resolution.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Scott probed for underlying dissent or differing viewpoints within the team to ensure they were being heard.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;help-where-help-is-asked&quot;&gt;Help where help is asked&lt;/h2&gt;
+
+&lt;p&gt;Next, Scott would ask us where we needed help. And here’s an interesting distinction - I’ve seen a number of leaders jump into problem solving and emphasizing their viewpoint right at the start. But, Scott started with where teams felt they needed assistance. By helping where help was being asked for, he had us listening with an open mind. So right there, it felt more collaborative with his being on the team’s side, working together on solving a problem. He worked with us on the areas we raised, offering suggestions, exploring different approaches, and helping with internal organizational connects to enable moving things forward. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By helping where help was being asked for, he had us listening with an open mind.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;get-to-the-real-issue&quot;&gt;Get to the real issue&lt;/h2&gt;
+
+&lt;p&gt;Scott would then move on to continue to discuss what next as a co-working exercise. The co-working exercise was root cause analysis, drilling down to the core of what the team may be missing and needs help with. Here’s where he would bring out his ideas in the context of what we were doing, and areas where he felt course correction was needed. These were approached in the context of Intuit’s CDI model (Customer Driven Innovation), framed around three key questions&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/cdi.jpg&quot; alt=&quot;images/cdi.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Find an important, unsolved customer problem&lt;/li&gt;
+  &lt;li&gt;that we, and those we enable, can solve well&lt;/li&gt;
+  &lt;li&gt;and build durable competitive advantage&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Scott’s feedback oriented around ensuring we were solving for a measurable customer benefit, and that this had been validated by rapid experimentation with real customers. An internal cadence of metrics used at Intuit called Succession Metrics established ‘Love’ criteria that opportunities need to progress through. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The “Unit of one”, your first customer who sees the benefit, will use your product, and will recommend others (NPS 10).&lt;/li&gt;
+  &lt;li&gt;A Cohort of customers with strong funnel metrics, high NPS and growth levers identified.&lt;/li&gt;
+  &lt;li&gt;Market penetration, ability to deliver profitability with scale.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The co-working exercise was root cause analysis, drilling down to the core of what the team may be missing and needs help with.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;So, if you are coaching or mentoring a team, here’s the takeaways for you to remember&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Start by listening to the team, see if there are divergent perspectives that come out&lt;/li&gt;
+  &lt;li&gt;Help them with where help is asked for first&lt;/li&gt;
+  &lt;li&gt;Dive into the real issue and work together with the team  to solve for it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Did you find this helpful? Let me know!&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/how-scott-cook-coaches-teams.html&quot;&gt;How Scott Cook coaches innovation teams&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on February 10, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Chicken and Egg problems with Platform Experiments]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/platform-products-chicken-and-egg-problems.html" />
+  <id>http://arg0s.in/platform-products-chicken-and-egg-problems</id>
+  <published>2015-11-11T00:00:00+00:00</published>
+  <updated>2015-11-11T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;h1 id=&quot;lean-startup-and-platform-experiments&quot;&gt;Lean Startup and Platform Experiments&lt;/h1&gt;
+
+&lt;p&gt;I recently started working at Intuit, running market experiments as a part of the QuickBooks team. Here’s another post that’s a part of the &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;ongoing lean startup series&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;chicken-and-egg-problems&quot;&gt;Chicken and Egg Problems&lt;/h2&gt;
+
+&lt;p&gt;One of the challenges with building platform products or marketplaces is the classic ‘ghost town’ or ‘chicken and egg’ problem. It’s what happened to early Google Wave users who initially signed up, found that they had no one to wave to, and didn’t return. Or, e-commerce category launches where sellers dont sign up since the marketplace doesnt have enough buyer eyeballs, and buyers come only if there are enough sellers and a large collection that holds their interest. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Traditional wisdom generally says that the only way out is to make a significant upfront investment in seeding the platform for a few narrow categories until the network effects start to kick in. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While this approach has certainly worked, there are also enough instances where it has failed. &lt;/p&gt;
+
+&lt;p&gt;I spoke to a friend who heads the product team at Amazon India and found that their early approach to the India market was not different - they started with a few categories, built out a large catalog, focused on improving ratings in those categories first and then grew from there. But then, they had an existing brand with clout that it brings, and deeper pockets than many. Unless of course you are a venture funded e-com player that’s already on a treadmill with money to burn and little time to do anything but panic, spray and pray.&lt;/p&gt;
+
+&lt;p&gt;If you’ve read my other blog posts, you’d already know that this  post isn’t about how to burn your VC money. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It’s about how to step back to look at your business model canvas, assess areas of your strategic direction that are at risk, and identify rapid experiments to learn and evolve a sustainable approach.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;two-sides-of-a-platform&quot;&gt;Two sides of a Platform&lt;/h2&gt;
+
+&lt;p&gt;Platforms and marketplaces almost always involve at least two ‘sides’. Most often, these are producers on one side and consumers on the other. Think &lt;code&gt;Wikipedia&lt;/code&gt;, &lt;code&gt;Waze&lt;/code&gt;, &lt;code&gt;eBay&lt;/code&gt;, &lt;code&gt;Flipkart&lt;/code&gt;, &lt;code&gt;Quikr&lt;/code&gt;. But there are variants where the two sides may share similar needs - think &lt;code&gt;LinkedIn&lt;/code&gt;, &lt;code&gt;WhatsApp&lt;/code&gt;, or &lt;code&gt;Tinder&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;challenges-with-experimentation&quot;&gt;Challenges with experimentation&lt;/h3&gt;
+
+&lt;p&gt;One of the challenges I’ve heard of with applying Lean Startup to platform/marketplace problems is that it can be hard to test experiments without your MVP including a network that is already seeded. In other words, building out the early community or marketplace with at least a few categories and active users has to be a part of your MVP in order to effectively test anything or learn about the market. Without that, you end up with false negatives and the experiment design itself is broken. However, it can take several months just to grow a community organically or to build out a category. This can quickly inhibit your ability to build-measure-learn through rapid loops.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-insight-from-brant&quot;&gt;The insight from Brant&lt;/h3&gt;
+
+&lt;p&gt;When I caught up with &lt;a href=&quot;https://www.linkedin.com/in/brantcooper&quot;&gt;Brant Cooper&lt;/a&gt;, the author of the &lt;a href=&quot;http://leanentrepreneur.co/&quot;&gt;Lean Entrepreneur&lt;/a&gt; over a dinner organized by &lt;a href=&quot;http://leanmantra.in&quot;&gt;LeanMantra&lt;/a&gt; recently, he shared an interesting way of thinking about these problems which I found insightful. According to Brant, in every 2-sided platform, there’s always one side that’s really the product. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In every 2-sided platform, there’s always one side that’s really the product. &lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;the-side-that-matters&quot;&gt;The side that matters&lt;/h2&gt;
+
+&lt;p&gt;So, the way to think about this is to protect the experience of the side that’s the product, while offering a velvet rope experience to the other side.&lt;/p&gt;
+
+&lt;p&gt;Let’s run through a few examples to see what this looks like.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.  Wikipedia&lt;/strong&gt; - arguably the contributors are the ‘product’. Apparently the ratio of contributors:readers is 5:1000. &lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.  Flipkart&lt;/strong&gt; - the site visitors are the ‘product’, whose shopping experience needs to be protected while leveraging them to bring in hordes of sellers to fill out the catalog.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.  Dating sites&lt;/strong&gt; - Most straight dating sites are careful about managing the ratio of men:women. Invariably, it’s the women whose experience is protected.&lt;/p&gt;
+
+&lt;p&gt;Things aren’t necessarily as black and white as this, and there are nuances where this may not always fit. However, this provides a useful metaphor for how we think about experience and structure our experiments.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-velvet-rope&quot;&gt;The Velvet Rope&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;images/banner-velvet.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Getting a velvet rope experience right in the context of an experiment can be tricky. The original Gmail approach of throttling invites may now be passé, but others like Quibb were more recently successful in roping in influencers with a high hurdle. &lt;/p&gt;
+
+&lt;h3 id=&quot;quibb&quot;&gt;Quibb&lt;/h3&gt;
+
+&lt;p&gt;Sandra, the founder of Quibb took the approach of manually curating every single invitee. Applicants were informed that Quibb had a 37% acceptance rate, and the chances of being accepted improved with social proof and a full bio. At first, you’d think the high hurdle would turn people away - but instead, it did the trick. The psychology behind this clever approach is well documented, and is a good example of the velvet rope experience in practice. &lt;/p&gt;
+
+&lt;p&gt;So in other words, think&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;high hurdle - bring in the best. the best attact the best.&lt;/li&gt;
+  &lt;li&gt;curate - maintain a high quality with active curation.&lt;/li&gt;
+  &lt;li&gt;hooks - use the hook method to encourage behaviors that benefit you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;tinder&quot;&gt;Tinder&lt;/h3&gt;
+
+&lt;p&gt;Other examples here include the story of Tinder. The founders first visited sororities and helped women install their app and post their profiles. Next, they hopped across the the fraternities nearby and the frat boys got in line to download the app and connect with their Greek sisters. In many ways, this was the best channel to find their ‘ideal customers’ - the early adopters you need who can’t not  use your MVP despite its early kinks.&lt;/p&gt;
+
+&lt;h3 id=&quot;summary&quot;&gt;Summary&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In every 2-sided platform, there’s always one side that’s really the product. Protect the experience of the side that’s the product, while offering a velvet rope experience to the other side.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’m currently at Intuit using rapid experimentation to build a platform that brings together Small Business Owners and Accountants to solve long tail industry specific needs. While the experiments are still at an early stage, this model has helped us refine our thinking about how we structure our experiments. Thanks Brant for the insight!&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/platform-products-chicken-and-egg-problems.html&quot;&gt;Chicken and Egg problems with Platform Experiments&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on November 11, 2015.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -153,6 +330,126 @@
 
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-lean-startup-is-hard-in-practice.html&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on June 01, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Himalayas Trek: Triund, Mt Dhauladhar Base Camp]]></title>
+  <link rel="alternate" type="text/html" href="http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp.html" />
+  <id>http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp</id>
+  <published>2014-10-20T00:00:00+00:00</published>
+  <updated>2014-10-20T00:00:00+00:00</updated>
+  <author>
+    <name>Arvi Krishnaswamy</name>
+    <uri>http://arg0s.in</uri>
+    <email>arvi@alumni.iastate.edu</email>
+  </author>
+  <content type="html">&lt;p&gt;If you are considering trekking from &lt;a href=&quot;http://en.wikipedia.org/wiki/McLeod_Ganj&quot;&gt;McLeod Ganj&lt;/a&gt; up to [Triund], this travelogue should serve as a quick and dirty rough guide.&lt;/p&gt;
+
+&lt;h2 id=&quot;tldr-read-this-first&quot;&gt;TLDR? Read this first&lt;/h2&gt;
+
+&lt;p&gt;The trek from McLeod Ganj up to Triund (2875m/9432ft), base camp of &lt;a href=&quot;http://en.wikipedia.org/wiki/Dhauladhar&quot;&gt;Mt Dhauladhar&lt;/a&gt; is a popular trek in the Himalayas. Trekkers are rewarded with stunning views of snow capped mountains. &lt;/p&gt;
+
+&lt;p&gt;If you are a rookie trekker, take a guide along for the 18 km roundtrip journey. They don’t cost much, and may just save your life. If you’re used to trekking, here’s the gist of your pit stops:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;McLeod Ganj (Start)&lt;/li&gt;
+  &lt;li&gt;Galu Devi Temple (3 km)&lt;/li&gt;
+  &lt;li&gt;Magic View Chai Shop ()&lt;/li&gt;
+  &lt;li&gt;Chai Shop&lt;/li&gt;
+  &lt;li&gt;Chai Shop&lt;/li&gt;
+  &lt;li&gt;Basecamp - Top of Triund (9 km)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;If a trail of expedition mules come down your path, quickly find a safe spot and let them pass. If startled or nervous, they’ve sometimes pushed unsuspecting tourists over the cliff.&lt;/p&gt;
+
+&lt;h2 id=&quot;why-is-this-so-amazing&quot;&gt;Why is this so amazing?&lt;/h2&gt;
+
+&lt;p&gt;Well, the highest peak of Mt Dhauladhar is 5,639m (18,500ft). From Triund, these are clearly visible just a few kilometers across the valley. That’s higher that Mont Blanc (4,807m) and Mt Whitney (4,418m) and nearly as high as Mt Kilimanjaro (5,895m). In other words, this is possibly the shortest day trek you’ll take to catch a close glimpse of one of the worlds tallest peaks. &lt;/p&gt;
+
+&lt;h2 id=&quot;preparation-for-the-trek&quot;&gt;Preparation for the Trek&lt;/h2&gt;
+
+&lt;p&gt;I’d recommend ensuring you’ve got these checked off.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Good walking shoes&lt;/li&gt;
+  &lt;li&gt;A bottle of water or gatorade (Don’t carry more - filtered water is available at the half way point for a refill)&lt;/li&gt;
+  &lt;li&gt;Warm clothes (even on a sunny day - weather patterns higher up are unpredictable)&lt;/li&gt;
+  &lt;li&gt;Energy bars or fruits (Apples and Persimmons from the markets at McLeod Ganj are delicious)&lt;/li&gt;
+  &lt;li&gt;A good nights sleep, and a moderate breakfast&lt;/li&gt;
+  &lt;li&gt;Hiking stick (optional, but your knees may appreciate it on the descent - available for rent for Rs 50 from shops by the Galu Devi temple)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;starting-point&quot;&gt;Starting Point&lt;/h2&gt;
+
+&lt;p&gt;Start off from the basketball court sized “Main Square” of McLeod Ganj and take the road up towards Dharamkot. Your first stop will be at the Galu Devi temple.&lt;/p&gt;
+
+&lt;h2 id=&quot;galu-devi&quot;&gt;Galu Devi&lt;/h2&gt;
+
+&lt;p&gt;The Galu Devi temple in Dharamkot is around 3km from McLeod Ganj. There’s two ways of getting here. &lt;/p&gt;
+
+&lt;p&gt;The first option is to take a local taxi cab from McLeod Ganj up to Dharamkot. Do not attempt driving yourself or heading up with a chauffer from the plains. The narrow gravel and pebbled road is just about wide enough for one car, and requires careful handling of drift around the bends. Also, the seasoned locals seem to have a system in place when two drivers end up in a narrow stretch. The guy heading downhill (yes, you got that right!) backed up (yes, upwards!) until he found a place that was just about wide enough for the two to squeeze past. The newer Maruti 800s that these guys drive must have good reverse gear mechanics. Once you get past the fact that this can be a precarious ride, the taxi ride up is worth it since it’ll save you a good hour of climbing. In addition to the energy which you’ll save up for the rest of the climb, this will also give you more time to enjoy the sights on top of Triund before you have to head back down. Taxis cost about INR 300-400 each way, but the price may be higher during the tourist season.&lt;/p&gt;
+
+&lt;p&gt;The second option is just walk up the gravel path taken by the taxis. It’s broad and a bit long winded and will take you a bit of time, but the ascent is gradual.&lt;/p&gt;
+
+&lt;p&gt;The third option is to take the steep but short path up. There are steps, but the climb is moderately steep, and should be a good warm up for serious trekkers.&lt;/p&gt;
+
+&lt;p&gt;Now that you are at Galu Devi, consider picking up a hiking stick from the shop there. They rent wooden sticks out for Rs 50 (return them on the descent). If you’ve already brought your stick along, you are all set.&lt;/p&gt;
+
+&lt;p&gt;Head on and follow the trail upwards past the village huts. &lt;/p&gt;
+
+&lt;h2 id=&quot;magic-view-point&quot;&gt;Magic View Point&lt;/h2&gt;
+
+&lt;p&gt;The pathway during this stretch is mostly sheltered, and you are surrounded by thick foliage. The path is broad enough for a few people to walk alongside and the ascent is gradual. Along the way, you’ll see a variety of ferns and flowers. You can also hear the sound of water rushing through the different spouts in the mountain and converging at the Bhagsu waterfall downhill. It’s a beautiful, energizing, fresh sound that spurs you on.&lt;/p&gt;
+
+&lt;p&gt;From a few spots, you are greeted with lovely views of the Dalai Lama’s headquarters and the large cricket stadium in Dharamsala where the IPL matches are hosted. It’s nice to look back along the way and see how you’ve come. It makes everything worth it.&lt;/p&gt;
+
+&lt;h2 id=&quot;chai-shop-1&quot;&gt;Chai Shop 1&lt;/h2&gt;
+
+&lt;p&gt;There are no Cafe Days, Baristas or Starbucks along the way. Even better, there’s lovely little chai shops with incredible views of the plains. The first stop along the way, the Magic View Cafe is arguably the best perch you’ll find. In addition to bottled water, they also offer filtered water at a reasonable price. You can use the filtrs to refill bottles you may carry. There’s also a number of snacks available at the shop. If you have garbage to dispose, this would be a good spot. The shop has well segregated dry and plastic waste, which are safely transported back down to the plains. Bio waste is left on the cliff.&lt;/p&gt;
+
+&lt;p&gt;Once you’ve caught your breath here, begin the next stage of the climb up. If it’s a clear day, you should soon start to see beautiful glimpses of the snow capped mountain peaks.&lt;/p&gt;
+
+&lt;p&gt;There’s a few points along the pathway that start get a little narrow. Take your time and watch your step, especially in places where the rocks and pebbles are slippery. &lt;/p&gt;
+
+&lt;h2 id=&quot;chai-shop-2&quot;&gt;Chai Shop 2&lt;/h2&gt;
+
+&lt;p&gt;By the time you reach the second chai chop, you would have covered over 80% of the distance to the top. In case you have made it this far without a break, you may want to take one here. The sights are lovely. But importantly, the last stretch to the top is slightly steep and you may benefit from the pit stop. If you are lucky (we were), the shopkeeper may get his flute out and play some lilting mountain melodies. Ok well, he also started playing Titanic, and that’s when we knew it was time to leave.&lt;/p&gt;
+
+&lt;p&gt;From here onwards, the path gets steadily steeper as you near the 9000ft mark. As you follow the trail, you’ll get to a bald stretch without any trees. The stretch would appear to lead up to a flat horizon beyond. You’re there.&lt;/p&gt;
+
+&lt;h2 id=&quot;chai-shop-on-top&quot;&gt;Chai Shop on Top&lt;/h2&gt;
+
+&lt;p&gt;The flat horizon is the little tableau of Triund. Covered by gorgeous lush green meadows through most of the year, and snow in winter, it’s a stunning sight. The tableau itself is about the size of 4 football fields. At one end, it tapers away upwards into the mountain trail headed up towards the snowline. Right in the middle of the tableau is the final chai shop of the journey. It’s covered by a blue tarpaluin sheet, and is well stocked with snacks, water, and even tents and sleeping bags. The chai shop with the best view. &lt;/p&gt;
+
+&lt;p&gt;It’s a view that’s so stunning, you wouldnt even have noticed the green meadows and the chai shop when you arrived. The mighty mountains of the Dhauladhar range seem so close to you, you almost feel like you could reach out and touch them. And they all have lovely names. &lt;/p&gt;
+
+&lt;p&gt;The hard part about a day trek is that it’s hard to predict when there’s cloud cover. So most day trekkers end up seeing only a partial view of the mountains, since clouds keep passing through. If you ask me, I’d say that’s part of the charm of the place itself - a clear day would be lovely, but atypical.&lt;/p&gt;
+
+&lt;p&gt;There are no toilets on top, but that shouldn’t surprise you. What might surprise you, is that there arent any bushes nearby on the lovely green tableau either. The sides facing the plains are a steep precipice. When you’ve gotta go, you’ve gotta go. There’s secluded spots slightly further uphill or on the side of the tableau overlooking the peaks. &lt;/p&gt;
+
+&lt;h1 id=&quot;heading-down&quot;&gt;Heading down&lt;/h1&gt;
+
+&lt;p&gt;You’d want to start to head down no later than 3PM. Ensure you ask locals if its safe to leave at that time, and if they suggest you stay the night over instead on top instead due to inclement weather, they will help you find tents and sleeping bags. &lt;/p&gt;
+
+&lt;p&gt;You’ll likely make your way downhill much faster than you did on the ardous trek up. Be kind to your knees, and watch your step. Ironically, the downhill journey is often more dangerous than the uphill trek. It may be the speed of the descent, or just fatigue. &lt;/p&gt;
+
+&lt;h1 id=&quot;travels--guides&quot;&gt;Travels &amp;amp; Guides&lt;/h1&gt;
+
+&lt;p&gt;If you are looking for a guide, I’ll highly recommend Babu. He was super helpful, resourceful, and fit as a fiddle (or a mountain goat!).&lt;/p&gt;
+
+&lt;p&gt;| Babu |
+| Galaxy Line Tour &amp;amp; Travels Main Square |
+| (www.galaxylinetravels.com) |
+| +91-9882291379 |
+&lt;br /&gt;   &lt;/p&gt;
+
+&lt;p&gt;I hope this helps, and you have a safe trek to Triund. Be responsible, collect your trash with you, and have fun!&lt;/p&gt;
+
+&lt;p&gt;Been to Triund, have experiences to share?  Planning a trip, and need tips? Let me know &lt;a href=&quot;http://www.twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp.html&quot;&gt;Himalayas Trek: Triund, Mt Dhauladhar Base Camp&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1992,366 +2289,6 @@ Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.i
 &lt;p&gt;Also a big shout out to the other awesome speakers &lt;a href=&quot;http://twitter.com/amsanjeev&quot;&gt;Amrit&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/ravivyas84&quot;&gt;Ravi&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/PG1O1&quot;&gt;Prateek&lt;/a&gt;, Garima, Boaz, and Santosh. The highlight of the day for me was the time we spent having an open chat with the audience from the stage. And thanks once again for Androcid for pulling off a great event, and wonderful hospitality. They also organized NitroDroid in Goa, and doing a great job broadening and enabling the ecosystem.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://arg0s.in/applying-lean-startup-principles-to-mobile-app-development.html&quot;&gt;Applying Lean Startup Principles To Mobile App Development&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 05, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Three Tennis Serve Tips I Wish I Had Known Earlier]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/three-tennis-serve-tips-i-wish-i-had-known-earlier.html" />
-  <id>http://arg0s.in/three-tennis-serve-tips-i-wish-i-had-known-earlier</id>
-  <published>2014-01-10T00:00:00+00:00</published>
-  <updated>2014-01-10T00:00:00+00:00</updated>
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;When I watch Roger Federer serve, his fluid brilliance is incredibly captivating. Balanced and relaxed start position. Check. Graceful rocking motion. Check. Rapid arm pronation. Check. Explosion at contact. Check. It’s poetry in motion.&lt;/p&gt;
-
-&lt;p&gt;If you’d watch me serve a year back, my inconsistency was jarring. My toss would floats up to a different place every time, as if carried by a sudden gust of wind. I would move my right foot as if I’m kick starting a motorbike. As my serve would start to falter, I’d start to toss the ball higher and try hitting it harder, as if that would magically start to work some magic.&lt;/p&gt;
-
-&lt;p&gt;And that’s when I discovered set of marvellous YouTube videos that helped me tune my technique.&lt;/p&gt;
-
-&lt;p&gt;My serve isn’t terrific yet, but there’s a marked improvement. I’m more fluid and relaxed. The toss is more consistent. I’m able to consistently get a mix of flat, top spin and slice serves in and mix up the placement for some variety.&lt;/p&gt;
-
-&lt;p&gt;There’s a few things that I learnt along the way that may help you. I’ve consolidated the videos around these learnings to make this a lot easier for you to follow along.&lt;/p&gt;
-
-&lt;h2 id=&quot;dont-toss-the-ball&quot;&gt;#1. Don’t Toss the Ball&lt;/h2&gt;
-
-&lt;p&gt;Counter intuitive as it may seem, one of the main challenges I’d had all along was that I was &lt;em&gt;tossing&lt;/em&gt; the ball in the air. Inadvertently, I was using my wrist or elbow which ended up making the ball move around.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/CnMolTSCUqo&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-&lt;figcaption&gt;Roger in full fluid motion.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;The key lessons to learn here are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Don’t bend the elbow on the toss&lt;/li&gt;
-  &lt;li&gt;Keep your wrist relaxed&lt;/li&gt;
-  &lt;li&gt;Remember that when you release the ball you must &lt;em&gt;not&lt;/em&gt; impart any additional momentum to it - the ball release is just an extension of the upward movement of your arm.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ZTg9gpMtAmw&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-&lt;figcaption&gt;Here&#39;s another one on the toss position for different types of serves.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;One great tip that helped me was to switch how I held the ball. Earlier, I used to hold the ball with my finger tips. I struggled with this, since I invariably imparted some momentum or spin with my fingers or wrist. Instead, I switched to a new toss grip which locked my wrist. I started to hold the ball the way I’d hold an ice cream cone.&lt;/p&gt;
-
-&lt;h3 id=&quot;b-the-ice-cream-cone-release&quot;&gt;#1-b. The Ice Cream Cone Release&lt;/h3&gt;
-
-&lt;p&gt;The idea is simple. Relax your wrist, and hold the ball between your curled forefinger and thumb, just like you’d hold an ice cream cone. As your arm extends upwards, the release is a natural extension of the moment. The cone grip avoids adding momentum across the forward/backward axis since your wrist is locked. For an example, watch the video below of Roger Federer tossing the ball.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/r8Ag2PPam5o&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-&lt;figcaption&gt;Pop the cone.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;h2 id=&quot;relax-your-wrist&quot;&gt;#2. Relax Your Wrist&lt;/h2&gt;
-
-&lt;p&gt;Most of the other strokes - the forehand, backhand and volleys require that our wrist be firm. And it turns out, there’s a perfectly logical explanation for this. In those cases, the ball is already in motion, and keeping our wrist loose makes it harder for us to control the racquet face at the point of contact. The serve is the one stroke
-where the player has total control (well, once you’ve got a handle on the toss) over the ball position at the point of contact.&lt;/p&gt;
-
-&lt;p&gt;Relaxing your wrist causes the racquet head to gain additional rotation momentum as it heads towards the point of contact. This rotational momentum is what helps generate slight top spin, which keeps a flat serve inside the court.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/EgmNag6Ebyw&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-&lt;figcaption&gt;Relax your wrist, and unlock the potential of your serve.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Wait, did I just say a flat serve involves top spin? Yes, I did. The fact is, a tennis player needs to be 7-8 feet tall to hit a &lt;em&gt;flat&lt;/em&gt; serve into the court. All flat serves involve a bit of spin to keep them in.&lt;/p&gt;
-
-&lt;p&gt;Ever heard someone ask you to ‘hit down on the ball’? Well, now you know the physics behind what they were asking you to do. They are right in that this is different from a top spin serve (more on that later), but there’s a certain amount of spin needed to work the magic.&lt;/p&gt;
-
-&lt;p&gt;And that, my friend, is one of the little implicit secrets of the serve.&lt;/p&gt;
-
-&lt;h2 id=&quot;dont-hit-through-the-ball---throw-your-racquet-at-it&quot;&gt;#3. Don’t Hit Through The Ball - Throw Your Racquet At It&lt;/h2&gt;
-
-&lt;p&gt;I’d heard this several times before, but I just found it really hard to execute. For the longest time, I’d swing at the ball the same way I would with my forehand or backhand. The racquet face would be open so that I could ensure that I middled the ball in the sweet spot.&lt;/p&gt;
-
-&lt;p&gt;There’s a hard learning for many of us to accept. It’s that we tend to over think many of these things. So I’ll need you to just suspect any analysis in your mind and just hear out what I’ll advice on next.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Quit trying to hit &lt;em&gt;through&lt;/em&gt; the ball.&lt;/li&gt;
-  &lt;li&gt;Throw your racquet at the ball, just like you are throwing a hammer for someone to catch.&lt;/li&gt;
-  &lt;li&gt;Keep your wrist relaxed throughout and do &lt;em&gt;not&lt;/em&gt; consciously rotate the racquet face.
-    &lt;ul&gt;
-      &lt;li&gt;This is &lt;em&gt;really&lt;/em&gt; important, and but it’s hard to get right initially.&lt;/li&gt;
-      &lt;li&gt;You may hit a few balls over the fence, but don’t let that dissuade you.&lt;/li&gt;
-      &lt;li&gt;Keep in mind that you are likely trying to &lt;em&gt;unlearn&lt;/em&gt; what you’ve been doing for a while.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;The &lt;em&gt;natural pronation&lt;/em&gt; of your wrist will take care of rotating the racquet face in time to meet the ball with the racquet face facing the court.&lt;/li&gt;
-  &lt;li&gt;Initially, just focus on the biomechanics and rhythm of the movement, and ignore where the ball actually lands. You can work on that easily later once you’ve got the mechanics going.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;figure&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Y1C6V_3s4nA&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-&lt;figcaption&gt;Explanation of tennis serve pronation.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;What you’ll soon notice is that you’ll start to see much better racquet head speed on your serves, and movement will be more effortless. In fact, if you observe the videos of Sampras serving closely enough, you’ll see how his wrist drops all the way pronated outwards after his ‘snap’.&lt;/p&gt;
-
-&lt;figure&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/4DpptgXq5j4&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-&lt;figcaption&gt;The Sampras serve and pronation in action.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;Hope these are useful to you. Please chime in via the comments, or let me know on &lt;a href=&quot;http://www.twitter.com/twitortat&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/three-tennis-serve-tips-i-wish-i-had-known-earlier.html&quot;&gt;Three Tennis Serve Tips I Wish I Had Known Earlier&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Making Droidcon Bigger Better]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/making-droidcon-bigger-better.html" />
-  <id>http://arg0s.in/making-droidcon-bigger-better</id>
-  <published>2013-09-25T00:00:00+00:00</published>
-  <updated>2013-09-25T00:00:00+00:00</updated>
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;a href=&quot;//droidcon.in&quot;&gt;&lt;img src=&quot;static/images/droidcon.jpg&quot; alt=&quot;Droidcon India&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://droidcon.in/2013/&quot;&gt;Droidcon&lt;/a&gt; is India’s largest Android conference, and is part of the &lt;a href=&quot;http://droidcon.com/&quot;&gt;international chain&lt;/a&gt; of Droidcon conferences that happen in &lt;a href=&quot;http://de.droidcon.com/&quot;&gt;Berlin&lt;/a&gt;, &lt;a href=&quot;http://fr.droidcon.com/&quot;&gt;Paris&lt;/a&gt;, &lt;a href=&quot;http://uk.droidcon.com/&quot;&gt;London&lt;/a&gt;, &lt;a href=&quot;http://es.droidcon.com/&quot;&gt;Madrid&lt;/a&gt;, &lt;a href=&quot;http://ro.droidcon.com/&quot;&gt;Bucharest&lt;/a&gt; and other cities around the world. The event is organized by my good friends &lt;a href=&quot;https://twitter.com/jackerhack&quot;&gt;Kiran&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/zainabbawa&quot;&gt;Zainab&lt;/a&gt;, and their tireless team at &lt;a href=&quot;www.hasgeek.in&quot;&gt;HasGeek&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;For the third year now (&lt;a href=&quot;https://droidcon.in/2011/&quot;&gt;2011&lt;/a&gt;, &lt;a href=&quot;https://droidcon.in/2012/&quot;&gt;2012&lt;/a&gt;, &lt;a href=&quot;https://droidcon.in/2013/&quot;&gt;2013&lt;/a&gt;), I’m reprising my role as the Program Chair, working with a committee of industry and community experts who volunteer their time to assist with setting the vision for the conference, developing themes, identifying great speakers, and curating their content.&lt;/p&gt;
-
-&lt;p&gt;It’s never been an easy role volunteering for. Life at &lt;a href=&quot;//levitum.com&quot;&gt;Levitum&lt;/a&gt; has always been hectic as all startups are, offering limited time for social responsibilities. Both &lt;a href=&quot;//www.musiguru.in&quot;&gt;Musiguru&lt;/a&gt; and &lt;a href=&quot;//www.singr.in&quot;&gt;Singr&lt;/a&gt; are in a major growth phase, and we have other initiatives in alpha. Also, since &lt;a href=&quot;//www.projectemm.com&quot;&gt;Monami&lt;/a&gt; is busy with her private art gallery and studio (she works Saturdays as well), we try to make the most of time we have together. This invariably leaves me with a lot less time for community events, and borrowed time usually means dropping something else on our list. The last two years, it’s taken a &lt;em&gt;lot&lt;/em&gt; of long days and nights in the month leading up to Droidcon to pull things together, and a lot of flexibility from others at home and work to support me. &lt;em&gt;This is just a shout out to say how much I appreciate them&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;plan&quot;&gt;2013 Plan&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;//www.droidcon.in&quot;&gt;&lt;img src=&quot;static/images/meme_advanced_topics.jpeg&quot; alt=&quot;More advanced topics&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This year, we’re really pushing ourselves to make Droidcon &lt;em&gt;bigger&lt;/em&gt;, and &lt;em&gt;better&lt;/em&gt;. In an effort to retain our sanity and those of people around us while doing so, we’ve begun preps sufficiently in advance so that there’s more time for everything. We’re also aware of the fatigue that accompanies conference season, and are looking for speakers that have &lt;em&gt;fresh&lt;/em&gt; and &lt;em&gt;original&lt;/em&gt; things to share.&lt;/p&gt;
-
-&lt;p&gt;One thing we’ve done differently is we’ve broken things into separate tracks. Two of the tracks will run in parallel at any point, presenting attendees from various streams with sufficient choices.&lt;/p&gt;
-
-&lt;h2 id=&quot;systems&quot;&gt;Systems&lt;/h2&gt;
-
-&lt;p&gt;The Systems track runs across two days, and covers &lt;em&gt;all&lt;/em&gt; aspects of the Android stack. Its being run by &lt;a href=&quot;//twitter.com/kumrr&quot;&gt;Kumar&lt;/a&gt; of the LittleEyeLabs team. I’m so impressed by these guys, they should totally be running the &lt;em&gt;whole&lt;/em&gt; event instead of me. There’s a ton of stuff to cover here, and they are already reaching to a number of folks to provide breadth and depth to the track. &lt;a href=&quot;//twitter.com/gauravl&quot;&gt;Gaurav’s&lt;/a&gt; &lt;a href=&quot;https://twitter.com/gauravl/status/381336687646752768&quot;&gt;tweet&lt;/a&gt; to &lt;a href=&quot;//twitter.com/koush&quot;&gt;Koushik&lt;/a&gt; got a lot of &lt;a href=&quot;https://twitter.com/gauravl/status/381336687646752768&quot;&gt;buzz&lt;/a&gt; on Twitter, and we’re hoping to bring him down.&lt;/p&gt;
-
-&lt;p&gt;There will be some overlap between Workshops &amp;amp; Systems with some of the advanced hands on session being broken out as longer workshops.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“ We need more advanced, in depth talks ”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;This shall give the speakers an opportunity to do code walkthroughs and guide attendees.&lt;/p&gt;
-
-&lt;h2 id=&quot;design&quot;&gt;Design&lt;/h2&gt;
-
-&lt;p&gt;A recurring theme at every Droidcon has been the need to help developers understand how to build well designed apps, and to help young designers gain more exposure and experience.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“ We get technology, but not design ”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;So, I roped in my friend &lt;a href=&quot;//twitter.com/gonsalves_r&quot;&gt;Rahul&lt;/a&gt; of Uncommon to help steer the design track. He is currently considering running a UX panel discussion followed by three speaker sessions - beginner, intermediate and advanced level sessions.&lt;/p&gt;
-
-&lt;h2 id=&quot;gaming&quot;&gt;Gaming&lt;/h2&gt;
-
-&lt;p&gt;Ever since &lt;a href=&quot;http://developer.android.com/google/play-services/games.html&quot;&gt;Google Play Game Services&lt;/a&gt; were announced, everyones been dying to figure out how to take advantage of all the new cool additions. &lt;a href=&quot;//twitter.com/ravikorukonda&quot;&gt;Ravi&lt;/a&gt; of PurpleTalk, who was also on the committee during the first Droidcon rejoins us to help drive a forward looking gaming track. Expect to see some of the top game developers come forward to share their experiences and plans. Ravi is planning on one panel discussion, and a few speaker sessions.&lt;/p&gt;
-
-&lt;h2 id=&quot;business&quot;&gt;Business&lt;/h2&gt;
-
-&lt;p&gt;We’re bringing together product managers, advertisers, OEMs, and investors to the same table to offer a 360º view of the Android ecosystem. Expect discussion about product development lifecycles, marketing tips and tricks, new emerging trends at a macro level, monetization tips, and how you can build a business around building Android apps. I’ll be running this track with some assistance from &lt;a href=&quot;//twitter.com/pacificleo&quot;&gt;Prashant&lt;/a&gt; of Signals.&lt;/p&gt;
-
-&lt;p&gt;One of the things we’re conscious of is that this is a developer event. So, we’re keen to bring forward business speakers who can present insights that are relevant to the audience.&lt;/p&gt;
-
-&lt;p&gt;Possible panels I’m considering:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://funnel.hasgeek.com/droidcon2013/877-panel-android-the-elephant-in-the-room-monetizatio&quot;&gt;Android &amp;amp; Monetization - The Elephant in the Room&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://funnel.hasgeek.com/droidcon2013/878-panel-how-can-i-get-wider-distribution-for-my-app&quot;&gt;Getting wider distribution for your apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://funnel.hasgeek.com/droidcon2013/879-panel-how-should-i-prep-for-my-app-launch&quot;&gt;How do you prep for your app launch?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://funnel.hasgeek.com/droidcon2013/880-panel-move-fast-break-things-or-polish-the-back-of&quot;&gt;Move fast, break things (OR) Polish the back of the furniture?&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I’ve reached out so far to Cleartrip, Hike, RedBus for Product Managers, and they have all expressed an interest in being involved. Next, I’ll be reaching out to InMobi and Flurry for advertising speakers. And then to a mix of app development startups with interesting monetization models or stories to tell. We will attempt to round off the ecosystem mix with Morpheus, Sony, Amazon and Intel depending on the availability of their speakers.&lt;/p&gt;
-
-&lt;p&gt;It’s not yet completely clear until we’ve nailed down more specifics, but we will experiment with at least one panel discussion and a few short speaker sessions.&lt;/p&gt;
-
-&lt;h2 id=&quot;app-demos&quot;&gt;App Demos&lt;/h2&gt;
-
-&lt;p&gt;App Demos is &lt;em&gt;the&lt;/em&gt; platform to showcase your app. &lt;a href=&quot;//twitter.com/amsanjeev&quot;&gt;Amrit&lt;/a&gt; is reaching out to developers from across the country to come show &lt;em&gt;original&lt;/em&gt; work, and talk about specific challenges they have faced. This shall be a rapid fire track with short 15 minute nuggets of wisdom.&lt;/p&gt;
-
-&lt;h2 id=&quot;hands-on-workshops&quot;&gt;Hands-on Workshops&lt;/h2&gt;
-
-&lt;p&gt;One other popular request last year was for more hands on sessions. People enjoyed 30-45 minute talks, but wanted to hear certain &lt;em&gt;good&lt;/em&gt; speakers dig in and walk them through things in more details.&lt;/p&gt;
-
-&lt;p&gt;So the good news is - We’re planning on a lot more 90-120 minute hands on workshops this year. Soham is working towards developing a series of run up workshops.&lt;/p&gt;
-
-&lt;p&gt;There will be at least a whole day of beginner level workshops led by &lt;a href=&quot;//twitter.com/s0h4m&quot;&gt;Soham&lt;/a&gt; and a few others, and at least half day of advanced workshops. &lt;a href=&quot;//twitter.com/makash&quot;&gt;TWASG&lt;/a&gt; is planning a deep dive session on Android &amp;amp; security, and Gaurav is planning a session on battery optimization &amp;amp; networking. I’m hoping we can convince Satyam, Anenth, and Kavitha to also propose workshops.&lt;/p&gt;
-
-&lt;h2 id=&quot;hackdays--hacknights&quot;&gt;Hackdays &amp;amp; Hacknights&lt;/h2&gt;
-
-&lt;p&gt;Last year’s hacknight was wildly successful, and we’re planning a whole series of them this year including 2-3 in Bangalore. And oh, it’s not just Bangalore that’s getting all the love. Look out for Droidcon hacknights coming to Chennai, Hyderabad, Delhi, Pune, and Kochi.&lt;/p&gt;
-
-&lt;h1 id=&quot;collaboration&quot;&gt;Collaboration&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;//funnel.hasgeek.com/droidcon2013&quot;&gt;&lt;img src=&quot;static/images/meme_mouth_shut.jpeg&quot; alt=&quot;Make Friends!&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;This one is quite personal for me. I find that most tech conferences with multiple tracks can be a session treadmill. People dash between rooms from one talk to another, much like commuters on Mumbai’s busy trains.  While some conferences have designated spaces where people can hangout, AFAIK there’s limited focus or interest in really &lt;em&gt;enabling&lt;/em&gt; those spaces where people can get to know each other, collaborate, and find similar hobbies.&lt;/p&gt;
-
-&lt;p&gt;One of the thoughts this year is to create separate meeting spaces at the venue for at least a few of the primary tracks (Systems, Design, Gaming, Business). The MLR Convention Center in Whitefield has a number of little nooks - a mezzanine floor, a cozy room, and patio areas that would be fun areas to congregate. This would open out a number of possibilities.&lt;/p&gt;
-
-&lt;p&gt;We’re planning on coordinating with interested speakers to set up published office hours for each of the spaces (as a part of the schedule) during which they would be available for interaction at the space. This would provide an opportunity for those interested to go hangout there.&lt;/p&gt;
-
-&lt;p&gt;I explored this with Rahul, who had also some novel ideas for the Design space such as&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;setting up a small installation which would play a few videos, which can be watched simultaneously by multiple people using headsets. This then becomes an ice breaker for them to discuss an idea further.&lt;/li&gt;
-  &lt;li&gt;providing wall area, sheets of paper and a bunch of &lt;a href=&quot;http://www.uistencils.com/products/android-stencil-kit&quot;&gt;Android Stencils&lt;/a&gt; lying around for people to conceptualize ideas and use the space as they’d like to.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A few ideas for the Systems space are&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;organizing a Google I/O style treasure hunt with NFC tags &amp;amp; phones. &lt;a href=&quot;//twitter.com/twitortat&quot;&gt;Ping me&lt;/a&gt; if you’d like to help with this. Intel’s software division has volunteered one of their core NFC guys to help out.&lt;/li&gt;
-  &lt;li&gt;providing a projector &amp;amp; whiteboard space for brainstorming and code walkthroughs.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There’s also an incredibly &lt;em&gt;fun&lt;/em&gt; idea that I’ve run by Kiran &amp;amp; Zainab that they are looking into. If they can make it happen, I think it’ll be a blast, but I’m not holding my breath since there’s already a ton of things to do.&lt;/p&gt;
-
-&lt;p&gt;One of the challenges with multiple tracks is that people end up having to choose. And often enough, they end up wishing they had been at the other session. There’s always &lt;a href=&quot;www.hasgeek.tv&quot;&gt;HasGeek TV&lt;/a&gt; so you can watch the videos of sessions you missed later on. But there’s another idea I’m toying with and need more feedback on:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;starting the day with one hour of lightning talks&lt;/li&gt;
-  &lt;li&gt;each of the days’ speakers makes a 5 minute introduction to the topic they plan to present (later in the day).&lt;/li&gt;
-  &lt;li&gt;audience gets a quick preview of what to expect&lt;/li&gt;
-  &lt;li&gt;can make a slightly more informed choice about which track and session they would like to be at.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It might be interesting to start the day with a networking breakfast for the speakers so that we can get everyone together, and then go from there.&lt;/p&gt;
-
-&lt;h1 id=&quot;how-you-can-help&quot;&gt;How you can help&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&quot;//funnel.hasgeek.com/droidcon2013&quot;&gt;&lt;img src=&quot;static/images/meme_submit_proposals.jpeg&quot; alt=&quot;Submit a Proposal!&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Community events are all about the community, and depend greatly on those around being willing to give back to the community that has helped them. We’ve been fortunate to have had great speakers come forward from the community and share their knowledge and learnings. Everybody wins in a vibrant community.&lt;/p&gt;
-
-&lt;p&gt;If you are a speaker, here’s a few things you can do to help out&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Provide a detailed speaker bio which helps the community understand why you are the best person for that talk. Include speaker bios, links to past videos or slides, and links to reference material.&lt;/li&gt;
-  &lt;li&gt;Provide a slide outline early. Use sites like &lt;a href=&quot;//slid.es&quot;&gt;Slid.es&lt;/a&gt; which enable you to easily publish a link to work in progress drafts.&lt;/li&gt;
-  &lt;li&gt;Keep your audience in mind, pace your self, and ensure you have sufficient material to keep them engaged throughout.&lt;/li&gt;
-  &lt;li&gt;Be open to feedback and suggestions from the community and committee - remember that they are taking time out to help you.&lt;/li&gt;
-  &lt;li&gt;Make yourself available to engage with the audience offline after the talk. Motivate and inspire others around you.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;If you are an attendee, here’s a few things you can to do to help out&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Vote for the speakers you like early in the process via the &lt;a href=&quot;//funnel.hasgeek.com/droidcon2013&quot;&gt;Droidcon Funnel&lt;/a&gt;. While it may appear that some speakers attempt to game the system by having their friends, family and dog vote for them, the Program Committee separately accounts for the subset of votes from those who are &lt;em&gt;actually&lt;/em&gt; attending the conference. Gotcha, gamers.&lt;/li&gt;
-  &lt;li&gt;If what you are looking for is hands on training, plan on attending the pre-conference workshops. Conference sessions can provide insight into new things and help with direction and resources, but are not meant to be full on training sessions. We’re planning these workshops precisely to cater to those would like to dig in further. Note that workshops require pre-registration since we are limiting capacity to ensure there’s sufficient training time devoted for each individual.&lt;/li&gt;
-  &lt;li&gt;Skip a few sessions. Seriously. Go hang out in the difference spaces created for each track so that you can interact directly with others (including the speakers). Make a few new friends, find things in common &amp;amp; have a good time. Don’t miss the event party - it’s always a fun place to catch up with others away from the conference.&lt;/li&gt;
-  &lt;li&gt;Recognize that this is a community driven event. If you dont see topics being submitted in areas that interest you, either
-    &lt;ul&gt;
-      &lt;li&gt;come forward and &lt;em&gt;propose a topic yourself&lt;/em&gt;. If you dont fancy yourself as an expert in the area, consider a beginner level session proposal. You’d still have an impact on a large audience, and may be amazed at how much more you may connect with people than the experts from their ivory towers.&lt;/li&gt;
-      &lt;li&gt;nudge good speakers you’d like to see at Droidcon like what Gaurav did &lt;a href=&quot;https://twitter.com/gauravl/status/381336687646752768&quot;&gt;here&lt;/a&gt; to say you’re a fan of their work. &lt;em&gt;After all, who doesnt love their fans?&lt;/em&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Have more suggestions or feedback? Speak easy in the comments or feel free to ping me or the other committee members on Twitter.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Aravind Krishnaswamy is Co-Founder, &lt;a href=&quot;//levitum.com&quot;&gt;Levitum&lt;/a&gt;. He is a volunteer at &lt;a href=&quot;//droidcon.in&quot;&gt;Droidcon&lt;/a&gt;, and chairs the Program Committee&lt;/em&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/making-droidcon-bigger-better.html&quot;&gt;Making Droidcon Bigger Better&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 25, 2013.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[My First Pycon]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/my-first-pycon.html" />
-  <id>http://arg0s.in/my-first-pycon</id>
-  <published>2013-09-19T00:00:00+00:00</published>
-  <updated>2013-09-19T00:00:00+00:00</updated>
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;Late last month, &lt;a href=&quot;//twitter.com/vinuthomas&quot;&gt;Vinu&lt;/a&gt;, Aditya, Jay and I attended &lt;a href=&quot;//twitter.com/pyconindia&quot;&gt;Pycon India&lt;/a&gt; for the first time. I made a presentation about the technology stack we use at &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; for the backend some of our apps. We use a heady cocktail of &lt;code&gt;Flask&lt;/code&gt;, &lt;code&gt;Redis&lt;/code&gt;, &lt;code&gt;CouchDB&lt;/code&gt;, &lt;code&gt;Postgres&lt;/code&gt;, &lt;code&gt;Heroku&lt;/code&gt;, &lt;code&gt;Gunicorn&lt;/code&gt;, and &lt;code&gt;Gevent&lt;/code&gt; and have several hundred thousand users using the apps we’ve built.&lt;/p&gt;
-
-&lt;p&gt;Ok there, I just tossed out a bunch of buzz words to make this post sound cool. But read on anyway.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Thanks &lt;a href=&quot;https://twitter.com/kennethreitz&quot;&gt;@kennethreitz&lt;/a&gt; for the appreciation of my talk at &lt;a href=&quot;https://twitter.com/pyconindia&quot;&gt;@pyconindia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia&amp;amp;src=hash&quot;&gt;#pyconindia&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia2013&amp;amp;src=hash&quot;&gt;#pyconindia2013&lt;/a&gt; &lt;a href=&quot;http://t.co/IHhAdSgaND&quot;&gt;pic.twitter.com/IHhAdSgaND&lt;/a&gt;&lt;/p&gt;&amp;mdash; Aravind Krishnaswamy (@twitortat) &lt;a href=&quot;https://twitter.com/twitortat/statuses/374078828915613696&quot;&gt;September 1, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;p&gt;Turns out, &lt;a href=&quot;http://www.twitter.com/kennethreitz&quot;&gt;Kenneth Reitz&lt;/a&gt;, the python honcho at &lt;a href=&quot;http://www.heroku.com&quot;&gt;Heroku&lt;/a&gt; was impressed enough to give me a $300 gift card. Kenneth told me normally gives out $10-$25 cards, and I’m only the &lt;em&gt;second&lt;/em&gt; person to receive one. So clearly, I must be good PR for Heroku.&lt;/p&gt;
-
-&lt;p&gt;Here’s my slides from the talk, powered by the nifty &lt;a href=&quot;http://www.slid.es&quot;&gt;Slid.es&lt;/a&gt;. I picked up a Pro account with them so I could use my slides offline and not deal with Murphys law kicking in with conference Wi-Fi.&lt;/p&gt;
-
-&lt;iframe src=&quot;http://slid.es/arg0s/chugging-flask/embed&quot; width=&quot;576&quot; height=&quot;420&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;If you like the slides, check out the &lt;a href=&quot;//www.youtube.com/embed/swRtWJLUmLI&quot;&gt;full video&lt;/a&gt; on Youtube. And if you like the video as well, give me a shout in the comments. I ended up packing in way too much gyaan, and ran out of time. Next time, it’d probably make sense to break these into individual talks.&lt;/p&gt;
-
-&lt;p&gt;Fortunately, a bunch of people enjoyed it. I touched upon a number of resources which I hope provide direction for others to dig into further and inspire them explore things on their own.&lt;/p&gt;
-
-&lt;p&gt;So far, over 400 views of the slide deck. And plenty of kudos on Twitter.&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Always wanted to know about FLASK and HHEROKU. Thanks to &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; for giving a good insight. Credits to &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia2013&amp;amp;src=hash&quot;&gt;#pyconindia2013&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;&amp;mdash; Ritesh Bhat (@Ritesh_Bhat) &lt;a href=&quot;https://twitter.com/Ritesh_Bhat/statuses/373685329930117120&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Awesome talk from &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23PyConIndia2013&amp;amp;src=hash&quot;&gt;#PyConIndia2013&lt;/a&gt;&lt;/p&gt;&amp;mdash; Suplab Debnath (@beingsuplab) &lt;a href=&quot;https://twitter.com/beingsuplab/statuses/373685406044131328&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; some great random gyaan there. &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia&amp;amp;src=hash&quot;&gt;#pyconindia&lt;/a&gt;&lt;/p&gt;&amp;mdash; Chitra Singh (@chit_raa) &lt;a href=&quot;https://twitter.com/chit_raa/statuses/373684946772045824&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Great bit of gyaan by &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; ! &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia2013&amp;amp;src=hash&quot;&gt;#pyconindia2013&lt;/a&gt;&lt;/p&gt;&amp;mdash; Yes! The Seeker (@90sManiac) &lt;a href=&quot;https://twitter.com/90sManiac/statuses/373719997941436417&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; btw awsome research done and nice presentation... :D&lt;/p&gt;&amp;mdash; Pankaj Anand (@Pankajanand26) &lt;a href=&quot;https://twitter.com/Pankajanand26/statuses/373730486440300544&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Good insights on how powerful can a micro framework like flask be. Thanks to &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; &lt;a href=&quot;https://twitter.com/search?q=%23pyconindia2013&amp;amp;src=hash&quot;&gt;#pyconindia2013&lt;/a&gt;&lt;/p&gt;&amp;mdash; Suganthi (@enthudrives) &lt;a href=&quot;https://twitter.com/enthudrives/statuses/373689802815569920&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p&gt;Best talks of &lt;a href=&quot;https://twitter.com/search?q=%23PyConIndia2013&amp;amp;src=hash&quot;&gt;#PyConIndia2013&lt;/a&gt; Day 2 : chugging flask by &lt;a href=&quot;https://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt; and ZeroMQ by &lt;a href=&quot;https://twitter.com/cnu&quot;&gt;@cnu&lt;/a&gt;. Most other talks were advertisement by sponsors&lt;/p&gt;&amp;mdash; Salil Panikkaveettil (@salilpa) &lt;a href=&quot;https://twitter.com/salilpa/statuses/373835754373263360&quot;&gt;August 31, 2013&lt;/a&gt;&lt;/blockquote&gt;
-
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;Thanks everyone for all the love. &lt;em&gt;You&lt;/em&gt; made all the hard work that went into the prep &lt;em&gt;totally&lt;/em&gt; worth it.&lt;/p&gt;
-
-&lt;p&gt;Also, thanks to &lt;a href=&quot;//twitter.com/vinuthomas&quot;&gt;Vinu&lt;/a&gt;, Jay, &lt;a href=&quot;//twitter.com/jackerhack&quot;&gt;Kiran&lt;/a&gt; &amp;amp; &lt;a href=&quot;//twitter.com/noufalibrahim&quot;&gt;Noufal&lt;/a&gt; for their feedback on the slides.&lt;/p&gt;
-
-&lt;p&gt;Lots of great things about the conference&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;There were over a 1000 people. That’s huge for an event that’s totally community volunteer driven. Blows my mind.&lt;/li&gt;
-  &lt;li&gt;After my talk, a number of interesting people came by and engaged in insightful conversations. Made a bunch of new friends.&lt;/li&gt;
-  &lt;li&gt;Lots of terrific speakers who came well prepared, and delivered engaging, structured presentations.&lt;/li&gt;
-  &lt;li&gt;Amazed to see how python is now being used in so many different ways. Even &lt;a href=&quot;http://mpi4py.scipy.org/docs/usrman/intro.html#what-is-mpi&quot;&gt;MPI&lt;/a&gt; has a python layer now.&lt;/li&gt;
-  &lt;li&gt;Kiran &amp;amp; Kenneth delivered outstanding keynotes.&lt;/li&gt;
-  &lt;li&gt;I’d love to know who catered the lunch. I dont think I met anyone who didnt like it.&lt;/li&gt;
-  &lt;li&gt;Conference wi-fi actually held out throughout, which seems to be a rarity at other events.&lt;/li&gt;
-  &lt;li&gt;For a change, a lot of the sponsored booths were quite interesting and it was nice to go around and talk to them.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;IMO, The only downside of python becoming as big as it is now, is that there were &lt;a href=&quot;http://in.pycon.org/funnel/2013/88-predicting-black-swan-events&quot;&gt;certain topics&lt;/a&gt; where I probably followed less than 1/3rd of what the knowledgable speaker was presenting due to the nature of the problem domain.&lt;/p&gt;
-
-&lt;p&gt;While it’s arguably good to be exposed to new topics, I wonder whether it may have been beneficial to have the schedule grouped into topics such as&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;python for newbies&lt;/li&gt;
-  &lt;li&gt;python &amp;amp; web&lt;/li&gt;
-  &lt;li&gt;python language and its intricacies&lt;/li&gt;
-  &lt;li&gt;python &amp;amp; scientific community&lt;/li&gt;
-  &lt;li&gt;python 3.x&lt;/li&gt;
-  &lt;li&gt;python &amp;amp; devops&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;This would arguably provide more focus and depth to each of these areas. And in between these, you’d have larger blocks of free time to socialize &amp;amp; just chill.&lt;/p&gt;
-
-&lt;p&gt;But then, maybe it’s just me that feels this way.&lt;/p&gt;
-
-&lt;p&gt;Invariably, there’s always tradeoffs between single-track vs multiple-track vs mish-mash. You cant make everyone happy, and shouldnt try.&lt;/p&gt;
-
-&lt;p&gt;Great job by the organizers. Congrats for making Pycon 2013 a great success.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/my-first-pycon.html&quot;&gt;My First Pycon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on September 19, 2013.&lt;/p&gt;</content>
 </entry>
 
 </feed>
