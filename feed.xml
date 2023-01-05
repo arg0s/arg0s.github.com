@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Arvi's Blog</title>
+<title type="text">Arvi Krishnaswamy</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://arg0s.in/feed.xml" />
-<link rel="alternate" type="text/html" href="http://arg0s.in" />
-<updated>2017-07-31T04:30:30+00:00</updated>
-<id>http://arg0s.in/</id>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2023-01-05T07:47:42+00:00</updated>
+<id>http://localhost:4000/</id>
 <author>
-  <name>Arvi Krishnaswamy</name>
-  <uri>http://arg0s.in/</uri>
-  <email>arvi@alumni.iastate.edu</email>
+  <name></name>
+  <uri>http://localhost:4000/</uri>
+  <email></email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[How Scott Cook coaches innovation teams]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/how-scott-cook-coaches-teams.html" />
-  <id>http://arg0s.in/how-scott-cook-coaches-teams</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/how-scott-cook-coaches-teams.html" />
+  <id>http://localhost:4000/how-scott-cook-coaches-teams</id>
   <published>2016-02-10T00:00:00+00:00</published>
   <updated>2016-02-10T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;h1 id=&quot;great-coaches&quot;&gt;Great Coaches&lt;/h1&gt;
 
 &lt;p&gt;&lt;img src=&quot;images/scott-bill.jpg&quot; alt=&quot;images/scott-bill.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;There are great leaders and there are great coaches. Bill Campbell (to the right in the picture above) is one of Silicon Valley’s most well known coaches, having mentored the Google founders Larry and Sergie, Amazon’s Jeff Bezos, and Apple’s Steve Jobs. He was CEO of Intuit for half a decade before going to be the Chairman of the Board. &lt;/p&gt;
+&lt;p&gt;There are great leaders and there are great coaches. Bill Campbell (to the right in the picture above) is one of Silicon Valley’s most well known coaches, having mentored the Google founders Larry and Sergie, Amazon’s Jeff Bezos, and Apple’s Steve Jobs. He was CEO of Intuit for half a decade before going to be the Chairman of the Board.&lt;/p&gt;
 
 &lt;p&gt;I have not had the fortune to interact with Bill during my time at Intuit, but have always had the greatest respect for the legend. However, I had a few opportunities to receive coaching from Scott Cook (to the left in the picture above). &lt;a href=&quot;https://en.wikipedia.org/wiki/Scott_Cook&quot;&gt;Scott Cook&lt;/a&gt;, one of the original founders of Intuit, and former CEO is involved as an internal coach, providing inspiration and guidance to innovation teams.&lt;/p&gt;
 
@@ -45,7 +45,7 @@
 
 &lt;h2 id=&quot;help-where-help-is-asked&quot;&gt;Help where help is asked&lt;/h2&gt;
 
-&lt;p&gt;Next, Scott would ask us where we needed help. And here’s an interesting distinction - I’ve seen a number of leaders jump into problem solving and emphasizing their viewpoint right at the start. But, Scott started with where teams felt they needed assistance. By helping where help was being asked for, he had us listening with an open mind. So right there, it felt more collaborative with his being on the team’s side, working together on solving a problem. He worked with us on the areas we raised, offering suggestions, exploring different approaches, and helping with internal organizational connects to enable moving things forward. &lt;/p&gt;
+&lt;p&gt;Next, Scott would ask us where we needed help. And here’s an interesting distinction - I’ve seen a number of leaders jump into problem solving and emphasizing their viewpoint right at the start. But, Scott started with where teams felt they needed assistance. By helping where help was being asked for, he had us listening with an open mind. So right there, it felt more collaborative with his being on the team’s side, working together on solving a problem. He worked with us on the areas we raised, offering suggestions, exploring different approaches, and helping with internal organizational connects to enable moving things forward.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;By helping where help was being asked for, he had us listening with an open mind.&lt;/p&gt;
@@ -63,7 +63,7 @@
   &lt;li&gt;and build durable competitive advantage&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Scott’s feedback oriented around ensuring we were solving for a measurable customer benefit, and that this had been validated by rapid experimentation with real customers. An internal cadence of metrics used at Intuit called Succession Metrics established ‘Love’ criteria that opportunities need to progress through. &lt;/p&gt;
+&lt;p&gt;Scott’s feedback oriented around ensuring we were solving for a measurable customer benefit, and that this had been validated by rapid experimentation with real customers. An internal cadence of metrics used at Intuit called Succession Metrics established ‘Love’ criteria that opportunities need to progress through.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;The “Unit of one”, your first customer who sees the benefit, will use your product, and will recommend others (NPS 10).&lt;/li&gt;
@@ -88,20 +88,20 @@
 &lt;p&gt;Did you find this helpful? Let me know!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/how-scott-cook-coaches-teams.html&quot;&gt;How Scott Cook coaches innovation teams&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on February 10, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/how-scott-cook-coaches-teams.html&quot;&gt;How Scott Cook coaches innovation teams&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on February 10, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Chicken and Egg problems with Platform Experiments]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/platform-products-chicken-and-egg-problems.html" />
-  <id>http://arg0s.in/platform-products-chicken-and-egg-problems</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/platform-products-chicken-and-egg-problems.html" />
+  <id>http://localhost:4000/platform-products-chicken-and-egg-problems</id>
   <published>2015-11-11T00:00:00+00:00</published>
   <updated>2015-11-11T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;h1 id=&quot;lean-startup-and-platform-experiments&quot;&gt;Lean Startup and Platform Experiments&lt;/h1&gt;
 
@@ -109,17 +109,17 @@
 
 &lt;h2 id=&quot;chicken-and-egg-problems&quot;&gt;Chicken and Egg Problems&lt;/h2&gt;
 
-&lt;p&gt;One of the challenges with building platform products or marketplaces is the classic ‘ghost town’ or ‘chicken and egg’ problem. It’s what happened to early Google Wave users who initially signed up, found that they had no one to wave to, and didn’t return. Or, e-commerce category launches where sellers dont sign up since the marketplace doesnt have enough buyer eyeballs, and buyers come only if there are enough sellers and a large collection that holds their interest. &lt;/p&gt;
+&lt;p&gt;One of the challenges with building platform products or marketplaces is the classic ‘ghost town’ or ‘chicken and egg’ problem. It’s what happened to early Google Wave users who initially signed up, found that they had no one to wave to, and didn’t return. Or, e-commerce category launches where sellers dont sign up since the marketplace doesnt have enough buyer eyeballs, and buyers come only if there are enough sellers and a large collection that holds their interest.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Traditional wisdom generally says that the only way out is to make a significant upfront investment in seeding the platform for a few narrow categories until the network effects start to kick in. &lt;/p&gt;
+  &lt;p&gt;Traditional wisdom generally says that the only way out is to make a significant upfront investment in seeding the platform for a few narrow categories until the network effects start to kick in.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;While this approach has certainly worked, there are also enough instances where it has failed. &lt;/p&gt;
+&lt;p&gt;While this approach has certainly worked, there are also enough instances where it has failed.&lt;/p&gt;
 
 &lt;p&gt;I spoke to a friend who heads the product team at Amazon India and found that their early approach to the India market was not different - they started with a few categories, built out a large catalog, focused on improving ratings in those categories first and then grew from there. But then, they had an existing brand with clout that it brings, and deeper pockets than many. Unless of course you are a venture funded e-com player that’s already on a treadmill with money to burn and little time to do anything but panic, spray and pray.&lt;/p&gt;
 
-&lt;p&gt;If you’ve read my other blog posts, you’d already know that this  post isn’t about how to burn your VC money. &lt;/p&gt;
+&lt;p&gt;If you’ve read my other blog posts, you’d already know that this  post isn’t about how to burn your VC money.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;It’s about how to step back to look at your business model canvas, assess areas of your strategic direction that are at risk, and identify rapid experiments to learn and evolve a sustainable approach.&lt;/p&gt;
@@ -127,7 +127,7 @@
 
 &lt;h2 id=&quot;two-sides-of-a-platform&quot;&gt;Two sides of a Platform&lt;/h2&gt;
 
-&lt;p&gt;Platforms and marketplaces almost always involve at least two ‘sides’. Most often, these are producers on one side and consumers on the other. Think &lt;code&gt;Wikipedia&lt;/code&gt;, &lt;code&gt;Waze&lt;/code&gt;, &lt;code&gt;eBay&lt;/code&gt;, &lt;code&gt;Flipkart&lt;/code&gt;, &lt;code&gt;Quikr&lt;/code&gt;. But there are variants where the two sides may share similar needs - think &lt;code&gt;LinkedIn&lt;/code&gt;, &lt;code&gt;WhatsApp&lt;/code&gt;, or &lt;code&gt;Tinder&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Platforms and marketplaces almost always involve at least two ‘sides’. Most often, these are producers on one side and consumers on the other. Think &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Wikipedia&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Waze&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;eBay&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Flipkart&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Quikr&lt;/code&gt;. But there are variants where the two sides may share similar needs - think &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;LinkedIn&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;WhatsApp&lt;/code&gt;, or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Tinder&lt;/code&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;challenges-with-experimentation&quot;&gt;Challenges with experimentation&lt;/h3&gt;
 
@@ -135,10 +135,10 @@
 
 &lt;h3 id=&quot;the-insight-from-brant&quot;&gt;The insight from Brant&lt;/h3&gt;
 
-&lt;p&gt;When I caught up with &lt;a href=&quot;https://www.linkedin.com/in/brantcooper&quot;&gt;Brant Cooper&lt;/a&gt;, the author of the &lt;a href=&quot;http://leanentrepreneur.co/&quot;&gt;Lean Entrepreneur&lt;/a&gt; over a dinner organized by &lt;a href=&quot;http://leanmantra.in&quot;&gt;LeanMantra&lt;/a&gt; recently, he shared an interesting way of thinking about these problems which I found insightful. According to Brant, in every 2-sided platform, there’s always one side that’s really the product. &lt;/p&gt;
+&lt;p&gt;When I caught up with &lt;a href=&quot;https://www.linkedin.com/in/brantcooper&quot;&gt;Brant Cooper&lt;/a&gt;, the author of the &lt;a href=&quot;http://leanentrepreneur.co/&quot;&gt;Lean Entrepreneur&lt;/a&gt; over a dinner organized by &lt;a href=&quot;http://leanmantra.in&quot;&gt;LeanMantra&lt;/a&gt; recently, he shared an interesting way of thinking about these problems which I found insightful. According to Brant, in every 2-sided platform, there’s always one side that’s really the product.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;In every 2-sided platform, there’s always one side that’s really the product. &lt;/p&gt;
+  &lt;p&gt;In every 2-sided platform, there’s always one side that’s really the product.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;the-side-that-matters&quot;&gt;The side that matters&lt;/h2&gt;
@@ -147,7 +147,7 @@
 
 &lt;p&gt;Let’s run through a few examples to see what this looks like.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;1.  Wikipedia&lt;/strong&gt; - arguably the contributors are the ‘product’. Apparently the ratio of contributors:readers is 5:1000. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1.  Wikipedia&lt;/strong&gt; - arguably the contributors are the ‘product’. Apparently the ratio of contributors:readers is 5:1000.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;2.  Flipkart&lt;/strong&gt; - the site visitors are the ‘product’, whose shopping experience needs to be protected while leveraging them to bring in hordes of sellers to fill out the catalog.&lt;/p&gt;
 
@@ -159,11 +159,11 @@
 
 &lt;p&gt;&lt;img src=&quot;images/banner-velvet.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Getting a velvet rope experience right in the context of an experiment can be tricky. The original Gmail approach of throttling invites may now be passé, but others like Quibb were more recently successful in roping in influencers with a high hurdle. &lt;/p&gt;
+&lt;p&gt;Getting a velvet rope experience right in the context of an experiment can be tricky. The original Gmail approach of throttling invites may now be passé, but others like Quibb were more recently successful in roping in influencers with a high hurdle.&lt;/p&gt;
 
 &lt;h3 id=&quot;quibb&quot;&gt;Quibb&lt;/h3&gt;
 
-&lt;p&gt;Sandra, the founder of Quibb took the approach of manually curating every single invitee. Applicants were informed that Quibb had a 37% acceptance rate, and the chances of being accepted improved with social proof and a full bio. At first, you’d think the high hurdle would turn people away - but instead, it did the trick. The psychology behind this clever approach is well documented, and is a good example of the velvet rope experience in practice. &lt;/p&gt;
+&lt;p&gt;Sandra, the founder of Quibb took the approach of manually curating every single invitee. Applicants were informed that Quibb had a 37% acceptance rate, and the chances of being accepted improved with social proof and a full bio. At first, you’d think the high hurdle would turn people away - but instead, it did the trick. The psychology behind this clever approach is well documented, and is a good example of the velvet rope experience in practice.&lt;/p&gt;
 
 &lt;p&gt;So in other words, think&lt;/p&gt;
 
@@ -186,97 +186,29 @@
 &lt;p&gt;I’m currently at Intuit using rapid experimentation to build a platform that brings together Small Business Owners and Accountants to solve long tail industry specific needs. While the experiments are still at an early stage, this model has helped us refine our thinking about how we structure our experiments. Thanks Brant for the insight!&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/platform-products-chicken-and-egg-problems.html&quot;&gt;Chicken and Egg problems with Platform Experiments&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on November 11, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Look Mom, I’m on CNBC Live!]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/see-ma-im-on-cnbc.html" />
-  <id>http://arg0s.in/see-ma-im-on-cnbc</id>
-  <published>2015-07-25T00:00:00+00:00</published>
-  <updated>2015-07-25T00:00:00+00:00</updated>
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;h2 id=&quot;cnbc---panel-discussion-on-startups&quot;&gt;CNBC - Panel Discussion on Startups&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/cnbc1.jpg&quot; alt=&quot;images/cnbc1.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I was honored to a part of a startup ecosystem panel discussion on CNBC that was apparently seen by 2 million viewers. The panel I was on was hosted by Harshada Sawant and included Rajiv of UrbanLadder, Lalit of Google Maps and Sumit of CommonFloor. We had fun struggling with our Hinglish while answering questions about disruptive innovation and trying to stick to the clock.&lt;/p&gt;
-
-&lt;h3 id=&quot;live-tv-shoot-startupskiawaaz&quot;&gt;Live TV Shoot #startupskiawaaz&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/cnbc2.jpg&quot; alt=&quot;images/cnbc2.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Other panels included leaders of some of the most popular startups today, and several unicorns like Flipkart, Ola and others. It was an awesome opportunity to see a TV shoot live, and even more fun watching the side stage action during commercial breaks&lt;/p&gt;
-
-&lt;h2 id=&quot;behind-the-scenes&quot;&gt;Behind the Scenes&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/cnbc3.jpg&quot; alt=&quot;images/cnbc3.jpg&quot; /&gt;
-&lt;img src=&quot;images/cnbc4.jpg&quot; alt=&quot;images/cnbc4.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;look-mom---im-on-live-tv&quot;&gt;Look Mom - I’m on live TV&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/cnbc5.jpg&quot; alt=&quot;images/cnbc5.jpg&quot; /&gt;
-&lt;img src=&quot;images/panel1.jpg&quot; alt=&quot;images/panel1.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;with-founders-of-flipkart-ola-and-portea&quot;&gt;With Founders of Flipkart, Ola, and Portea&lt;/h2&gt;
-
-&lt;p&gt;&lt;img src=&quot;images/panel2.jpg&quot; alt=&quot;images/panel2.jpg&quot; /&gt;
-&lt;img src=&quot;images/panel3.jpg&quot; alt=&quot;images/panel3.jpg&quot; /&gt;
-&lt;img src=&quot;images/panel4.jpg&quot; alt=&quot;images/panel4.jpg&quot; /&gt;&lt;/p&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/see-ma-im-on-cnbc.html&quot;&gt;Look Mom, I’m on CNBC Live!&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on July 25, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/platform-products-chicken-and-egg-problems.html&quot;&gt;Chicken and Egg problems with Platform Experiments&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on November 11, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why Lean Startup Is Hard In Practice]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/why-lean-startup-is-hard-in-practice.html" />
-  <id>http://arg0s.in/why-lean-startup-is-hard-in-practice</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/why-lean-startup-is-hard-in-practice.html" />
+  <id>http://localhost:4000/why-lean-startup-is-hard-in-practice</id>
   <published>2015-06-01T00:00:00+00:00</published>
   <updated>2015-06-01T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
-  <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#why-lean-startup-is-hard-in-practice&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#experiment-design-is-hard-for-beginners&quot;&gt;Experiment design is hard for beginners.&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#sampling-sizes-need-to-be-large-enough-to-hold-significance&quot;&gt;Sampling sizes need to be large enough to hold significance.&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#managing-control-variables-across-experiment-batches-requires-rigor-and-persistence&quot;&gt;Managing control variables across experiment batches requires rigor and persistence.&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#risk-of-missing-big-opportunities&quot;&gt;Risk of missing big opportunities.&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#effectuation-and-lean-startup&quot;&gt;Effectuation and Lean Startup&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#slope-of-enlightenment&quot;&gt;Slope of Enlightenment?&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- /#table-of-contents --&gt;
-
-&lt;h1 id=&quot;why-lean-startup-is-hard-in-practice&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/h1&gt;
-
+  <content type="html">
 &lt;p&gt;Over the last couple of years, I’ve blogged about my &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;lean startup experiments&lt;/a&gt; (a popular post that made page one of HN). I’ve spoken at conferences about applying lean to &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;building mobile apps&lt;/a&gt;. And, I was a mentor at &lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Lean Startup Machine&lt;/a&gt;. Along the way, I’ve applied lean at my last startup across ideas incubated using an internal Y-Combinator incubation format. I’ve collaborated with other entrepreneurs as a part of a DHC lean peer group (who reviewed this post). And right now, I’m running lean experiments at Intuit, a large software company. I’ve come to the conclusion that while lean startup has been a terrific step forward in how we think about what to build next, there’s still many significant challenges involved in practice. This post is an attempt to surface some of the issues so that we can talk about them as a community, and we can learn from each other.&lt;/p&gt;
 
 &lt;p&gt;Before you read on, you may want to get past some of the &lt;a href=&quot;http://www.startuplessonslearned.com/2010/04/five-myths-about-lean-startup.html&quot;&gt;common misconceptions&lt;/a&gt; about Lean Startup.&lt;/p&gt;
 
 &lt;h2 id=&quot;experiment-design-is-hard-for-beginners&quot;&gt;Experiment design is hard for beginners.&lt;/h2&gt;
 
-&lt;p&gt;This may seem obvious, but it’s worth mentioning. Some folks get into lean startup thinking of it in the context of cost, but that’s a misnomer. While &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_manufacturing&quot;&gt;lean manufacturing&lt;/a&gt; is about cost, and is the &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_startup#Origins&quot;&gt;origin&lt;/a&gt; of Eric Ries’ idea, Lean Startup is about translating a vision into a falsifiable business model hypothesis. &lt;/p&gt;
+&lt;p&gt;This may seem obvious, but it’s worth mentioning. Some folks get into lean startup thinking of it in the context of cost, but that’s a misnomer. While &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_manufacturing&quot;&gt;lean manufacturing&lt;/a&gt; is about cost, and is the &lt;a href=&quot;http://en.wikipedia.org/wiki/Lean_startup#Origins&quot;&gt;origin&lt;/a&gt; of Eric Ries’ idea, Lean Startup is about translating a vision into a falsifiable business model hypothesis.&lt;/p&gt;
 
 &lt;p&gt;Crafting a hypothesis and finding your leap of faith needs discipline. Choices about validation criteria can be subjective and need judgment calls. Decisions about how minimal your MVP needs to be can be challenging with marketplace or mobile apps where experience matters. Is the right experiment broad based generative research or evaluative to find fitment? Are we testing for the market needs or product fitment? That said, there’s certainly a wealth of information out there now, and vibrant supportive community that’s making this easier.&lt;/p&gt;
 
@@ -291,16 +223,16 @@
 
 &lt;p&gt;In theory, you’d want to go out and find your ideal customer whose pain your can solve well, and then find more like them. In practice, the narrative isn’t quite as linear.&lt;/p&gt;
 
-&lt;p&gt;When you are looking for a strong signal, but looking to test with a minimal experience, you often look for early adopters whose pain is deep enough that they would use your MVP regardless of polish. Often, it can be a challenge finding enough early adopters who match your persona to test things at scale. What then happens is, conversions rates can tend to be lower if the sampling set includes mainstream users used to refined apps with a well designed experience. One way to address this is to craft an experiment that tests if improved design bumps up conversion numbers, but this poses a judgment call about whether you have sufficient validation to invest in further refinement. &lt;/p&gt;
+&lt;p&gt;When you are looking for a strong signal, but looking to test with a minimal experience, you often look for early adopters whose pain is deep enough that they would use your MVP regardless of polish. Often, it can be a challenge finding enough early adopters who match your persona to test things at scale. What then happens is, conversions rates can tend to be lower if the sampling set includes mainstream users used to refined apps with a well designed experience. One way to address this is to craft an experiment that tests if improved design bumps up conversion numbers, but this poses a judgment call about whether you have sufficient validation to invest in further refinement.&lt;/p&gt;
 
 &lt;p&gt;One can argue that this is all about distribution. While distribution is always a challenge for startups working through different channels for traction, these challenges exist in larger companies too. Larger organizations can be defensive about exposing key influential users (who are often early adopters) to scrappy experiments, making acquisition just as challenging.&lt;/p&gt;
 
 &lt;p&gt;So what ends up happening? Some run experiments with broad, large sampling sizes whose personas type may be a mismatch, leading to invalidation. Or, run with smaller groups with qualitative feedback that yields deeper insights, but may not be statistically significant.&lt;/p&gt;
 
-&lt;p&gt;Whether choosing criteria for validation or making a pivot vs persevere decision, we’re often faced with situations that require a judgment call. Despite our best intentions, our decisions are often swayed by our biases. While our understanding of cognitive psychology may have improved over the year, we often let our biases get the better of us. &lt;/p&gt;
+&lt;p&gt;Whether choosing criteria for validation or making a pivot vs persevere decision, we’re often faced with situations that require a judgment call. Despite our best intentions, our decisions are often swayed by our biases. While our understanding of cognitive psychology may have improved over the year, we often let our biases get the better of us.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;a href=&quot;http://www.goodreads.com/quotes/1249307-if-you-torture-the-data-long-enough-it-will-confess&quot;&gt;If you torture the data long enough, it will confess.&lt;/a&gt; &lt;/p&gt;
+  &lt;p&gt;&lt;a href=&quot;http://www.goodreads.com/quotes/1249307-if-you-torture-the-data-long-enough-it-will-confess&quot;&gt;If you torture the data long enough, it will confess.&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Sometimes we often spend endless analyzing things, and make ourselves believe we are arriving at deeper insights by armchair analysis. Instead, we are often just rationalizing our own thoughts with dialectical skills. While Lean Startup provides a framework that appears to helps reduce otherwise rampant &lt;a href=&quot;http://en.wikipedia.org/wiki/Confirmation_bias&quot;&gt;confirmation bias&lt;/a&gt;, it doesn’t necessarily provide all the answers.&lt;/p&gt;
@@ -309,7 +241,7 @@
 
 &lt;p&gt;A common challenge I’ve seen has been identifying the &lt;a href=&quot;http://en.wikipedia.org/wiki/Control_variable#In_an_experiment&quot;&gt;control variables&lt;/a&gt; that influence your experiments and managing them across experiment batches. Without this in place, it can be hard to draw a strong correlation, and understand if you were invalidated or not.&lt;/p&gt;
 
-&lt;p&gt;For instance, it’s easy to mix up testing out a channel hypothesis with a value hypothesis and get muddled. One of the medical startups that was at Lean Startup Machine went out and spoke to ten people on the street to test their initial value hypothesis. They got a lukewarm signal, but decided to persevere with a modified value hypothesis. They then went out and spoke to ten people at hospitals. Since the signal was weak, they felt they were invalidated, but weren’t sure if their original value prop might have appealed to the hospital. &lt;/p&gt;
+&lt;p&gt;For instance, it’s easy to mix up testing out a channel hypothesis with a value hypothesis and get muddled. One of the medical startups that was at Lean Startup Machine went out and spoke to ten people on the street to test their initial value hypothesis. They got a lukewarm signal, but decided to persevere with a modified value hypothesis. They then went out and spoke to ten people at hospitals. Since the signal was weak, they felt they were invalidated, but weren’t sure if their original value prop might have appealed to the hospital.&lt;/p&gt;
 
 &lt;p&gt;In scientific lab experiments, control variables are carefully managed. If an experiment is run again with the same setup, the same results are expected. If not, the original experiment is usually considered to have been flawed.&lt;/p&gt;
 
@@ -317,10 +249,10 @@
 
 &lt;h2 id=&quot;risk-of-missing-big-opportunities&quot;&gt;Risk of missing big opportunities.&lt;/h2&gt;
 
-&lt;p&gt;I think it was &lt;a href=&quot;http://blakemasters.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes&quot;&gt;Peter Thiel&lt;/a&gt; who opined that we may have swung too far from ‘determinate optimism’ towards ‘indeterminate optimism’. He appears to believe that the Lean Startup approach of attempting small bets make not really translate into big high impact ideas that can disrupt industries. &lt;/p&gt;
+&lt;p&gt;I think it was &lt;a href=&quot;http://blakemasters.com/post/23435743973/peter-thiels-cs183-startup-class-13-notes&quot;&gt;Peter Thiel&lt;/a&gt; who opined that we may have swung too far from ‘determinate optimism’ towards ‘indeterminate optimism’. He appears to believe that the Lean Startup approach of attempting small bets make not really translate into big high impact ideas that can disrupt industries.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Indefinite futures are inherently iterative. You can’t plan them out; things just unfold on top of each other. The question is thus whether an iterative process can lead, if not to the best of all possible worlds, at least to a world where there is a path of monotonic and potentially never-ending improvement. If it can, we may not get to the tallest mountain in the universe. But at least we’ll always go uphill. &lt;/p&gt;
+  &lt;p&gt;Indefinite futures are inherently iterative. You can’t plan them out; things just unfold on top of each other. The question is thus whether an iterative process can lead, if not to the best of all possible worlds, at least to a world where there is a path of monotonic and potentially never-ending improvement. If it can, we may not get to the tallest mountain in the universe. But at least we’ll always go uphill.&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Put simply, he doesn’t think you can experiment your way towards a grand vision. But on the other hand, many great startup ideas that seem visionary now sounded terrible when they started.&lt;/p&gt;
@@ -333,11 +265,11 @@
 &lt;img src=&quot;images/thiel.png&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Part of his thought process there is that post the 2008 subprime crisis, the world has largely slipped away from the top left quadrant towads the bottom half. &lt;/p&gt;
+&lt;p&gt;Part of his thought process there is that post the 2008 subprime crisis, the world has largely slipped away from the top left quadrant towads the bottom half.&lt;/p&gt;
 
 &lt;h3 id=&quot;effectuation-and-lean-startup&quot;&gt;Effectuation and Lean Startup&lt;/h3&gt;
 
-&lt;p&gt;There’s also the views of Professor &lt;a href=&quot;http://www.darden.virginia.edu/faculty-research/directory/saras-d-sarasvathy/&quot;&gt;Saras Sarasvathy&lt;/a&gt;, who was a speaker at a fabulous &lt;a href=&quot;http://www.ispirt.in/&quot;&gt;iSprt&lt;/a&gt; roundtable last year. Saras’s paper on “&lt;a href=&quot;http://www.effectuation.org/sites/default/files/documents/what-makes-entrepreneurs-entrepreneurial-sarasvathy.pdf&quot;&gt;What makes entrepreneurs entrepreneurial&lt;/a&gt;” is now regarded as a seminal piece on &lt;a href=&quot;http://en.wikipedia.org/wiki/Effectuation&quot;&gt;Effectuation&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;There’s also the views of Professor &lt;a href=&quot;http://www.darden.virginia.edu/faculty-research/directory/saras-d-sarasvathy/&quot;&gt;Saras Sarasvathy&lt;/a&gt;, who was a speaker at a fabulous &lt;a href=&quot;http://www.ispirt.in/&quot;&gt;iSprt&lt;/a&gt; roundtable last year. Saras’s paper on “&lt;a href=&quot;http://www.effectuation.org/sites/default/files/documents/what-makes-entrepreneurs-entrepreneurial-sarasvathy.pdf&quot;&gt;What makes entrepreneurs entrepreneurial&lt;/a&gt;” is now regarded as a seminal piece on &lt;a href=&quot;http://en.wikipedia.org/wiki/Effectuation&quot;&gt;Effectuation&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;images/means-causal-vs-effectual.png&quot; /&gt;
@@ -373,26 +305,26 @@
 &lt;p&gt;If you have suggestions or examples from your experiences, please drop me a note or connect via Twitter @twitortat.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-lean-startup-is-hard-in-practice.html&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on June 01, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-lean-startup-is-hard-in-practice.html&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on June 01, 2015.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Himalayas Trek: Triund, Mt Dhauladhar Base Camp]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp.html" />
-  <id>http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/himalayas-trek-triund-mt-dhauladhar-base-camp.html" />
+  <id>http://localhost:4000/himalayas-trek-triund-mt-dhauladhar-base-camp</id>
   <published>2014-10-20T00:00:00+00:00</published>
   <updated>2014-10-20T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;p&gt;If you are considering trekking from &lt;a href=&quot;http://en.wikipedia.org/wiki/McLeod_Ganj&quot;&gt;McLeod Ganj&lt;/a&gt; up to [Triund], this travelogue should serve as a quick and dirty rough guide.&lt;/p&gt;
 
 &lt;h2 id=&quot;tldr-read-this-first&quot;&gt;TLDR? Read this first&lt;/h2&gt;
 
-&lt;p&gt;The trek from McLeod Ganj up to Triund (2875m/9432ft), base camp of &lt;a href=&quot;http://en.wikipedia.org/wiki/Dhauladhar&quot;&gt;Mt Dhauladhar&lt;/a&gt; is a popular trek in the Himalayas. Trekkers are rewarded with stunning views of snow capped mountains. &lt;/p&gt;
+&lt;p&gt;The trek from McLeod Ganj up to Triund (2875m/9432ft), base camp of &lt;a href=&quot;http://en.wikipedia.org/wiki/Dhauladhar&quot;&gt;Mt Dhauladhar&lt;/a&gt; is a popular trek in the Himalayas. Trekkers are rewarded with stunning views of snow capped mountains.&lt;/p&gt;
 
 &lt;p&gt;If you are a rookie trekker, take a guide along for the 18 km roundtrip journey. They don’t cost much, and may just save your life. If you’re used to trekking, here’s the gist of your pit stops:&lt;/p&gt;
 
@@ -409,7 +341,7 @@
 
 &lt;h2 id=&quot;why-is-this-so-amazing&quot;&gt;Why is this so amazing?&lt;/h2&gt;
 
-&lt;p&gt;Well, the highest peak of Mt Dhauladhar is 5,639m (18,500ft). From Triund, these are clearly visible just a few kilometers across the valley. That’s higher that Mont Blanc (4,807m) and Mt Whitney (4,418m) and nearly as high as Mt Kilimanjaro (5,895m). In other words, this is possibly the shortest day trek you’ll take to catch a close glimpse of one of the worlds tallest peaks. &lt;/p&gt;
+&lt;p&gt;Well, the highest peak of Mt Dhauladhar is 5,639m (18,500ft). From Triund, these are clearly visible just a few kilometers across the valley. That’s higher that Mont Blanc (4,807m) and Mt Whitney (4,418m) and nearly as high as Mt Kilimanjaro (5,895m). In other words, this is possibly the shortest day trek you’ll take to catch a close glimpse of one of the worlds tallest peaks.&lt;/p&gt;
 
 &lt;h2 id=&quot;preparation-for-the-trek&quot;&gt;Preparation for the Trek&lt;/h2&gt;
 
@@ -430,7 +362,7 @@
 
 &lt;h2 id=&quot;galu-devi&quot;&gt;Galu Devi&lt;/h2&gt;
 
-&lt;p&gt;The Galu Devi temple in Dharamkot is around 3km from McLeod Ganj. There’s two ways of getting here. &lt;/p&gt;
+&lt;p&gt;The Galu Devi temple in Dharamkot is around 3km from McLeod Ganj. There’s two ways of getting here.&lt;/p&gt;
 
 &lt;p&gt;The first option is to take a local taxi cab from McLeod Ganj up to Dharamkot. Do not attempt driving yourself or heading up with a chauffer from the plains. The narrow gravel and pebbled road is just about wide enough for one car, and requires careful handling of drift around the bends. Also, the seasoned locals seem to have a system in place when two drivers end up in a narrow stretch. The guy heading downhill (yes, you got that right!) backed up (yes, upwards!) until he found a place that was just about wide enough for the two to squeeze past. The newer Maruti 800s that these guys drive must have good reverse gear mechanics. Once you get past the fact that this can be a precarious ride, the taxi ride up is worth it since it’ll save you a good hour of climbing. In addition to the energy which you’ll save up for the rest of the climb, this will also give you more time to enjoy the sights on top of Triund before you have to head back down. Taxis cost about INR 300-400 each way, but the price may be higher during the tourist season.&lt;/p&gt;
 
@@ -440,7 +372,7 @@
 
 &lt;p&gt;Now that you are at Galu Devi, consider picking up a hiking stick from the shop there. They rent wooden sticks out for Rs 50 (return them on the descent). If you’ve already brought your stick along, you are all set.&lt;/p&gt;
 
-&lt;p&gt;Head on and follow the trail upwards past the village huts. &lt;/p&gt;
+&lt;p&gt;Head on and follow the trail upwards past the village huts.&lt;/p&gt;
 
 &lt;h2 id=&quot;magic-view-point&quot;&gt;Magic View Point&lt;/h2&gt;
 
@@ -454,7 +386,7 @@
 
 &lt;p&gt;Once you’ve caught your breath here, begin the next stage of the climb up. If it’s a clear day, you should soon start to see beautiful glimpses of the snow capped mountain peaks.&lt;/p&gt;
 
-&lt;p&gt;There’s a few points along the pathway that start get a little narrow. Take your time and watch your step, especially in places where the rocks and pebbles are slippery. &lt;/p&gt;
+&lt;p&gt;There’s a few points along the pathway that start get a little narrow. Take your time and watch your step, especially in places where the rocks and pebbles are slippery.&lt;/p&gt;
 
 &lt;h2 id=&quot;chai-shop-2&quot;&gt;Chai Shop 2&lt;/h2&gt;
 
@@ -464,19 +396,19 @@
 
 &lt;h2 id=&quot;chai-shop-on-top&quot;&gt;Chai Shop on Top&lt;/h2&gt;
 
-&lt;p&gt;The flat horizon is the little tableau of Triund. Covered by gorgeous lush green meadows through most of the year, and snow in winter, it’s a stunning sight. The tableau itself is about the size of 4 football fields. At one end, it tapers away upwards into the mountain trail headed up towards the snowline. Right in the middle of the tableau is the final chai shop of the journey. It’s covered by a blue tarpaluin sheet, and is well stocked with snacks, water, and even tents and sleeping bags. The chai shop with the best view. &lt;/p&gt;
+&lt;p&gt;The flat horizon is the little tableau of Triund. Covered by gorgeous lush green meadows through most of the year, and snow in winter, it’s a stunning sight. The tableau itself is about the size of 4 football fields. At one end, it tapers away upwards into the mountain trail headed up towards the snowline. Right in the middle of the tableau is the final chai shop of the journey. It’s covered by a blue tarpaluin sheet, and is well stocked with snacks, water, and even tents and sleeping bags. The chai shop with the best view.&lt;/p&gt;
 
-&lt;p&gt;It’s a view that’s so stunning, you wouldnt even have noticed the green meadows and the chai shop when you arrived. The mighty mountains of the Dhauladhar range seem so close to you, you almost feel like you could reach out and touch them. And they all have lovely names. &lt;/p&gt;
+&lt;p&gt;It’s a view that’s so stunning, you wouldnt even have noticed the green meadows and the chai shop when you arrived. The mighty mountains of the Dhauladhar range seem so close to you, you almost feel like you could reach out and touch them. And they all have lovely names.&lt;/p&gt;
 
 &lt;p&gt;The hard part about a day trek is that it’s hard to predict when there’s cloud cover. So most day trekkers end up seeing only a partial view of the mountains, since clouds keep passing through. If you ask me, I’d say that’s part of the charm of the place itself - a clear day would be lovely, but atypical.&lt;/p&gt;
 
-&lt;p&gt;There are no toilets on top, but that shouldn’t surprise you. What might surprise you, is that there arent any bushes nearby on the lovely green tableau either. The sides facing the plains are a steep precipice. When you’ve gotta go, you’ve gotta go. There’s secluded spots slightly further uphill or on the side of the tableau overlooking the peaks. &lt;/p&gt;
+&lt;p&gt;There are no toilets on top, but that shouldn’t surprise you. What might surprise you, is that there arent any bushes nearby on the lovely green tableau either. The sides facing the plains are a steep precipice. When you’ve gotta go, you’ve gotta go. There’s secluded spots slightly further uphill or on the side of the tableau overlooking the peaks.&lt;/p&gt;
 
 &lt;h1 id=&quot;heading-down&quot;&gt;Heading down&lt;/h1&gt;
 
-&lt;p&gt;You’d want to start to head down no later than 3PM. Ensure you ask locals if its safe to leave at that time, and if they suggest you stay the night over instead on top instead due to inclement weather, they will help you find tents and sleeping bags. &lt;/p&gt;
+&lt;p&gt;You’d want to start to head down no later than 3PM. Ensure you ask locals if its safe to leave at that time, and if they suggest you stay the night over instead on top instead due to inclement weather, they will help you find tents and sleeping bags.&lt;/p&gt;
 
-&lt;p&gt;You’ll likely make your way downhill much faster than you did on the ardous trek up. Be kind to your knees, and watch your step. Ironically, the downhill journey is often more dangerous than the uphill trek. It may be the speed of the descent, or just fatigue. &lt;/p&gt;
+&lt;p&gt;You’ll likely make your way downhill much faster than you did on the ardous trek up. Be kind to your knees, and watch your step. Ironically, the downhill journey is often more dangerous than the uphill trek. It may be the speed of the descent, or just fatigue.&lt;/p&gt;
 
 &lt;h1 id=&quot;travels--guides&quot;&gt;Travels &amp;amp; Guides&lt;/h1&gt;
 
@@ -486,28 +418,28 @@
 | Galaxy Line Tour &amp;amp; Travels Main Square |
 | (www.galaxylinetravels.com) |
 | +91-9882291379 |
-&lt;br /&gt;   &lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;I hope this helps, and you have a safe trek to Triund. Be responsible, collect your trash with you, and have fun!&lt;/p&gt;
 
 &lt;p&gt;Been to Triund, have experiences to share?  Planning a trip, and need tips? Let me know &lt;a href=&quot;http://www.twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/himalayas-trek-triund-mt-dhauladhar-base-camp.html&quot;&gt;Himalayas Trek: Triund, Mt Dhauladhar Base Camp&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/himalayas-trek-triund-mt-dhauladhar-base-camp.html&quot;&gt;Himalayas Trek: Triund, Mt Dhauladhar Base Camp&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on October 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[My Second PyCon]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/my-second-pycon.html" />
-  <id>http://arg0s.in/my-second-pycon</id>
-  <updated>2014-10-11 04:53:16 UTCT00:00:00-00:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/my-second-pycon.html" />
+  <id>http://localhost:4000/my-second-pycon</id>
+  <updated>2014-10-11 10:23:16 +0530T00:00:00-00:00</updated>
   <published>2014-10-11T00:00:00+00:00</published>
   
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;images/lifeofpy.jpg&quot; /&gt;&lt;/p&gt;
 
@@ -526,24 +458,24 @@
 	And in the local community, a wonderful effort has been initiated by Anand to expand Python Month to a year long initiative to help educate newbies with Python. Say hello to &lt;a href=&quot;pythonexpress.in&quot;&gt;Python Express&lt;/a&gt;. If you are a professor, a student or a trainer, I’d encourage you to consider signing up or seeing if there’s already a workshop happening close to where you live.&lt;/p&gt;
 
 &lt;h2 id=&quot;collaborating-with-an-amazing-program-committee&quot;&gt;Collaborating with an amazing Program Committee.&lt;/h2&gt;
-&lt;p&gt;The core program committee consisted of Krace, Konark, Kushal, Senthil and I. We were faced with the challenge of having to look at the 140+ submissions and choose around 20 from them. This ended up being incredibly hard since there were several excellent proposals. &lt;/p&gt;
+&lt;p&gt;The core program committee consisted of Krace, Konark, Kushal, Senthil and I. We were faced with the challenge of having to look at the 140+ submissions and choose around 20 from them. This ended up being incredibly hard since there were several excellent proposals.&lt;/p&gt;
 
 &lt;h3 id=&quot;rough-approach&quot;&gt;Rough Approach.&lt;/h3&gt;
-&lt;p&gt;Here’s the rough approach we took, and a full account deserves a formal post on the PyCon blog. &lt;/p&gt;
+&lt;p&gt;Here’s the rough approach we took, and a full account deserves a formal post on the PyCon blog.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Between us, we broke out the different sections of submissions for review with a primary and secondary owner for each section. &lt;/li&gt;
-  &lt;li&gt;This let us divide and conquer so that each person need not review more than 30-40 proposals. &lt;/li&gt;
-  &lt;li&gt;We would read through the abstracts, go through slides (where available), request past speaker videos, and go through upstream contributions. &lt;/li&gt;
-  &lt;li&gt;Having a primary and secondary owner reduced the bias that a single reviewer may have, although it’s hard to completely avoid group think. &lt;/li&gt;
-  &lt;li&gt;To the extent that was possible, we interacted with people via the submission funnel, requesting additional information and posting feedback. &lt;/li&gt;
-  &lt;li&gt;Based on this, we shortlisted about 30 odd speakers, including a few who were waitlisted. &lt;/li&gt;
-  &lt;li&gt;We then rigorously followed up with each individual speaker to whet their slides, talk through their presentation structure, demo content, and key takeaways for the audience. &lt;/li&gt;
+  &lt;li&gt;Between us, we broke out the different sections of submissions for review with a primary and secondary owner for each section.&lt;/li&gt;
+  &lt;li&gt;This let us divide and conquer so that each person need not review more than 30-40 proposals.&lt;/li&gt;
+  &lt;li&gt;We would read through the abstracts, go through slides (where available), request past speaker videos, and go through upstream contributions.&lt;/li&gt;
+  &lt;li&gt;Having a primary and secondary owner reduced the bias that a single reviewer may have, although it’s hard to completely avoid group think.&lt;/li&gt;
+  &lt;li&gt;To the extent that was possible, we interacted with people via the submission funnel, requesting additional information and posting feedback.&lt;/li&gt;
+  &lt;li&gt;Based on this, we shortlisted about 30 odd speakers, including a few who were waitlisted.&lt;/li&gt;
+  &lt;li&gt;We then rigorously followed up with each individual speaker to whet their slides, talk through their presentation structure, demo content, and key takeaways for the audience.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;We were supported by Noufal and Anand who joined us on a number of the hangouts we organized every few weeks to ensure we were on the same page, and had consensus on key decisions being made. Senthil, in addition to his review of core and embedded content, also drove the workshops. Pratap and Kathir were external reviewers who helped with inputs of the scientific computing submissions since the committee didnt have sufficient experience internally. Vijay, in addition to several other duties running the conference, helped put together most of the schedule. &lt;/p&gt;
+&lt;p&gt;We were supported by Noufal and Anand who joined us on a number of the hangouts we organized every few weeks to ensure we were on the same page, and had consensus on key decisions being made. Senthil, in addition to his review of core and embedded content, also drove the workshops. Pratap and Kathir were external reviewers who helped with inputs of the scientific computing submissions since the committee didnt have sufficient experience internally. Vijay, in addition to several other duties running the conference, helped put together most of the schedule.&lt;/p&gt;
 
-&lt;p&gt;Also, here are some structured guidelines we put together for the speakers. If you’d like to view the full 12 page slidedeck, it’s up here on &lt;a href=&quot;http://www.slideshare.net/aravindkrishnaswamy/PyCon-india-2014-10-tips-for-speakers&quot;&gt;SlideShare&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Also, here are some structured guidelines we put together for the speakers. If you’d like to view the full 12 page slidedeck, it’s up here on &lt;a href=&quot;http://www.slideshare.net/aravindkrishnaswamy/PyCon-india-2014-10-tips-for-speakers&quot;&gt;SlideShare&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure&gt;
 	&lt;img src=&quot;images/conference-speaker-tips.jpg&quot; /&gt;
@@ -576,13 +508,13 @@
 &lt;p&gt;I met a number of incredibly smart people, and I wish I could recall enough names to list them here. While some of the sessions were by veteran speakers, there were a couple of first time speakers. One of them that stood out was a session on Medusa, a Dart generator, that was presented by Rahul, a college student. I snuck out of the conference in between to go attend the Bangalore Literature Festival for a bit with Abhay, and apparently missed seeing a 9 year old present about his work with Arduino. It was also nice to meet familiar faces from previous PyCons and hang out on the stairway. I don’t know about more Audis, but the conference hall likely needs more stairways soon! Noufal. Anand. Kiran. Dhananjay. Sonal. Krace. Shrayas. Abhishek. Kushal. Anand. Sankarshan. Michael. Haris. Sandeep. Vajrasky. Abhay. And the many more whose names I cant remember now. Thanks for terrific conversations.&lt;/p&gt;
 
 &lt;h2 id=&quot;panel---flask-vs-django-vs-webpy&quot;&gt;Panel - Flask vs Django vs Web.py&lt;/h2&gt;
-&lt;p&gt;Ok, I’ll admit I’m biased since I came up with the idea for this panel and I also moderated the discussion. After my talk on &lt;a href=&quot;http://arg0s.in/my-first-PyCon.html&quot;&gt;Flask at last year’s PyCon&lt;/a&gt;, I got a number of questions about choosing the right framework. It’s often a nuanced choice, and there’s no one size fits all answer. I thought it would make for an engaging conversation in a debate style format to get the different tradeoffs involved directly from experienced practitioners. One of the things I didn’t want to do however was to script the panel discussion. I prepped the panelists so that a general sense of the structure of the discussion, and the high level themes were clear, but we avoided discussing specifics until we were on stage.  &lt;/p&gt;
+&lt;p&gt;Ok, I’ll admit I’m biased since I came up with the idea for this panel and I also moderated the discussion. After my talk on &lt;a href=&quot;http://arg0s.in/my-first-PyCon.html&quot;&gt;Flask at last year’s PyCon&lt;/a&gt;, I got a number of questions about choosing the right framework. It’s often a nuanced choice, and there’s no one size fits all answer. I thought it would make for an engaging conversation in a debate style format to get the different tradeoffs involved directly from experienced practitioners. One of the things I didn’t want to do however was to script the panel discussion. I prepped the panelists so that a general sense of the structure of the discussion, and the high level themes were clear, but we avoided discussing specifics until we were on stage.&lt;/p&gt;
 
-&lt;p&gt;I was nervous an hour before the panel. There were just a ton of little things to juggle. I skipped lunch to get set up on stage and prep. &lt;/p&gt;
+&lt;p&gt;I was nervous an hour before the panel. There were just a ton of little things to juggle. I skipped lunch to get set up on stage and prep.&lt;/p&gt;
 
-&lt;p&gt;I had to walk the difficult line between maintaining structure and retaining spontaneity. I kept the Twitter #pyconindia stream open on one screen along with my moderator notes, and the slides projected on the other. I wasn’t sure how well conference Wi-Fi would hold out, but I was going to meld in questions that came in via the Twitter hash tag into the panel itself. My moderator notes had specific questions, timelines for reach round of discussion, and icebreakers. &lt;/p&gt;
+&lt;p&gt;I had to walk the difficult line between maintaining structure and retaining spontaneity. I kept the Twitter #pyconindia stream open on one screen along with my moderator notes, and the slides projected on the other. I wasn’t sure how well conference Wi-Fi would hold out, but I was going to meld in questions that came in via the Twitter hash tag into the panel itself. My moderator notes had specific questions, timelines for reach round of discussion, and icebreakers.&lt;/p&gt;
 
-&lt;p&gt;It was also important to engage with the panelists to ensure they had sufficient talk time on each point, and countered each others points. To make things a bit harder, we were on just after a big hearty lunch, and some amount of levity was essential to avoid the audience going into mass coma. &lt;/p&gt;
+&lt;p&gt;It was also important to engage with the panelists to ensure they had sufficient talk time on each point, and countered each others points. To make things a bit harder, we were on just after a big hearty lunch, and some amount of levity was essential to avoid the audience going into mass coma.&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;images/panel-lineup.jpg&quot; /&gt;
@@ -590,9 +522,9 @@
 
 &lt;p&gt;I loved the energy of the debate, and I thought the three panelists - Anand, Kiran and Arun were outstanding. I think we are fortunate to have such experienced practitioners together on stage. Anand is a co-author and maintainer of Web.py and had collaborated with Aaron Swartz. Kiran has been using Flask at scale actively at HasGeek over the last few years. Arun is an acknowledged expert on Django and has a book coming out soon. I’m honored to have shared the stage with them that afternoon.&lt;/p&gt;
 
-&lt;p&gt;At one point, it amused me how Kiran who had initially been on the fence about taking a strong position with Flask started thumping the Alchemy bible whenever Anand dissed ORMs. That got the audience really going. Arun was Django unchained, and held his ground throughout pretty well. &lt;/p&gt;
+&lt;p&gt;At one point, it amused me how Kiran who had initially been on the fence about taking a strong position with Flask started thumping the Alchemy bible whenever Anand dissed ORMs. That got the audience really going. Arun was Django unchained, and held his ground throughout pretty well.&lt;/p&gt;
 
-&lt;p&gt;I’d built a basic &lt;a href=&quot;https://github.com/arg0s/ungli&quot;&gt;missed call voting system&lt;/a&gt; which we used at the end to poll the audience. 402 people voted via their phones in the space a minute. I was relieved that the system held up when it had to, although Wi-Fi dropped and we couldn’t project the live results. The clear winner was Django. &lt;/p&gt;
+&lt;p&gt;I’d built a basic &lt;a href=&quot;https://github.com/arg0s/ungli&quot;&gt;missed call voting system&lt;/a&gt; which we used at the end to poll the audience. 402 people voted via their phones in the space a minute. I was relieved that the system held up when it had to, although Wi-Fi dropped and we couldn’t project the live results. The clear winner was Django.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
 	&lt;img src=&quot;images/panel-live.jpg&quot; /&gt;
@@ -609,52 +541,52 @@
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;pure-volunteer-magic&quot;&gt;Pure Volunteer Magic.&lt;/h2&gt;
-&lt;p&gt;It’s incredible how much volunteer effort goes into the conference. Apparently there were over 1200+ delegates, which means a packaged house at the Nimhans venue. Volunteers worked round the clock the week of the conference to get the food, decorations, handouts, T-shirts, registration and sponsor booths, and a zillion little things right. With this being a volunteer driven event, there’s also a ton of chaos. Communication isn’t always great, a few people end up doing a sizeable chunk of the work, and a few things always fall through. But, it’s the self organizing nature of community events which makes them special and unique. The early bird price of the ticket for the event is INR 800 (USD 13), which is ridiculous value for the two days of great sessions, meeting smart people, eating scrumptious food, and getting a fun conference tee. In contrast, most other good tech events in Bangalore are often upwards of INR 3000 or more, and dont often include the swag. &lt;/p&gt;
+&lt;p&gt;It’s incredible how much volunteer effort goes into the conference. Apparently there were over 1200+ delegates, which means a packaged house at the Nimhans venue. Volunteers worked round the clock the week of the conference to get the food, decorations, handouts, T-shirts, registration and sponsor booths, and a zillion little things right. With this being a volunteer driven event, there’s also a ton of chaos. Communication isn’t always great, a few people end up doing a sizeable chunk of the work, and a few things always fall through. But, it’s the self organizing nature of community events which makes them special and unique. The early bird price of the ticket for the event is INR 800 (USD 13), which is ridiculous value for the two days of great sessions, meeting smart people, eating scrumptious food, and getting a fun conference tee. In contrast, most other good tech events in Bangalore are often upwards of INR 3000 or more, and dont often include the swag.&lt;/p&gt;
 
-&lt;p&gt;Life with Py is good! &lt;/p&gt;
+&lt;p&gt;Life with Py is good!&lt;/p&gt;
 
 &lt;figure&gt;
 &lt;img src=&quot;images/lifeofpy.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/my-second-pycon.html&quot;&gt;My Second PyCon&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on October 11, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/my-second-pycon.html&quot;&gt;My Second PyCon&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on October 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why People Buy Things From You]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/why-people-buy-things-from-you.html" />
-  <id>http://arg0s.in/why-people-buy-things-from-you</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/why-people-buy-things-from-you.html" />
+  <id>http://localhost:4000/why-people-buy-things-from-you</id>
   <published>2014-06-06T00:00:00+00:00</published>
   <updated>2014-06-06T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;figure&gt;
   &lt;a href=&quot;images/why-people-buy-things.jpeg&quot;&gt;&lt;img src=&quot;images/why-people-buy-things.jpeg&quot; /&gt;&lt;/a&gt;
   &lt;figcaption&gt;Why People Buy Things&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;You can spend a ton of time making your site easier for your customers to understand &lt;em&gt;what you do&lt;/em&gt;. &lt;/p&gt;
+&lt;p&gt;You can spend a ton of time making your site easier for your customers to understand &lt;em&gt;what you do&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Or you can spend a ton of time understanding your customers. And then customers will buy things from you because you understand &lt;em&gt;what they do&lt;/em&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-people-buy-things-from-you.html&quot;&gt;Why People Buy Things From You&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-people-buy-things-from-you.html&quot;&gt;Why People Buy Things From You&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on June 06, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Customer Development, Invalidation, Karma and WhatsApp]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/customer-development-invalidation-karma-and-whatsapp.html" />
-  <id>http://arg0s.in/customer-development-invalidation-karma-and-whatsapp</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/customer-development-invalidation-karma-and-whatsapp.html" />
+  <id>http://localhost:4000/customer-development-invalidation-karma-and-whatsapp</id>
   <published>2014-05-29T00:00:00+00:00</published>
   <updated>2014-05-29T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;p&gt;This is an &lt;em&gt;amazing&lt;/em&gt; story worth sharing again, and again. In May 2009, an entrepreneur shared this on an online forum that he was active on.&lt;/p&gt;
 
@@ -703,20 +635,20 @@
   &lt;li&gt;Why did Whatsapp succeed despite the existence of players like Google, Facebook, Skype and others with their messengers? Why were the telecom providers bleeding SMS revenue caught napping? What can we learn from it?&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/customer-development-invalidation-karma-and-whatsapp.html&quot;&gt;Customer Development, Invalidation, Karma and WhatsApp&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 29, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/customer-development-invalidation-karma-and-whatsapp.html&quot;&gt;Customer Development, Invalidation, Karma and WhatsApp&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on May 29, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[The Evolution of the PMO Site - Vajpayee to Modi]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/the-evolution-of-the-pmo-site-vajpayee-to-modi.html" />
-  <id>http://arg0s.in/the-evolution-of-the-pmo-site-vajpayee-to-modi</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/the-evolution-of-the-pmo-site-vajpayee-to-modi.html" />
+  <id>http://localhost:4000/the-evolution-of-the-pmo-site-vajpayee-to-modi</id>
   <published>2014-05-27T00:00:00+00:00</published>
   <updated>2014-05-27T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;p&gt;Here’s a colorful look back at the &lt;a href=&quot;http://www.pmindia.nic.in/&quot; target=&quot;_blank&quot;&gt;PMO India site&lt;/a&gt; over the years, with archives from the Wayback Machine.&lt;/p&gt;
 
@@ -757,65 +689,65 @@
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Note&lt;/strong&gt;: The PMO &lt;a href=&quot;http://pmindia.nic.in/website_policy.php&quot; target=&quot;_blank&quot;&gt;website policy&lt;/a&gt; section indicates that external sites must get their permission before linking in to it. I’ve sent in a request for permission, but I hope this policy is just a relic of the old website that never did get updated. In case you are from NIC or PMO and would like the link removed, please &lt;a href=&quot;http://arg0s.in/ask-me-anything/&quot;&gt;contact me&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/the-evolution-of-the-pmo-site-vajpayee-to-modi.html&quot;&gt;The Evolution of the PMO Site - Vajpayee to Modi&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 27, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/the-evolution-of-the-pmo-site-vajpayee-to-modi.html&quot;&gt;The Evolution of the PMO Site - Vajpayee to Modi&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on May 27, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why Large Companies Should Consider A Lean Startup Approach]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach.html" />
-  <id>http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/why-large-companies-should-consider-a-lean-startup-approach.html" />
+  <id>http://localhost:4000/why-large-companies-should-consider-a-lean-startup-approach</id>
   <published>2014-05-22T00:00:00+00:00</published>
   <updated>2014-05-22T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;p&gt;Recently, &lt;a href=&quot;http://twitter.com/Penenberg&quot; target=&quot;_blank&quot;&gt;Adam Penenberg&lt;/a&gt; made a great &lt;a href=&quot;http://pando.com/2014/04/18/dancing-giants-why-large-companies-should-embrace-the-minimum-viable-product&quot;&gt;post&lt;/a&gt; about large companies and why the MVP matters to them. There’s several things that I strongly agree with, but one stands out in particular.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;Large companies are still largely stepped in a culture that’s risk averse.&lt;/em&gt; They have large teams dedicated to building out and fine tuning processes within the organization for strategic planning and execution. As Adam says, the traditional mindset is biased towards more upfront planning, in the hope that more planning will translate into better results. &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Large companies are still largely stepped in a culture that’s risk averse.&lt;/em&gt; They have large teams dedicated to building out and fine tuning processes within the organization for strategic planning and execution. As Adam says, the traditional mindset is biased towards more upfront planning, in the hope that more planning will translate into better results.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;That is, the more planning we do, the more apt we are to hit the nail on the head. The more thought we put in upfront around designing the next product, the more apt we are to hit the mark.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;This is &lt;em&gt;far&lt;/em&gt; from the truth. Companies that build a business model or a large product based on a long cycle of planning, deliberation and analysis are only increasing their risk. While there are exceptions, they are far from the norm, and the reason why large companies today find it easier to acqui-hire than to innovate internally. The sooner we get ourselves in front of real users, talking to them, and getting data or feedback, the better placed we are to test out high risk assumptions. &lt;/p&gt;
+&lt;p&gt;This is &lt;em&gt;far&lt;/em&gt; from the truth. Companies that build a business model or a large product based on a long cycle of planning, deliberation and analysis are only increasing their risk. While there are exceptions, they are far from the norm, and the reason why large companies today find it easier to acqui-hire than to innovate internally. The sooner we get ourselves in front of real users, talking to them, and getting data or feedback, the better placed we are to test out high risk assumptions.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Infosys, which has seen a slew of top-level exits recently, saw attrition rise to 18.1%&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Wonder why Indian IT giants like Infosys, Cognizant, Wipro and TCS have made no headway whatsoever with their attempts at what they call non-linear growth models? The writing is very much on the wall. &lt;/p&gt;
+&lt;p&gt;Wonder why Indian IT giants like Infosys, Cognizant, Wipro and TCS have made no headway whatsoever with their attempts at what they call non-linear growth models? The writing is very much on the wall.&lt;/p&gt;
 
 &lt;p&gt;The great recession of `08 pretty much hammered in the last nails on large enterprise software and unwarranted custom development. While they’ve created teams focused on building solution frameworks and reusable software, they’ve not experimented with radical changes to their models. With most bright grads now moving to startups, you wonder how they can influence internal change any more.&lt;/p&gt;
 
-&lt;p&gt;Unfortunately, our IT industry and education systems churn out graduates who are exceptionally good at solving &lt;em&gt;well defined problems&lt;/em&gt;. We’re also good at mapping undefined problems to certain known patterns and approaching them. However, we lack adeptness with lateral thinking and dealing with complete ambiguity in an open, exploratory mode. &lt;/p&gt;
+&lt;p&gt;Unfortunately, our IT industry and education systems churn out graduates who are exceptionally good at solving &lt;em&gt;well defined problems&lt;/em&gt;. We’re also good at mapping undefined problems to certain known patterns and approaching them. However, we lack adeptness with lateral thinking and dealing with complete ambiguity in an open, exploratory mode.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Cultivate a learning mindset.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In most of our ivory towers, there’s a great deal of emphasis on &lt;em&gt;strategic thinking&lt;/em&gt; and the &lt;em&gt;ability to execute&lt;/em&gt;, but an insufficient understanding of the importance of a &lt;em&gt;learning mindset&lt;/em&gt;. In contrast, graduates with an ability to cultivate and retain a learning mindset are most likely to be  enterpreneurs. Their natural tendency to run along with an open mind, be filling to adapt to the unknown, and leverage their intuition while there’s limited data at hand sets them apart. &lt;/p&gt;
+&lt;p&gt;In most of our ivory towers, there’s a great deal of emphasis on &lt;em&gt;strategic thinking&lt;/em&gt; and the &lt;em&gt;ability to execute&lt;/em&gt;, but an insufficient understanding of the importance of a &lt;em&gt;learning mindset&lt;/em&gt;. In contrast, graduates with an ability to cultivate and retain a learning mindset are most likely to be  enterpreneurs. Their natural tendency to run along with an open mind, be filling to adapt to the unknown, and leverage their intuition while there’s limited data at hand sets them apart.&lt;/p&gt;
 
-&lt;p&gt;I’d love to see a few of the majors come forward and create venture funds, support the startup ecosystem, and encourage some of their intrapreneurs to take wing. With a &lt;em&gt;quarterly&lt;/em&gt; &lt;a href=&quot;http://www.livemint.com/Companies/HCunTVSouBUdsakftRsgQP/Infosys-beats-profit-estimates-raises-revenue-guidance.html&quot; target=&quot;_blank&quot;&gt;net profit of $463 million&lt;/a&gt;, I’d imagine it wouldnt break the bank for Infosys to create a $100 million fund. &lt;/p&gt;
+&lt;p&gt;I’d love to see a few of the majors come forward and create venture funds, support the startup ecosystem, and encourage some of their intrapreneurs to take wing. With a &lt;em&gt;quarterly&lt;/em&gt; &lt;a href=&quot;http://www.livemint.com/Companies/HCunTVSouBUdsakftRsgQP/Infosys-beats-profit-estimates-raises-revenue-guidance.html&quot; target=&quot;_blank&quot;&gt;net profit of $463 million&lt;/a&gt;, I’d imagine it wouldnt break the bank for Infosys to create a $100 million fund.&lt;/p&gt;
 
 &lt;p&gt;They’d have to start by opening their minds.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-large-companies-should-consider-a-lean-startup-approach.html&quot;&gt;Why Large Companies Should Consider A Lean Startup Approach&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-large-companies-should-consider-a-lean-startup-approach.html&quot;&gt;Why Large Companies Should Consider A Lean Startup Approach&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on May 22, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A 10 Minute Good Reads Challenge]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/a-10-minute-good-reads-challenge.html" />
-  <id>http://arg0s.in/a-10-minute-good-reads-challenge</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/a-10-minute-good-reads-challenge.html" />
+  <id>http://localhost:4000/a-10-minute-good-reads-challenge</id>
   <published>2014-05-20T00:00:00+00:00</published>
   <updated>2014-05-20T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;p&gt;So, my colleague and good friend &lt;a href=&quot;http://www.linkedin.com/pub/raj-kannan/0/313/4a9&quot;&gt;Raj&lt;/a&gt; prodded me towards this post. He asked us to come up with a list few &lt;em&gt;memorable&lt;/em&gt; blog posts that we’d all liked. What constitutes a blog post was left fairly open, and could include opinion pieces from all types of media.&lt;/p&gt;
 
@@ -825,34 +757,34 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;“Super Successful Companies”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; by Sam Altman&lt;/p&gt;
+    &lt;p&gt;“Super Successful Companies”&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; by Sam Altman&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“The debilitating myth of musical chairs”&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; by Seth Godin&lt;/p&gt;
+    &lt;p&gt;“The debilitating myth of musical chairs”&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; by Seth Godin&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“Be Good”&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; by Paul Graham&lt;/p&gt;
+    &lt;p&gt;“Be Good”&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; by Paul Graham&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“Python And The Principle Of Least Astonishment”&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; by Armin Ronacher&lt;/p&gt;
+    &lt;p&gt;“Python And The Principle Of Least Astonishment”&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; by Armin Ronacher&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“Narendra Modi: Man of the Masses”&lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; by William Dalrymple&lt;/p&gt;
+    &lt;p&gt;“Narendra Modi: Man of the Masses”&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt; by William Dalrymple&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“Licensing In A Post Copyright World”&lt;sup id=&quot;fnref:6&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; by Armin Ronacher&lt;/p&gt;
+    &lt;p&gt;“Licensing In A Post Copyright World”&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt; by Armin Ronacher&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“But What If I Fail”&lt;sup id=&quot;fnref:7&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; by Seth Godin&lt;/p&gt;
+    &lt;p&gt;“But What If I Fail”&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; by Seth Godin&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“The Powerlessness Of Positive Thinking”&lt;sup id=&quot;fnref:8&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; by Adam Alter&lt;/p&gt;
+    &lt;p&gt;“The Powerlessness Of Positive Thinking”&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; by Adam Alter&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“The Most Beautiful Game”&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; by Geoff Dyer&lt;/p&gt;
+    &lt;p&gt;“The Most Beautiful Game”&lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; by Geoff Dyer&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;“The End of Imagination”&lt;sup id=&quot;fnref:10&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; by Arundhati Roy&lt;/p&gt;
+    &lt;p&gt;“The End of Imagination”&lt;sup id=&quot;fnref:10&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt; by Arundhati Roy&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -876,55 +808,55 @@
 
 &lt;h3 id=&quot;references&quot;&gt;References&lt;/h3&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://blog.samaltman.com/super-successful-companies&quot; target=&quot;_blank&quot;&gt;“Super Successful Companies”&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://blog.samaltman.com/super-successful-companies&quot; target=&quot;_blank&quot;&gt;“Super Successful Companies”&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2014/03/the-debilitating-myth-of-musical-chairs.html&quot; target=&quot;_blank&quot;&gt;“The debilitating myth of musical chairs”&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2014/03/the-debilitating-myth-of-musical-chairs.html&quot; target=&quot;_blank&quot;&gt;“The debilitating myth of musical chairs”&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.paulgraham.com/good.html&quot; target=&quot;_blank&quot;&gt;Be Good&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.paulgraham.com/good.html&quot; target=&quot;_blank&quot;&gt;Be Good&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://lucumr.pocoo.org/2011/7/9/python-and-pola/&quot; target=&quot;_blank&quot;&gt;Python And The Principle Of Least Astonishment&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://lucumr.pocoo.org/2011/7/9/python-and-pola/&quot; target=&quot;_blank&quot;&gt;Python And The Principle Of Least Astonishment&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://lucumr.pocoo.org/2013/7/23/licensing/&quot; target=&quot;_blank&quot;&gt;Licensing In A Post Copyright World&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://lucumr.pocoo.org/2013/7/23/licensing/&quot; target=&quot;_blank&quot;&gt;Licensing In A Post Copyright World&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.newstatesman.com/politics/2014/05/narendra-modi-man-masses&quot; target=&quot;_blank&quot;&gt;Narendra Modi: Man of the Masses&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.newstatesman.com/politics/2014/05/narendra-modi-man-masses&quot; target=&quot;_blank&quot;&gt;Narendra Modi: Man of the Masses&lt;/a&gt; &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2014/01/but-what-if-i-fail.html&quot; target=&quot;_blank&quot;&gt;But What If I Fail&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2014/01/but-what-if-i-fail.html&quot; target=&quot;_blank&quot;&gt;But What If I Fail&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.newyorker.com/online/blogs/currency/2014/02/the-powerlessness-of-positive-thinking.html&quot; target=&quot;_blank&quot;&gt;The Powerlessness Of Positive Thinking&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.newyorker.com/online/blogs/currency/2014/02/the-powerlessness-of-positive-thinking.html&quot; target=&quot;_blank&quot;&gt;The Powerlessness Of Positive Thinking&lt;/a&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.prospectmagazine.co.uk/magazine/geoff-dyer-tennis-beautiful-game-federer/&quot; target=&quot;_blank&quot;&gt;The Most Beautiful Game&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.prospectmagazine.co.uk/magazine/geoff-dyer-tennis-beautiful-game-federer/&quot; target=&quot;_blank&quot;&gt;The Most Beautiful Game&lt;/a&gt; &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.hindu.com/fline/fl1516/15160040.htm&quot; target=&quot;_blank&quot;&gt;The End of Imagination&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:10&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.hindu.com/fline/fl1516/15160040.htm&quot; target=&quot;_blank&quot;&gt;The End of Imagination&lt;/a&gt; &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/a-10-minute-good-reads-challenge.html&quot;&gt;A 10 Minute Good Reads Challenge&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/a-10-minute-good-reads-challenge.html&quot;&gt;A 10 Minute Good Reads Challenge&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on May 20, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Why I'm a Mentor at Lean Startup Machine Bangalore]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html" />
-  <id>http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/why-im-a-mentor-at-lean-startup-machine-bangalore.html" />
+  <id>http://localhost:4000/why-im-a-mentor-at-lean-startup-machine-bangalore</id>
   <published>2014-05-19T00:00:00+00:00</published>
   <updated>2014-05-19T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
 	&lt;header&gt;
@@ -932,17 +864,17 @@
 	&lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-lean-startup-movement&quot;&gt;The Lean Startup Movement&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#practicing-lean&quot;&gt;Practicing Lean&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#lsm-bangalore-mentors&quot;&gt;LSM Bangalore Mentors&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#how-lsm-works&quot;&gt;How LSM works&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#hackathons&quot;&gt;Hackathons&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#validation-board&quot;&gt;Validation Board&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-lean-startup-movement&quot; id=&quot;markdown-toc-the-lean-startup-movement&quot;&gt;The Lean Startup Movement&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#practicing-lean&quot; id=&quot;markdown-toc-practicing-lean&quot;&gt;Practicing Lean&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#lsm-bangalore-mentors&quot; id=&quot;markdown-toc-lsm-bangalore-mentors&quot;&gt;LSM Bangalore Mentors&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-lsm-works&quot; id=&quot;markdown-toc-how-lsm-works&quot;&gt;How LSM works&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#hackathons&quot; id=&quot;markdown-toc-hackathons&quot;&gt;Hackathons&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#validation-board&quot; id=&quot;markdown-toc-validation-board&quot;&gt;Validation Board&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#what-takeaways-can-you-expect&quot;&gt;What takeaways can you expect?&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#say-hello&quot;&gt;Say Hello&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#slides&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-takeaways-can-you-expect&quot; id=&quot;markdown-toc-what-takeaways-can-you-expect&quot;&gt;What takeaways can you expect?&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#say-hello&quot; id=&quot;markdown-toc-say-hello&quot;&gt;Say Hello&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#slides&quot; id=&quot;markdown-toc-slides&quot;&gt;Slides&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -1023,21 +955,21 @@
 &lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/35319264?rel=0&quot; width=&quot;512&quot; height=&quot;421&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt;     &lt;/iframe&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Why I'm a Mentor at Lean Startup Machine Bangalore&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 19, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/why-im-a-mentor-at-lean-startup-machine-bangalore.html&quot;&gt;Why I'm a Mentor at Lean Startup Machine Bangalore&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on May 19, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Kicking off Levitum Knot Hangouts On Air]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/kicking-off-the-levitum-knot-hangouts-on-air.html" />
-  <id>http://arg0s.in/kicking-off-the-levitum-knot-hangouts-on-air</id>
-  <updated>2014-05-15 12:42:52 UTCT00:00:00-00:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/kicking-off-the-levitum-knot-hangouts-on-air.html" />
+  <id>http://localhost:4000/kicking-off-the-levitum-knot-hangouts-on-air</id>
+  <updated>2014-05-15 18:12:52 +0530T00:00:00-00:00</updated>
   <published>2014-05-15T00:00:00+00:00</published>
   
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;p&gt;I’d blogged recently about how we’ve adopted a &lt;a href=&quot;http://arg0s.in/running-efficient-meetings-at-your-startup.html&quot;&gt;new approach&lt;/a&gt; to how we’re running meetings at Levitum.&lt;/p&gt;
 
@@ -1050,7 +982,7 @@
 
 &lt;h2 id=&quot;open-knowledge-sharing---the-knot&quot;&gt;Open Knowledge Sharing - The Knot&lt;/h2&gt;
 
-&lt;p&gt;We’ve begun to host the &lt;code&gt;Knot&lt;/code&gt; on Thursday mornings at 9AM IST | 8:30PM PDT. One of the things that has always amazed me about the &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; team is the amount of &lt;em&gt;talent and knowledge&lt;/em&gt; everyone has on a wide range of subjects. Often enough, the day to day routine of our work doesn’t let us explore this as much as we’d like. And what better way to bring a team together than just share your knowledge and passion with each other.&lt;/p&gt;
+&lt;p&gt;We’ve begun to host the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Knot&lt;/code&gt; on Thursday mornings at 9AM IST | 8:30PM PDT. One of the things that has always amazed me about the &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; team is the amount of &lt;em&gt;talent and knowledge&lt;/em&gt; everyone has on a wide range of subjects. Often enough, the day to day routine of our work doesn’t let us explore this as much as we’d like. And what better way to bring a team together than just share your knowledge and passion with each other.&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;&lt;strong&gt;And what better way to bring a team together than just share your knowledge and passion with each other.&lt;/strong&gt;&lt;/p&gt;
@@ -1063,7 +995,7 @@
 &lt;figcaption&gt;The First Knot Edition: A Primer on Photography by Vishnu&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;The first Knot this morning was hosted by &lt;a href=&quot;http://twitter.com/vishnuratheesh&quot;&gt;Vishnu&lt;/a&gt;, who did an amazing job of priming us on photography. In a little over a half hour, he provided an introduction to the key concepts behind &lt;code&gt;aperture&lt;/code&gt;, &lt;code&gt;shutter speed&lt;/code&gt;, and &lt;code&gt;ISO&lt;/code&gt;. He also covered &lt;code&gt;depth of field&lt;/code&gt;, &lt;code&gt;framing&lt;/code&gt;/&lt;code&gt;composition&lt;/code&gt;, and a number of simple tips that apply to camera phones as well. I’m inspired enough to go out and pick up a &lt;code&gt;DSLR&lt;/code&gt;!&lt;/p&gt;
+&lt;p&gt;The first Knot this morning was hosted by &lt;a href=&quot;http://twitter.com/vishnuratheesh&quot;&gt;Vishnu&lt;/a&gt;, who did an amazing job of priming us on photography. In a little over a half hour, he provided an introduction to the key concepts behind &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;aperture&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;shutter speed&lt;/code&gt;, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;ISO&lt;/code&gt;. He also covered &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;depth of field&lt;/code&gt;, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;framing&lt;/code&gt;/&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;composition&lt;/code&gt;, and a number of simple tips that apply to camera phones as well. I’m inspired enough to go out and pick up a &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DSLR&lt;/code&gt;!&lt;/p&gt;
 
 &lt;p&gt;In the interest of sharing this with everyone else who are interested, we plan open this out to the public. So, if you don’t mind ad-hoc learning without a set agenda or formal structure, join us on our &lt;em&gt;weekly&lt;/em&gt; Knot Hangout on-air. Or, just come hang out and say hello!&lt;/p&gt;
 
@@ -1071,23 +1003,23 @@
 
 &lt;h3 id=&quot;guest-speakers---the-friendship-knot&quot;&gt;Guest Speakers - The Friendship Knot&lt;/h3&gt;
 
-&lt;p&gt;One of the things we’d love to do once we’ve started to get a little bit of structure (read: less screw ups) around how we’re running the on air sessions is invite friends at other startups to join us for guest sessions. We’re open to most topic ideas - we’d just like to keep it informative, informal and useful. We think this might be a nice way to brings birds of a feather together, and find others who share common hobbies and passions. If you’d like to be a guest speaker write to &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#108;&amp;#101;&amp;#118;&amp;#105;&amp;#116;&amp;#117;&amp;#109;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#104;&amp;#101;&amp;#108;&amp;#108;&amp;#111;&amp;#064;&amp;#108;&amp;#101;&amp;#118;&amp;#105;&amp;#116;&amp;#117;&amp;#109;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt; or ping &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;One of the things we’d love to do once we’ve started to get a little bit of structure (read: less screw ups) around how we’re running the on air sessions is invite friends at other startups to join us for guest sessions. We’re open to most topic ideas - we’d just like to keep it informative, informal and useful. We think this might be a nice way to brings birds of a feather together, and find others who share common hobbies and passions. If you’d like to be a guest speaker write to &lt;a href=&quot;mailto:hello@levitum.com&quot;&gt;hello@levitum.com&lt;/a&gt; or ping &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;@twitortat&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/kicking-off-the-levitum-knot-hangouts-on-air.html&quot;&gt;Kicking off Levitum Knot Hangouts On Air&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/kicking-off-the-levitum-knot-hangouts-on-air.html&quot;&gt;Kicking off Levitum Knot Hangouts On Air&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on May 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Running Effective Meetings At Your Startup]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/running-efficient-meetings-at-your-startup.html" />
-  <id>http://arg0s.in/running-efficient-meetings-at-your-startup</id>
-  <updated>2014-05-04 07:11:59 UTCT00:00:00-00:00</updated>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/running-efficient-meetings-at-your-startup.html" />
+  <id>http://localhost:4000/running-efficient-meetings-at-your-startup</id>
+  <updated>2014-05-04 12:41:59 +0530T00:00:00-00:00</updated>
   <published>2014-05-14T00:00:00+00:00</published>
   
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
   &lt;header&gt;
@@ -1095,25 +1027,25 @@
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-grease&quot;&gt;The Grease&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#what-makes-an-effective-meeting&quot;&gt;What makes an effective meeting&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#establish-the-purpose&quot;&gt;Establish the purpose&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-grease&quot; id=&quot;markdown-toc-the-grease&quot;&gt;The Grease&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-makes-an-effective-meeting&quot; id=&quot;markdown-toc-what-makes-an-effective-meeting&quot;&gt;What makes an effective meeting&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#establish-the-purpose&quot; id=&quot;markdown-toc-establish-the-purpose&quot;&gt;Establish the purpose&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#invite-less-people&quot;&gt;Invite less people&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#use-the-best-tools&quot;&gt;Use the best tools&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#keep-conversations-effective&quot;&gt;Keep conversations effective&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#invite-less-people&quot; id=&quot;markdown-toc-invite-less-people&quot;&gt;Invite less people&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#use-the-best-tools&quot; id=&quot;markdown-toc-use-the-best-tools&quot;&gt;Use the best tools&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#keep-conversations-effective&quot; id=&quot;markdown-toc-keep-conversations-effective&quot;&gt;Keep conversations effective&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#how-we-run-meetings-through-the-week&quot;&gt;How We Run Meetings Through The Week&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#our-schedule&quot;&gt;Our Schedule&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#how-we-run-meetings-through-the-week&quot; id=&quot;markdown-toc-how-we-run-meetings-through-the-week&quot;&gt;How We Run Meetings Through The Week&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#our-schedule&quot; id=&quot;markdown-toc-our-schedule&quot;&gt;Our Schedule&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#monday---the-sunny-beginning&quot;&gt;Monday - The Sunny Beginning&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tuesday---the-compass&quot;&gt;Tuesday - The Compass&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#wednesday---the-caliper&quot;&gt;Wednesday - The Caliper&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#thursday---the-knot&quot;&gt;Thursday - The Knot&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#friday---the-truth&quot;&gt;Friday - The Truth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#monday---the-sunny-beginning&quot; id=&quot;markdown-toc-monday---the-sunny-beginning&quot;&gt;Monday - The Sunny Beginning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#tuesday---the-compass&quot; id=&quot;markdown-toc-tuesday---the-compass&quot;&gt;Tuesday - The Compass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#wednesday---the-caliper&quot; id=&quot;markdown-toc-wednesday---the-caliper&quot;&gt;Wednesday - The Caliper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#thursday---the-knot&quot; id=&quot;markdown-toc-thursday---the-knot&quot;&gt;Thursday - The Knot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#friday---the-truth&quot; id=&quot;markdown-toc-friday---the-truth&quot;&gt;Friday - The Truth&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -1137,7 +1069,7 @@
 
 &lt;h2 id=&quot;what-makes-an-effective-meeting&quot;&gt;What makes an effective meeting&lt;/h2&gt;
 
-&lt;p&gt;Running effective meetings really boils down to three things&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+&lt;p&gt;Running effective meetings really boils down to three things&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;They achieve the meeting’s objective.&lt;/li&gt;
@@ -1147,7 +1079,7 @@
 
 &lt;h3 id=&quot;establish-the-purpose&quot;&gt;Establish the purpose&lt;/h3&gt;
 
-&lt;p&gt;It’s also important to decide upon what the key purposes&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; your meetings are for:&lt;/p&gt;
+&lt;p&gt;It’s also important to decide upon what the key purposes&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; your meetings are for:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Communication – share new initiatives, company victories and upcoming challenges&lt;/li&gt;
@@ -1172,7 +1104,7 @@
 
 &lt;p&gt;&lt;img src=&quot;images/slack.png&quot; alt=&quot;images/slack.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;In the context of meetings, it’s important to also cover off collaboration tools. I’ve written about &lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;collaboration tools every startup should consider&lt;/a&gt;&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, but I’ll  call out some of the newer ones that are arrived since then.&lt;/p&gt;
+&lt;p&gt;In the context of meetings, it’s important to also cover off collaboration tools. I’ve written about &lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;collaboration tools every startup should consider&lt;/a&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, but I’ll  call out some of the newer ones that are arrived since then.&lt;/p&gt;
 
 &lt;p&gt;While you may be able to get by with with Skype or other similar general consumer chat apps, most startups I know are using either Campfire, Hipchat or Slack. In our case, we’ve made Slack the primary. I’ve literally gone through weeks without having had to have exchanged emails with my colleagues.&lt;/p&gt;
 
@@ -1180,7 +1112,7 @@
 
 &lt;h3 id=&quot;keep-conversations-effective&quot;&gt;Keep conversations effective&lt;/h3&gt;
 
-&lt;p&gt;And here’s a few tips from Sean Blanda&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; on keeping the conversations as useful as possible.&lt;/p&gt;
+&lt;p&gt;And here’s a few tips from Sean Blanda&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; on keeping the conversations as useful as possible.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;There is no judging in brainstorming. Focus on capturing ideas before filtering and critiquing them.&lt;/li&gt;
@@ -1263,37 +1195,37 @@
 
 &lt;p&gt;If you are at a startup, how do you structure your meetings? I’d love to hear what you do, and see if we can learn from your experiences. Chime in via the comments, or drop me a note on &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.mindtools.com/CommSkll/RunningMeetings.htm&quot;&gt;Running Effective Meetings&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.mindtools.com/CommSkll/RunningMeetings.htm&quot;&gt;Running Effective Meetings&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.businessinsider.com/how-to-run-effective-company-meetings-at-your-startup-avoid-a-revivalist-approach-2011-4&quot;&gt;How To Run Effective Company Meetings At Your Startup - Avoid A Revivalist Approach&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.businessinsider.com/how-to-run-effective-company-meetings-at-your-startup-avoid-a-revivalist-approach-2011-4&quot;&gt;How To Run Effective Company Meetings At Your Startup - Avoid A Revivalist Approach&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;Collaboration Tools Every Startup Should Consider&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://arg0s.in/ten-collaboration-tools-every-tech-startup-should-consider.html&quot;&gt;Collaboration Tools Every Startup Should Consider&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://99u.com/articles/7220/how-to-run-your-meetings-like-apple-and-google&quot;&gt;How to run your meetings like Apple and Google&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://99u.com/articles/7220/how-to-run-your-meetings-like-apple-and-google&quot;&gt;How to run your meetings like Apple and Google&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/running-efficient-meetings-at-your-startup.html&quot;&gt;Running Effective Meetings At Your Startup&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 14, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/running-efficient-meetings-at-your-startup.html&quot;&gt;Running Effective Meetings At Your Startup&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on May 14, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Unending Love, Audrey Hepburn's Favorite Poem by Rabindranath Tagore]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/unending-love-audrey-hepburn-rabindranath-tagore.html" />
-  <id>http://arg0s.in/unending-love-audrey-hepburn-rabindranath-tagore</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/unending-love-audrey-hepburn-rabindranath-tagore.html" />
+  <id>http://localhost:4000/unending-love-audrey-hepburn-rabindranath-tagore</id>
   <published>2014-05-04T00:00:00+00:00</published>
   <updated>2014-05-04T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
   &lt;header&gt;
@@ -1301,11 +1233,11 @@
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#audrey-hepburns-favorite-poem&quot;&gt;Audrey Hepburn’s Favorite Poem&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-full-poem&quot;&gt;The Full Poem&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#gregory-peck-reads-unending-love&quot;&gt;Gregory Peck reads Unending Love&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#audrey-the-humanitarian&quot;&gt;Audrey the Humanitarian&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#ma-belle&quot;&gt;Ma Belle&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#audrey-hepburns-favorite-poem&quot; id=&quot;markdown-toc-audrey-hepburns-favorite-poem&quot;&gt;Audrey Hepburn’s Favorite Poem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-full-poem&quot; id=&quot;markdown-toc-the-full-poem&quot;&gt;The Full Poem&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#gregory-peck-reads-unending-love&quot; id=&quot;markdown-toc-gregory-peck-reads-unending-love&quot;&gt;Gregory Peck reads Unending Love&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#audrey-the-humanitarian&quot; id=&quot;markdown-toc-audrey-the-humanitarian&quot;&gt;Audrey the Humanitarian&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#ma-belle&quot; id=&quot;markdown-toc-ma-belle&quot;&gt;Ma Belle&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -1317,12 +1249,12 @@
 &lt;figure class=&quot;half&quot;&gt;
     &lt;a href=&quot;/images/hepburn.jpg&quot;&gt;&lt;img src=&quot;/images/hepburn.jpg&quot; /&gt;&lt;/a&gt;
     &lt;a href=&quot;/images/tagore.jpg&quot;&gt;&lt;img src=&quot;/images/tagore.jpg&quot; /&gt;&lt;/a&gt;
-    &lt;figcaption&gt;Tagore wrote Audrey Hepburn&#39;s favorite poem&lt;/figcaption&gt;
+    &lt;figcaption&gt;Tagore wrote Audrey Hepburn's favorite poem&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;audrey-hepburns-favorite-poem&quot;&gt;Audrey Hepburn’s Favorite Poem&lt;/h2&gt;
 
-&lt;p&gt;As Google celebrates Audrey Hepburn’s&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; birthday with this lovely doodle&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, it’s worth re-reading one of her favorite poems by Rabindranath Tagore &lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, Unending Love.&lt;/p&gt;
+&lt;p&gt;As Google celebrates Audrey Hepburn’s&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; birthday with this lovely doodle&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, it’s worth re-reading one of her favorite poems by Rabindranath Tagore &lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, Unending Love.&lt;/p&gt;
 
 &lt;p&gt;It’s a lovely little piece where Tagore subtly immerses the reader in experiences of love.&lt;/p&gt;
 
@@ -1340,7 +1272,7 @@ The love of all man’s days both past and forever:&lt;/p&gt;
 
 &lt;h2 id=&quot;the-full-poem&quot;&gt;The Full Poem&lt;/h2&gt;
 
-&lt;p&gt;Here’s the full poem, translated from the original Bengali by William Radice&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. William was an English poet who spent decades with Tagore, developing a deep understanding of his work, and honed techniques for translation into English which retained the power of the original prose.&lt;/p&gt;
+&lt;p&gt;Here’s the full poem, translated from the original Bengali by William Radice&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;. William was an English poet who spent decades with Tagore, developing a deep understanding of his work, and honed techniques for translation into English which retained the power of the original prose.&lt;/p&gt;
 
 &lt;pre&gt;
 Unending Love
@@ -1377,14 +1309,16 @@ And the songs of every poet past and forever.
 
 &lt;figure&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/DL_yVhwxCSY?hd=1&amp;amp;rel=0&amp;amp;autohide=1&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
-&lt;figcaption&gt;After Audrey&#39;s death, Gregory Peck reads out her favorite poems.&lt;/figcaption&gt;
+&lt;figcaption&gt;After Audrey's death, Gregory Peck reads out her favorite poems.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h3 id=&quot;audrey-the-humanitarian&quot;&gt;Audrey the Humanitarian&lt;/h3&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;“As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.”
-- Audrey Hepburn&lt;/p&gt;
+  &lt;p&gt;“As you grow older, you will discover that you have two hands, one for helping yourself, the other for helping others.”&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Audrey Hepburn&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;&lt;img src=&quot;images/audrey-2hands.jpg&quot; alt=&quot;images/audrey-2hands.jpg&quot; /&gt;&lt;/p&gt;
@@ -1395,37 +1329,37 @@ And the songs of every poet past and forever.
 
 &lt;p&gt;&lt;img src=&quot;/images/ma_belle.jpg&quot; alt=&quot;/images/ma_belle.jpg&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Audrey_Hepburn&quot;&gt;Audrey Hepburn&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Audrey_Hepburn&quot;&gt;Audrey Hepburn&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.mirror.co.uk/news/world-news/audrey-hepburn-google-celebrates-hollywood-3493881&quot;&gt;Google’s Doodle for Audrey Hepburn&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.mirror.co.uk/news/world-news/audrey-hepburn-google-celebrates-hollywood-3493881&quot;&gt;Google’s Doodle for Audrey Hepburn&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Rabindranath_Tagore&quot;&gt;Rabindranath Tagore&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Rabindranath_Tagore&quot;&gt;Rabindranath Tagore&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.goodreads.com/author/list/96721.William_Radice&quot;&gt;William Radice&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.goodreads.com/author/list/96721.William_Radice&quot;&gt;William Radice&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/unending-love-audrey-hepburn-rabindranath-tagore.html&quot;&gt;Unending Love, Audrey Hepburn's Favorite Poem by Rabindranath Tagore&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/unending-love-audrey-hepburn-rabindranath-tagore.html&quot;&gt;Unending Love, Audrey Hepburn's Favorite Poem by Rabindranath Tagore&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on May 04, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[A Checklist of Lean Startup Customer Development Interview Questions]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/lean-startup-customer-development-interviews.html" />
-  <id>http://arg0s.in/lean-startup-customer-development-interviews</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/lean-startup-customer-development-interviews.html" />
+  <id>http://localhost:4000/lean-startup-customer-development-interviews</id>
   <published>2014-04-29T00:00:00+00:00</published>
   <updated>2014-04-29T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
 	&lt;header&gt;
@@ -1433,17 +1367,17 @@ And the songs of every poet past and forever.
 	&lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#personas-and-segmentation&quot;&gt;Personas and Segmentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#open-discovery&quot;&gt;Open Discovery&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#probe&quot;&gt;Probe&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#quantify&quot;&gt;Quantify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#personas-and-segmentation&quot; id=&quot;markdown-toc-personas-and-segmentation&quot;&gt;Personas and Segmentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#open-discovery&quot; id=&quot;markdown-toc-open-discovery&quot;&gt;Open Discovery&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#probe&quot; id=&quot;markdown-toc-probe&quot;&gt;Probe&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#quantify&quot; id=&quot;markdown-toc-quantify&quot;&gt;Quantify&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#jumping-into-validation&quot;&gt;Jumping Into Validation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#closure&quot;&gt;Closure&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#pitfalls--tips&quot;&gt;Pitfalls &amp;amp; Tips&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#using-turk&quot;&gt;Using Turk&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#disruption&quot;&gt;Disruption&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#jumping-into-validation&quot; id=&quot;markdown-toc-jumping-into-validation&quot;&gt;Jumping Into Validation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#closure&quot; id=&quot;markdown-toc-closure&quot;&gt;Closure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#pitfalls--tips&quot; id=&quot;markdown-toc-pitfalls--tips&quot;&gt;Pitfalls &amp;amp; Tips&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#using-turk&quot; id=&quot;markdown-toc-using-turk&quot;&gt;Using Turk&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#disruption&quot; id=&quot;markdown-toc-disruption&quot;&gt;Disruption&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
@@ -1456,7 +1390,7 @@ And the songs of every poet past and forever.
 Read the follow on post on &lt;a href=&quot;http://arg0s.in/why-lean-startup-is-hard-in-practice.html&quot;&gt;Why Lean Startup Is Hard In Practice&lt;/a&gt;, that’s part of an ongoing series on this blog.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;In a &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;recent post&lt;/a&gt;, I covered off learnings from an MVP we built out for charades online&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The post was quite popular, and made it to page one of Hacker News and Reddit, bringing in over 25,000 hits in a week. I learnt tons from comments and feedback from people, and also got to know a number of amazing people around the world like &lt;a href=&quot;http://twitter.com/skmurphy&quot;&gt;@skmurphy&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/trikro&quot;&gt;@trikro&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/spikelab&quot;&gt;@spikelabs&lt;/a&gt; who are applying lean to their ventures. Closer to home, I had great conversations with &lt;a href=&quot;http://twitter.com/mtrajan&quot;&gt;@mtrajan&lt;/a&gt; and others that are a part of the local lean startup circle.&lt;/p&gt;
+&lt;p&gt;In a &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;recent post&lt;/a&gt;, I covered off learnings from an MVP we built out for charades online&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The post was quite popular, and made it to page one of Hacker News and Reddit, bringing in over 25,000 hits in a week. I learnt tons from comments and feedback from people, and also got to know a number of amazing people around the world like &lt;a href=&quot;http://twitter.com/skmurphy&quot;&gt;@skmurphy&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/trikro&quot;&gt;@trikro&lt;/a&gt; and &lt;a href=&quot;http://twitter.com/spikelab&quot;&gt;@spikelabs&lt;/a&gt; who are applying lean to their ventures. Closer to home, I had great conversations with &lt;a href=&quot;http://twitter.com/mtrajan&quot;&gt;@mtrajan&lt;/a&gt; and others that are a part of the local lean startup circle.&lt;/p&gt;
 
 &lt;p&gt;I realized that there were certain things that came naturally to me, but are areas which some people tend to get stuck at. I’m going to expand on the &lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;original post&lt;/a&gt; to dive into a few of them in the interest of sharing and continuing to &lt;a href=&quot;http://steveblank.com/2011/09/15/the-pay-it-forward-culture/&quot;&gt;learn from each other&lt;/a&gt;.&lt;/p&gt;
 
@@ -1484,7 +1418,7 @@ Read the follow on post on &lt;a href=&quot;http://arg0s.in/why-lean-startup-is-
 
 &lt;h2 id=&quot;personas-and-segmentation&quot;&gt;Personas and Segmentation&lt;/h2&gt;
 
-&lt;p&gt;The objective here is to get a general introduction to the person and see if they matches up against the personas or customer segments that we’ve identified. Note that personas and segmentations are not the same&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and you’ll likely care more about personas at this stage. Personas are more representative of &lt;em&gt;behavioral&lt;/em&gt; patterns&lt;sup id=&quot;fnref:3&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, and provides deeper insight into why someone may need your product. You would want to ensure you’ve identified these before you jump into talking to people.&lt;/p&gt;
+&lt;p&gt;The objective here is to get a general introduction to the person and see if they matches up against the personas or customer segments that we’ve identified. Note that personas and segmentations are not the same&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;, and you’ll likely care more about personas at this stage. Personas are more representative of &lt;em&gt;behavioral&lt;/em&gt; patterns&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, and provides deeper insight into why someone may need your product. You would want to ensure you’ve identified these before you jump into talking to people.&lt;/p&gt;
 
 &lt;p&gt;Here’s a possible set of open questions to break the ice and get a conversation started.&lt;/p&gt;
 
@@ -1513,13 +1447,13 @@ Read the follow on post on &lt;a href=&quot;http://arg0s.in/why-lean-startup-is-
   &lt;li&gt;Why?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;There’s really only &lt;em&gt;one&lt;/em&gt; question&lt;sup id=&quot;fnref:4&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; here that you need to keep asking. Attempt to get to the root of why there is an underlying problem.&lt;/p&gt;
+&lt;p&gt;There’s really only &lt;em&gt;one&lt;/em&gt; question&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; here that you need to keep asking. Attempt to get to the root of why there is an underlying problem.&lt;/p&gt;
 
 &lt;p&gt;I’ll be honest in saying that this was hard, especially since the conversation can get a bit uncomfortable. I’m trying not to shy away from asking these hard questions, since they ensure I’m not double thinking on behalf of the user.&lt;/p&gt;
 
 &lt;h3 id=&quot;quantify&quot;&gt;Quantify&lt;/h3&gt;
 
-&lt;p&gt;Get a sense of how deep the problem is, and size the opportunity &lt;sup id=&quot;fnref:5&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;p&gt;Get a sense of how deep the problem is, and size the opportunity &lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;How much of a problem is that?&lt;/li&gt;
@@ -1591,68 +1525,41 @@ Read the follow on post on &lt;a href=&quot;http://arg0s.in/why-lean-startup-is-
 
 &lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;br /&gt;
 Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.in/running-efficient-meetings-at-your-startup.html&quot;&gt;how we’re improving how we run our meetings effectively at our startup&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;What We Learnt From A Failed MVP&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;What We Learnt From A Failed MVP&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.foolproof.co.uk/insight/blog/why-market-segmentation-is-not-the-same-as-personas/&quot;&gt;Why Market Segmentation Is Not The Same As Personas&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.foolproof.co.uk/insight/blog/why-market-segmentation-is-not-the-same-as-personas/&quot;&gt;Why Market Segmentation Is Not The Same As Personas&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://www.cooper.com/journal/2001/08/perfecting_your_personas.html&quot;&gt;Perfecting Your Personas&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://www.cooper.com/journal/2001/08/perfecting_your_personas.html&quot;&gt;Perfecting Your Personas&lt;/a&gt; &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/5_Whys&quot;&gt;The 5 Whys&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/5_Whys&quot;&gt;The 5 Whys&lt;/a&gt; &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2058&quot;&gt;The Customer Development Process&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://ecorner.stanford.edu/authorMaterialInfo.html?mid=2058&quot;&gt;The Customer Development Process&lt;/a&gt; &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/lean-startup-customer-development-interviews.html&quot;&gt;A Checklist of Lean Startup Customer Development Interview Questions&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 29, 2014.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Seth Godin on Not Reinventing the Wheel]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/seth-on-not-reinventing-the-wheel.html" />
-  <id>http://arg0s.in/seth-on-not-reinventing-the-wheel</id>
-  <published>2014-04-20T00:00:00+00:00</published>
-  <updated>2014-04-20T00:00:00+00:00</updated>
-  <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
-  </author>
-  <content type="html">&lt;p&gt;&lt;img src=&quot;/images/seth-godin.jpg&quot; alt=&quot;/images/seth-godin.jpg&quot; /&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Steal your business model. We don’t have a shortage of business models, it’s okay if you pick one that’s already working for someone else.
-When it comes down to the thing you will be known for, your uniqueness, your gift, your thing worth talking about–don’t steal that.
-For the rest, honor those that came before and use their work as a building block for yours.&lt;/p&gt;
-
-  &lt;p&gt;Seth Godin&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A succinct gem by Seth Godin on why it’s time we stopped reinventing the wheel. &lt;a href=&quot;http://sethgodin.typepad.com/seths_blog/2014/04/steal-dont-invent.html&quot;&gt;See original article&lt;/a&gt;.&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/seth-on-not-reinventing-the-wheel.html&quot;&gt;Seth Godin on Not Reinventing the Wheel&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 20, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/lean-startup-customer-development-interviews.html&quot;&gt;A Checklist of Lean Startup Customer Development Interview Questions&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on April 29, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How I Lost Ten Kilos In A Year]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/how-i-lost-ten-kilos-in-a-year.html" />
-  <id>http://arg0s.in/how-i-lost-ten-kilos-in-a-year</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/how-i-lost-ten-kilos-in-a-year.html" />
+  <id>http://localhost:4000/how-i-lost-ten-kilos-in-a-year</id>
   <updated>2014-04-15T00:00:00-00:00</updated>
   <published>2014-04-15T00:00:00+00:00</published>
   
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
   &lt;header&gt;
@@ -1660,20 +1567,20 @@ For the rest, honor those that came before and use their work as a building bloc
   &lt;/header&gt;
 &lt;div id=&quot;drawer&quot;&gt;
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#then-and-now&quot;&gt;Then and Now&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#why-you-should-read-this&quot;&gt;Why you should read this&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ah-food&quot;&gt;Ah, Food!&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#getting-started&quot;&gt;Getting Started&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#my-exercise-routine&quot;&gt;My exercise routine.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#then-and-now&quot; id=&quot;markdown-toc-then-and-now&quot;&gt;Then and Now&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#why-you-should-read-this&quot; id=&quot;markdown-toc-why-you-should-read-this&quot;&gt;Why you should read this&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ah-food&quot; id=&quot;markdown-toc-ah-food&quot;&gt;Ah, Food!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#getting-started&quot; id=&quot;markdown-toc-getting-started&quot;&gt;Getting Started&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#my-exercise-routine&quot; id=&quot;markdown-toc-my-exercise-routine&quot;&gt;My exercise routine.&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#food-intake&quot;&gt;Food Intake&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-hockey-stick-effect&quot;&gt;The Hockey Stick Effect&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#slowing-down&quot;&gt;Slowing Down&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a-typical-day&quot;&gt;A Typical Day&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#losing-10-kilos&quot;&gt;Losing 10 Kilos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#when-things-went-wrong&quot;&gt;When Things Went Wrong&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#happiness&quot;&gt;Happiness&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#food-intake&quot; id=&quot;markdown-toc-food-intake&quot;&gt;Food Intake&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-hockey-stick-effect&quot; id=&quot;markdown-toc-the-hockey-stick-effect&quot;&gt;The Hockey Stick Effect&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#slowing-down&quot; id=&quot;markdown-toc-slowing-down&quot;&gt;Slowing Down&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-typical-day&quot; id=&quot;markdown-toc-a-typical-day&quot;&gt;A Typical Day&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#losing-10-kilos&quot; id=&quot;markdown-toc-losing-10-kilos&quot;&gt;Losing 10 Kilos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#when-things-went-wrong&quot; id=&quot;markdown-toc-when-things-went-wrong&quot;&gt;When Things Went Wrong&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#happiness&quot; id=&quot;markdown-toc-happiness&quot;&gt;Happiness&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;/div&gt;
@@ -1699,7 +1606,7 @@ For the rest, honor those that came before and use their work as a building bloc
   &lt;figcaption&gt;You get the picture.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;The other factor that made all of this challenging? I love food. Remember Remy&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; from Ratatouille, and those moments of explosions in his mind as he combines different flavors? Well, that’s me. I used to write a popular food blog a while back, and checking off new restaurants that had opened up in the city used to be a weekly routine. I still wanted to enjoy the good life, and eat all the things I love. And not have to starve myself or live on salads on boiled vegetables just in order to tilt the scales a bit.&lt;/p&gt;
+&lt;p&gt;The other factor that made all of this challenging? I love food. Remember Remy&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; from Ratatouille, and those moments of explosions in his mind as he combines different flavors? Well, that’s me. I used to write a popular food blog a while back, and checking off new restaurants that had opened up in the city used to be a weekly routine. I still wanted to enjoy the good life, and eat all the things I love. And not have to starve myself or live on salads on boiled vegetables just in order to tilt the scales a bit.&lt;/p&gt;
 
 &lt;h2 id=&quot;getting-started&quot;&gt;Getting Started&lt;/h2&gt;
 
@@ -1831,63 +1738,37 @@ For the rest, honor those that came before and use their work as a building bloc
 
 &lt;p class=&quot;notice&quot;&gt;So, stay &lt;em&gt;true&lt;/em&gt; to your goals. But don’t let &lt;em&gt;happiness&lt;/em&gt; get out of sight.&lt;/p&gt;
 
-&lt;div class=&quot;footnotes&quot;&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot;&gt;
-      &lt;p&gt;Image courtesy Disney/Pixar, from the motion picture Ratatouille. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Image courtesy Disney/Pixar, from the motion picture Ratatouille. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
 &lt;/div&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/how-i-lost-ten-kilos-in-a-year.html&quot;&gt;How I Lost Ten Kilos In A Year&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 15, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/how-i-lost-ten-kilos-in-a-year.html&quot;&gt;How I Lost Ten Kilos In A Year&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on April 15, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What We Learnt From A Failed MVP (Lean Startup)]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/what-we-learnt-from-a-failed-mvp.html" />
-  <id>http://arg0s.in/what-we-learnt-from-a-failed-mvp</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/what-we-learnt-from-a-failed-mvp.html" />
+  <id>http://localhost:4000/what-we-learnt-from-a-failed-mvp</id>
   <updated>2014-04-14T00:00:00-00:00</updated>
   <published>2014-04-11T00:00:00+00:00</published>
   
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
-  <content type="html">&lt;section id=&quot;table-of-contents&quot; class=&quot;toc&quot;&gt;
-  &lt;header&gt;
-    &lt;h3&gt;Contents&lt;/h3&gt;
-  &lt;/header&gt;
-&lt;div id=&quot;drawer&quot;&gt;
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#initial-vision&quot;&gt;Initial Vision&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#the-big-ifs&quot;&gt;The Big IFs&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hypothesis-1&quot;&gt;Hypothesis 1&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hypothesis-2&quot;&gt;Hypothesis 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hypothesis-3&quot;&gt;Hypothesis 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hypothesis-4&quot;&gt;Hypothesis 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hypothesis-5&quot;&gt;Hypothesis 5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-conundrum&quot;&gt;The Conundrum&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#what-we-did-well&quot;&gt;What we did well&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#what-we-could-have-done-better&quot;&gt;What we could have done better&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#was-this-a-failed-mvp&quot;&gt;Was this a ‘failed’ MVP?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#the-decision&quot;&gt;The Decision&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;/div&gt;
-&lt;/section&gt;
-&lt;!-- /#table-of-contents --&gt;
-
-&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;br /&gt;
+  <content type="html">&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;UPDATE&lt;/strong&gt;&lt;br /&gt;
 Read the follow on post on &lt;a href=&quot;http://arg0s.in/lean-startup-customer-development-interviews.html&quot;&gt;lean startup customer development interview questions&lt;/a&gt;, that’s part of an ongoing series on this blog.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.fastcompany.com/1826976/dirty-little-secret-overnight-successes&quot;&gt;Rovio tried 51 games before hitting upon Angry Birds&lt;/a&gt;. We tend to hear a lot more about the chart busting numbers of Angry Birds than the struggles of the previous 51 games. In my opinion, their success was the &lt;em&gt;journey&lt;/em&gt; of the &lt;em&gt;52&lt;/em&gt; experiments, and &lt;em&gt;not&lt;/em&gt; just the final one.&lt;/p&gt;
 
-&lt;p&gt;We at &lt;a href=&quot;http://www.levitum.com&quot;&gt;Levitum&lt;/a&gt; recently had learnings from an MVP that we put out, and experiments that we ran. In the spirit of openly sharing how I’ve tried to apply Lean Startup principles to a new venture, I’m going to outline how we went about things, and what I’ve learnt.&lt;/p&gt;
+&lt;p&gt;We at Levitum recently had learnings from an MVP that we put out, and experiments that we ran. In the spirit of openly sharing how I’ve tried to apply Lean Startup principles to a new venture, I’m going to outline how we went about things, and what I’ve learnt.&lt;/p&gt;
 
 &lt;h2 id=&quot;initial-vision&quot;&gt;Initial Vision&lt;/h2&gt;
 
@@ -2233,20 +2114,20 @@ Are there things that you think we could have done differently? Chime in via the
 &lt;strong&gt;UPDATE&lt;/strong&gt;&lt;br /&gt;
 Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.in/lean-startup-customer-development-interviews.html&quot;&gt;lean startup customer development interview questions&lt;/a&gt;.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/what-we-learnt-from-a-failed-mvp.html&quot;&gt;What We Learnt From A Failed MVP (Lean Startup)&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/what-we-learnt-from-a-failed-mvp.html&quot;&gt;What We Learnt From A Failed MVP (Lean Startup)&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on April 11, 2014.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Five Most Popular Amul Ads Of 2013]]></title>
-  <link rel="alternate" type="text/html" href="http://arg0s.in/five-most-popular-amul-ads-of-2013.html" />
-  <id>http://arg0s.in/five-most-popular-amul-ads-of-2013</id>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/five-most-popular-amul-ads-of-2013.html" />
+  <id>http://localhost:4000/five-most-popular-amul-ads-of-2013</id>
   <published>2014-04-09T00:00:00+00:00</published>
   <updated>2014-04-09T00:00:00+00:00</updated>
   <author>
-    <name>Arvi Krishnaswamy</name>
-    <uri>http://arg0s.in</uri>
-    <email>arvi@alumni.iastate.edu</email>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
   </author>
   <content type="html">&lt;p&gt;Wonder what the most popular Amul Ads of 2013 were?  Well, here’s a quick round up of the top 5.&lt;/p&gt;
 
@@ -2259,34 +2140,190 @@ Also, you may want to read the follow on post on &lt;a href=&quot;http://arg0s.i
 
 &lt;p class=&quot;notice&quot;&gt;Quiz Time! Guess what each ads is about in the comments. Answers will be updated shortly.&lt;/p&gt;
 
-&lt;h2 id=&quot;sir-aankhon-par&quot;&gt;5. “Sir… aankhon par!”&lt;/h2&gt;
+&lt;h2 id=&quot;5-sir-aankhon-par&quot;&gt;5. “Sir… aankhon par!”&lt;/h2&gt;
 &lt;figure&gt;
   &lt;img src=&quot;/images/amul5.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;h2 id=&quot;aa-balle-mujhe-maar&quot;&gt;4. “Aa Balle Mujhe Maar!”&lt;/h2&gt;
+&lt;h2 id=&quot;4-aa-balle-mujhe-maar&quot;&gt;4. “Aa Balle Mujhe Maar!”&lt;/h2&gt;
 &lt;figure&gt;
   &lt;img src=&quot;/images/amul4.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;h2 id=&quot;patekar-says-na-na-to-baba&quot;&gt;3. “Patekar Says Na-Na to Baba!”&lt;/h2&gt;
+&lt;h2 id=&quot;3-patekar-says-na-na-to-baba&quot;&gt;3. “Patekar Says Na-Na to Baba!”&lt;/h2&gt;
 &lt;figure&gt;
   &lt;img src=&quot;/images/amul3.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;h2 id=&quot;x-ten-dulkar&quot;&gt;2. “4 x Ten dulkar!”&lt;/h2&gt;
+&lt;h2 id=&quot;2-4-x-ten-dulkar&quot;&gt;2. “4 x Ten dulkar!”&lt;/h2&gt;
 &lt;figure&gt;
   &lt;img src=&quot;/images/amul2.jpg&quot; /&gt;
 &lt;/figure&gt;
 
-&lt;h2 id=&quot;gayle-khel-mein&quot;&gt;1. “Gayle Khel Mein!”&lt;/h2&gt;
+&lt;h2 id=&quot;1-gayle-khel-mein&quot;&gt;1. “Gayle Khel Mein!”&lt;/h2&gt;
 &lt;figure&gt;
   &lt;img src=&quot;/images/amul1.jpg&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p class=&quot;notice&quot;&gt;Quiz Time! Guess what each ads is about in the comments. Answers will be updated shortly.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://arg0s.in/five-most-popular-amul-ads-of-2013.html&quot;&gt;Five Most Popular Amul Ads Of 2013&lt;/a&gt; was originally published by Arvi Krishnaswamy at &lt;a href=&quot;http://arg0s.in&quot;&gt;Arvi's Blog&lt;/a&gt; on April 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/five-most-popular-amul-ads-of-2013.html&quot;&gt;Five Most Popular Amul Ads Of 2013&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on April 09, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Applying Lean Startup Principles To Mobile App Development]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development.html" />
+  <id>http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development</id>
+  <updated>2014-04-05T00:00:00-00:00</updated>
+  <published>2014-04-05T00:00:00+00:00</published>
+  
+  <author>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;I attended &lt;a href=&quot;http://www.droidsync.in&quot;&gt;DroidSync&lt;/a&gt;, an event organized in Mumbai by my friend &lt;a href=&quot;http://www.twitter.com/prajyotm&quot;&gt;Prajyot Mainkar&lt;/a&gt; of &lt;a href=&quot;http://www.androcid.com&quot;&gt;Androcid&lt;/a&gt; for app developers and entrepreneurs. I presented a session in the Business Track about applying Lean Startup principles to Mobile App Development.&lt;/p&gt;
+
+&lt;p&gt;Read on for a quick abstract, and my slides futher below.&lt;/p&gt;
+
+&lt;h2 id=&quot;your-new-app-idea-is-one-in-a-million&quot;&gt;Your New App Idea is One in a Million&lt;/h2&gt;
+
+&lt;p&gt;You’ve got this great new idea, but your idea literally is one in a million. There’s a million other apps on the iTunes and Play Store, and over a billion downloads. 99% of the apps are downloaded &amp;lt; 1000 times, and are launched just once.&lt;/p&gt;
+
+&lt;p&gt;Put another way, those numbers no longer have any meaning. It’s a massive junk pile of apps that solve problems no one has, or ever will.&lt;/p&gt;
+
+&lt;p&gt;In the last three years that I’ve been the Program Chair for Droidcon, I’ve noticed this pattern repeat itself with a number of app developers. We’d rather spend hours polishing our app icon than talking to real users to ensure that we are really addressing a problem they have. There’s certainly exceptions, and there are a few outstanding app entrepreneurs around. But lets be honest - they are a minority.&lt;/p&gt;
+
+&lt;h2 id=&quot;avoid-the-junk-pile&quot;&gt;Avoid the Junk Pile&lt;/h2&gt;
+
+&lt;p&gt;What can you do to avoid your app ending up in the same trash can? Well, there’s no silver bullet for sure, but my learning has been that applying Lean Startup principles to Mobile App Development can help. These principles provide a structured approach to experimentation, customer development, and learning. They will help you ensure that what you are building is what someone out there &lt;em&gt;really wants&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;be-a-lean-mobile-startup&quot;&gt;Be a Lean Mobile Startup&lt;/h2&gt;
+
+&lt;p&gt;My slides also cover off a few tips to work around common objections to applying lean to mobile app dev such as longer dev cycles, the need for a big bang app launch to get higher rankings and wider distribution, and a lack of A/B testing and cohorts analysis tools.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe src=&quot;http://www.slideshare.net/slideshow/embed_code/35200281&quot; width=&quot;100%&quot; height=&quot;auto&quot; id=&quot;iframe1&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; onload=&quot;autoResize('iframe1');&quot;&gt;&lt;/iframe&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Got feedback or other ideas about how you’ve applied lean to your app development? Chime in in the comments below. Or, &lt;a href=&quot;http://twitter.com/twitortat&quot;&gt;Follow me on Twitter&lt;/a&gt; for more updates and discussions.&lt;/p&gt;
+
+&lt;p&gt;My thanks for inputs &amp;amp; ideas that have contributed to these slides go to: &lt;a href=&quot;http://www.twitter.com/ashmaurya&quot;&gt;@ashmaurya&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/mtrajan&quot;&gt;@mtrajan&lt;/a&gt;, my team at &lt;a href=&quot;http://www.levitum.in&quot;&gt;Levitum&lt;/a&gt; and various members of the &lt;a href=&quot;http://www.twitter.com/droidconIN&quot;&gt;@droidconIN&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/pncamp&quot;&gt;@pncamp&lt;/a&gt; and &lt;a href=&quot;http://www.twitter.com/blrdroid&quot;&gt;@blrdroid&lt;/a&gt; communities.&lt;/p&gt;
+
+&lt;p&gt;Also a big shout out to the other awesome speakers &lt;a href=&quot;http://twitter.com/amsanjeev&quot;&gt;Amrit&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/ravivyas84&quot;&gt;Ravi&lt;/a&gt;, &lt;a href=&quot;http://twitter.com/PG1O1&quot;&gt;Prateek&lt;/a&gt;, Garima, Boaz, and Santosh. The highlight of the day for me was the time we spent having an open chat with the audience from the stage. And thanks once again for Androcid for pulling off a great event, and wonderful hospitality. They also organized NitroDroid in Goa, and doing a great job broadening and enabling the ecosystem.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/applying-lean-startup-principles-to-mobile-app-development.html&quot;&gt;Applying Lean Startup Principles To Mobile App Development&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on April 05, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Three Tennis Serve Tips I Wish I Had Known Earlier]]></title>
+  <link rel="alternate" type="text/html" href="http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier.html" />
+  <id>http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier</id>
+  <published>2014-01-10T00:00:00+00:00</published>
+  <updated>2014-01-10T00:00:00+00:00</updated>
+  <author>
+    <name></name>
+    <uri>http://localhost:4000</uri>
+    <email></email>
+  </author>
+  <content type="html">&lt;p&gt;When I watch Roger Federer serve, his fluid brilliance is incredibly captivating. Balanced and relaxed start position. Check. Graceful rocking motion. Check. Rapid arm pronation. Check. Explosion at contact. Check. It’s poetry in motion.&lt;/p&gt;
+
+&lt;p&gt;If you’d watch me serve a year back, my inconsistency was jarring. My toss would floats up to a different place every time, as if carried by a sudden gust of wind. I would move my right foot as if I’m kick starting a motorbike. As my serve would start to falter, I’d start to toss the ball higher and try hitting it harder, as if that would magically start to work some magic.&lt;/p&gt;
+
+&lt;p&gt;And that’s when I discovered set of marvellous YouTube videos that helped me tune my technique.&lt;/p&gt;
+
+&lt;p&gt;My serve isn’t terrific yet, but there’s a marked improvement. I’m more fluid and relaxed. The toss is more consistent. I’m able to consistently get a mix of flat, top spin and slice serves in and mix up the placement for some variety.&lt;/p&gt;
+
+&lt;p&gt;There’s a few things that I learnt along the way that may help you. I’ve consolidated the videos around these learnings to make this a lot easier for you to follow along.&lt;/p&gt;
+
+&lt;h2 id=&quot;1-dont-toss-the-ball&quot;&gt;#1. Don’t Toss the Ball&lt;/h2&gt;
+
+&lt;p&gt;Counter intuitive as it may seem, one of the main challenges I’d had all along was that I was &lt;em&gt;tossing&lt;/em&gt; the ball in the air. Inadvertently, I was using my wrist or elbow which ended up making the ball move around.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/CnMolTSCUqo&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Roger in full fluid motion.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The key lessons to learn here are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Don’t bend the elbow on the toss&lt;/li&gt;
+  &lt;li&gt;Keep your wrist relaxed&lt;/li&gt;
+  &lt;li&gt;Remember that when you release the ball you must &lt;em&gt;not&lt;/em&gt; impart any additional momentum to it - the ball release is just an extension of the upward movement of your arm.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ZTg9gpMtAmw&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Here's another one on the toss position for different types of serves.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;One great tip that helped me was to switch how I held the ball. Earlier, I used to hold the ball with my finger tips. I struggled with this, since I invariably imparted some momentum or spin with my fingers or wrist. Instead, I switched to a new toss grip which locked my wrist. I started to hold the ball the way I’d hold an ice cream cone.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-b-the-ice-cream-cone-release&quot;&gt;#1-b. The Ice Cream Cone Release&lt;/h3&gt;
+
+&lt;p&gt;The idea is simple. Relax your wrist, and hold the ball between your curled forefinger and thumb, just like you’d hold an ice cream cone. As your arm extends upwards, the release is a natural extension of the moment. The cone grip avoids adding momentum across the forward/backward axis since your wrist is locked. For an example, watch the video below of Roger Federer tossing the ball.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/r8Ag2PPam5o&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Pop the cone.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;2-relax-your-wrist&quot;&gt;#2. Relax Your Wrist&lt;/h2&gt;
+
+&lt;p&gt;Most of the other strokes - the forehand, backhand and volleys require that our wrist be firm. And it turns out, there’s a perfectly logical explanation for this. In those cases, the ball is already in motion, and keeping our wrist loose makes it harder for us to control the racquet face at the point of contact. The serve is the one stroke
+where the player has total control (well, once you’ve got a handle on the toss) over the ball position at the point of contact.&lt;/p&gt;
+
+&lt;p&gt;Relaxing your wrist causes the racquet head to gain additional rotation momentum as it heads towards the point of contact. This rotational momentum is what helps generate slight top spin, which keeps a flat serve inside the court.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/EgmNag6Ebyw&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Relax your wrist, and unlock the potential of your serve.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Wait, did I just say a flat serve involves top spin? Yes, I did. The fact is, a tennis player needs to be 7-8 feet tall to hit a &lt;em&gt;flat&lt;/em&gt; serve into the court. All flat serves involve a bit of spin to keep them in.&lt;/p&gt;
+
+&lt;p&gt;Ever heard someone ask you to ‘hit down on the ball’? Well, now you know the physics behind what they were asking you to do. They are right in that this is different from a top spin serve (more on that later), but there’s a certain amount of spin needed to work the magic.&lt;/p&gt;
+
+&lt;p&gt;And that, my friend, is one of the little implicit secrets of the serve.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-dont-hit-through-the-ball---throw-your-racquet-at-it&quot;&gt;#3. Don’t Hit Through The Ball - Throw Your Racquet At It&lt;/h2&gt;
+
+&lt;p&gt;I’d heard this several times before, but I just found it really hard to execute. For the longest time, I’d swing at the ball the same way I would with my forehand or backhand. The racquet face would be open so that I could ensure that I middled the ball in the sweet spot.&lt;/p&gt;
+
+&lt;p&gt;There’s a hard learning for many of us to accept. It’s that we tend to over think many of these things. So I’ll need you to just suspect any analysis in your mind and just hear out what I’ll advice on next.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Quit trying to hit &lt;em&gt;through&lt;/em&gt; the ball.&lt;/li&gt;
+  &lt;li&gt;Throw your racquet at the ball, just like you are throwing a hammer for someone to catch.&lt;/li&gt;
+  &lt;li&gt;Keep your wrist relaxed throughout and do &lt;em&gt;not&lt;/em&gt; consciously rotate the racquet face.
+    &lt;ul&gt;
+      &lt;li&gt;This is &lt;em&gt;really&lt;/em&gt; important, and but it’s hard to get right initially.&lt;/li&gt;
+      &lt;li&gt;You may hit a few balls over the fence, but don’t let that dissuade you.&lt;/li&gt;
+      &lt;li&gt;Keep in mind that you are likely trying to &lt;em&gt;unlearn&lt;/em&gt; what you’ve been doing for a while.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The &lt;em&gt;natural pronation&lt;/em&gt; of your wrist will take care of rotating the racquet face in time to meet the ball with the racquet face facing the court.&lt;/li&gt;
+  &lt;li&gt;Initially, just focus on the biomechanics and rhythm of the movement, and ignore where the ball actually lands. You can work on that easily later once you’ve got the mechanics going.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/Y1C6V_3s4nA&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;Explanation of tennis serve pronation.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What you’ll soon notice is that you’ll start to see much better racquet head speed on your serves, and movement will be more effortless. In fact, if you observe the videos of Sampras serving closely enough, you’ll see how his wrist drops all the way pronated outwards after his ‘snap’.&lt;/p&gt;
+
+&lt;figure&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/4DpptgXq5j4&quot; frameborder=&quot;0&quot;&gt; &lt;/iframe&gt;
+&lt;figcaption&gt;The Sampras serve and pronation in action.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Hope these are useful to you. Please chime in via the comments, or let me know on &lt;a href=&quot;http://www.twitter.com/twitortat&quot;&gt;Twitter&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/three-tennis-serve-tips-i-wish-i-had-known-earlier.html&quot;&gt;Three Tennis Serve Tips I Wish I Had Known Earlier&lt;/a&gt; was originally published by  at &lt;a href=&quot;http://localhost:4000&quot;&gt;Arvi Krishnaswamy&lt;/a&gt; on January 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
